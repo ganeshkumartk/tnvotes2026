@@ -33,8 +33,8 @@ for (const p of tamilPaths) {
   }
 }
 
-const width = 220;
-const height = 56;
+const width = 200;
+const height = 36;
 const canvas = createCanvas(width, height);
 const ctx = canvas.getContext("2d");
 
@@ -43,7 +43,7 @@ ctx.fillStyle = "#111111";
 ctx.textBaseline = "middle";
 ctx.textAlign = "center";
 
-const fontSize = 32;
+const fontSize = 28;
 const tamilText = "தேர்வு";
 const numText = " 2026";
 

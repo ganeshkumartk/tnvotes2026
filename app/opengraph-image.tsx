@@ -108,9 +108,10 @@ export default async function Image() {
             transform: "translateX(-50%)",
             display: "flex",
             alignItems: "center",
-            gap: 8,
+            gap: 4,
             fontSize: 24,
             fontWeight: 400,
+            lineHeight: 1,
             color: "#111111",
             opacity: 0.7,
           }}
@@ -118,9 +119,9 @@ export default async function Image() {
           <img
             src={tamilDataUrl}
             alt="தேர்வு 2026"
-            width={165}
-            height={42}
-            style={{ display: "block", objectFit: "contain" }}
+            width={133}
+            height={24}
+            style={{ display: "block", objectFit: "contain", margin: 0 }}
           />
           <span>·</span>
           <span>Civic awareness tool</span>
