@@ -26,33 +26,33 @@ export default async function Image() {
           fontFamily: "system-ui, sans-serif",
         }}
       >
-        {/* Party gradient dots */}
+        {/* Soft dot-grid texture to match site background */}
+        <div
+          style={{
+            position: "absolute",
+            inset: 0,
+            backgroundImage: "radial-gradient(circle, rgba(17,17,17,0.2) 1px, transparent 1px)",
+            backgroundSize: "24px 24px",
+            opacity: 0.25,
+          }}
+        />
+
+        {/* Brand strip */}
         <div
           style={{
             position: "absolute",
             top: 40,
-            right: 60,
+            left: 48,
             display: "flex",
-            gap: 12,
+            alignItems: "center",
+            gap: 14,
+            border: "3px solid #111111",
+            padding: "10px 16px",
+            background: "rgba(250,217,73,0.92)",
           }}
         >
-          {[
-            "linear-gradient(135deg, #111111 0%, #CC1A1A 100%)",
-            "linear-gradient(135deg, #111111 0%, #BB1A1A 50%, #d0d0d0 100%)",
-            "linear-gradient(135deg, #8B1010 0%, #F5C518 100%)",
-            "linear-gradient(135deg, #FF6000 0%, #FFB800 100%)",
-            "linear-gradient(135deg, #CC0000 0%, #FFD700 100%)",
-          ].map((grad, i) => (
-            <div
-              key={i}
-              style={{
-                width: 16,
-                height: 16,
-                borderRadius: "50%",
-                background: grad,
-              }}
-            />
-          ))}
+          <span style={{ fontSize: 24, fontWeight: 800, letterSpacing: "0.16em", color: "#111111" }}>NAMMA VOTE</span>
+          <span style={{ fontSize: 18, color: "rgba(17,17,17,0.7)" }}>2026</span>
         </div>
 
         {/* Main tagline */}
@@ -61,12 +61,15 @@ export default async function Image() {
             display: "flex",
             flexDirection: "column",
             alignItems: "center",
-            gap: 8,
+            gap: 10,
+            border: "4px solid #111111",
+            padding: "34px 44px",
+            background: "rgba(250,217,73,0.88)",
           }}
         >
           <div
             style={{
-              fontSize: 72,
+              fontSize: 68,
               fontWeight: 300,
               color: "#111111",
               letterSpacing: "-0.04em",
@@ -77,7 +80,7 @@ export default async function Image() {
           </div>
           <div
             style={{
-              fontSize: 88,
+              fontSize: 86,
               fontWeight: 600,
               fontStyle: "italic",
               color: "#111111",
@@ -89,7 +92,7 @@ export default async function Image() {
           </div>
           <div
             style={{
-              fontSize: 48,
+              fontSize: 44,
               fontWeight: 300,
               color: "rgba(17,17,17,0.5)",
               letterSpacing: "-0.02em",
@@ -103,17 +106,20 @@ export default async function Image() {
         <div
           style={{
             position: "absolute",
-            bottom: 60,
+            bottom: 48,
             left: "50%",
             transform: "translateX(-50%)",
             display: "flex",
             alignItems: "center",
-            gap: 4,
-            fontSize: 24,
+            gap: 8,
+            fontSize: 22,
             fontWeight: 400,
             lineHeight: 1,
             color: "#111111",
-            opacity: 0.7,
+            opacity: 0.78,
+            padding: "10px 14px",
+            border: "2px solid rgba(17,17,17,0.55)",
+            background: "rgba(250,217,73,0.85)",
           }}
         >
           <img
