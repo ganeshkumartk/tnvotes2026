@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-bricolage), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, monospace;
+
+  --color-bg: #F4F0E6;
+  --color-surface: #eae5d9;
+  --color-border: rgba(0, 0, 0, 0.12);
+  --color-border-hover: rgba(0, 0, 0, 0.24);
+  --color-text-primary: #111111;
+  --color-text-secondary: #a0a0a0;
+  --color-text-muted: #555555;
+
+  --radius-sm: 0px;
+  --radius-md: 2px;
+  --radius-lg: 4px;
+  --radius-xl: 8px;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    background: var(--color-bg);
+    color: var(--color-text-primary);
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: -0.01em;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background: var(--color-bg);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    letter-spacing: -0.03em;
+    font-weight: 600;
+  }
+
+  ::selection {
+    background: #000000;
+    color: #ffffff;
+  }
+}
+
+@layer utilities {
+  .gradient-dmk {
+    background: linear-gradient(135deg, #111111 0%, #CC1A1A 100%);
+  }
+  .gradient-aiadmk {
+    background: linear-gradient(135deg, #111111 0%, #CC1A1A 50%, #d4d4d4 100%);
+  }
+  .gradient-tvk {
+    background: linear-gradient(135deg, #8B1010 0%, #F5C518 100%);
+  }
+  .gradient-bjp {
+    background: linear-gradient(135deg, #FF6000 0%, #FFB800 100%);
+  }
+  .gradient-ntk {
+    background: linear-gradient(135deg, #CC0000 0%, #FFD700 100%);
+  }
+  .text-gradient-dmk {
+    background: linear-gradient(135deg, #ff5555 0%, #ff9999 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .text-gradient-tvk {
+    background: linear-gradient(135deg, #F5C518 0%, #ffdd66 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
