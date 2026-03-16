@@ -100,7 +100,7 @@ export function Landing({ onNext, lang, expectedParty, setExpectedParty }: Landi
             
             <div className="mt-8 font-mono text-[10px] text-text-primary/40 uppercase tracking-widest space-y-1">
               <div>{isTa ? "[ 6 கட்சிகள் ]" : "[ 6 PARTIES ]"}</div>
-              <div>{isTa ? "[ 8 கொள்கை தலைப்புகள் ]" : "[ 8 POLICY TOPICS ]"}</div>
+              <div>{isTa ? "[ 10 கொள்கை தலைப்புகள் ]" : "[ 10 POLICY TOPICS ]"}</div>
               <div>{isTa ? "[ 3 நிமிடம் — விழிப்புணர்வு ]" : "[ 3 MIN — AWARENESS ]"}</div>
             </div>
           </div>

@@ -15,7 +15,7 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://thervu2026.in"),
+  metadataBase: new URL("https://tnvotes2026.vercel.app"),
   title: {
     default: "தேர்வு 2026 — Vote the policy. Not the flag.",
     template: "%s | தேர்வு 2026",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     "policy comparison",
     "thervu",
   ],
-  authors: [{ name: "TherVu 2026", url: "https://thervu2026.in" }],
+  authors: [{ name: "TherVu 2026", url: "https://tnvotes2026.vercel.app" }],
   creator: "TherVu 2026",
   openGraph: {
     title: "தேர்வு 2026 — Vote the policy. Not the flag.",

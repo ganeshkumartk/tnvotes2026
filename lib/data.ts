@@ -371,4 +371,73 @@ export const CATEGORIES: Category[] = [
       },
     ],
   },
+  {
+    id: "law_order",
+    name: "Law & Order",
+    icon: "⚖️",
+    question: "Which approach to law, policing and justice matters most to you?",
+    questionTa: "சட்டம், காவல் மற்றும் நீதி தொடர்பான எந்த அணுகுமுறை உங்களுக்கு மிகவும் முக்கியமானது?",
+    parties: ["DMK", "TVK", "BJP", "INC", "NTK"],
+    options: [
+      {
+        partyId: "DMK",
+        text: "Police Commission reconstituted. Cyber police stations in all districts. Special courts for sexual crimes. Withdraw false cases against Sterlite, Hydrocarbon, Kudankulam protesters. High-level committee to eradicate Katta Panchayat.",
+        textTa: "காவல் ஆணையம் மீண்டும் அமைக்கப்படும். அனைத்து மாவட்டங்களிலும் சைபர் காவல் நிலையங்கள். பெண்களுக்கு எதிரான குற்றங்களுக்கு சிறப்பு நீதிமன்றங்கள். ஸ்டெர்லைட், ஹைட்ரோகார்பன், கூடங்குளம் ஆர்ப்பாட்டக்காரர்கள் மீதான பொய் வழக்குகள் திரும்பப் பெறப்படும்."
+      },
+      {
+        partyId: "TVK",
+        text: "Dedicated department for women, children and senior citizens' safety under CM. 500 women-led surveillance teams with body cams. Fast-track courts for crimes against women. Smart panic buttons in public transport.",
+        textTa: "முதல்வர் நேரடி கண்காணிப்பில் பெண்கள், குழந்தைகள் மற்றும் முதியோர்களுக்கான பாதுகாப்புத் துறை. பாடி கேமராக்களுடன் 500 மகளிர் கண்காணிப்புப் படைகள். பெண்களுக்கு எதிரான குற்றங்களுக்கு விரைவு நீதிமன்றங்கள். பொது போக்குவரத்தில் ஸ்மார்ட் பனிக் பட்டன்கள்.",
+        partial: true,
+      },
+      {
+        partyId: "BJP",
+        text: "Law against forced religious conversions. Hindu temple administration handed to a Board with religious leaders.",
+        textTa: "பலவந்தமான மத மாற்றங்களுக்கு எதிரான சட்டம். இந்து கோவில் நிர்வாகம் மதத் தலைவர்கள் அடங்கிய குழுவிடம் ஒப்படைக்கப்படும்."
+      },
+      {
+        partyId: "INC",
+        text: "Special laws to prevent honour killings. Protect intercaste marriages.",
+        textTa: "ஆணவக் கொலைகளைத் தடுக்க சிறப்புச் சட்டங்கள். சாதி மறுப்புத் திருமணங்களைப் பாதுகாத்தல்."
+      },
+      {
+        partyId: "NTK",
+        text: "Abolish death penalty in India. Support release of Rajiv Gandhi case convicts. Party abhors violence; cadres violating conduct principles would be punished.",
+        textTa: "இந்தியாவில் மரண தண்டனை ரத்து. ராஜீவ் காந்தி வழக்கு குற்றவாளிகள் விடுவிக்க ஆதரவு. வன்முறைக்கு எதிர்ப்பு; நடத்தை முறைகளை மீறும் உறுப்பினர்கள் தண்டிக்கப்படுவர்.",
+        partial: true,
+      },
+    ],
+  },
+  {
+    id: "environment",
+    name: "Environment & Climate",
+    icon: "🌿",
+    question: "Which environmental and climate commitment resonates with you?",
+    questionTa: "சுற்றுச்சூழல் மற்றும் காலநிலை தொடர்பான எந்த வாக்குறுதி உங்களை கவர்கிறது?",
+    parties: ["DMK", "TVK", "BJP", "NTK"],
+    options: [
+      {
+        partyId: "DMK",
+        text: "Forest cover increased to 33%. ₹5,000 crore to clean Chennai rivers (Cooum, Adyar, Kusasthalai). CNG buses in all towns. New Groundwater Act. Solar panels at govt schools, colleges, temples.",
+        textTa: "வனப்பரப்பு 33% ஆக உயர்வு. சென்னை ஆறுகள் சுத்தம் செய்ய ₹5,000 கோடி. அனைத்து நகரங்களிலும் சிஎன்ஜி பேருந்துகள். புதிய நிலத்தடி நீர் சட்டம். அரசு பள்ளிகள், கல்லூரிகள், கோவில்களில் சூரிய செல்கள்."
+      },
+      {
+        partyId: "TVK",
+        text: "Strong flood-mitigation and disaster-resilience systems, especially for Chennai.",
+        textTa: "வலுவான வெள்ள நிவாரணம் மற்றும் பேரிடர் எதிர்ப்பு அமைப்புகள், குறிப்பாக சென்னைக்கு.",
+        partial: true,
+      },
+      {
+        partyId: "BJP",
+        text: "River sand mining banned for 5 years to restore groundwater and rivers. Sand import permitted during ban.",
+        textTa: "நிலத்தடி நீர் மற்றும் ஆறுகளை மீட்டெடுக்க ஆற்று மணல் அள்ள 5 ஆண்டு தடை. இறக்குமதிக்கு அனுமதி."
+      },
+      {
+        partyId: "NTK",
+        text: "Oppose Chennai-Salem expressway (ecology, illegal mining concerns). Oppose illegal sand mining. Demand Tamil Nadu's share of Kaveri and Mullaperiyar water.",
+        textTa: "சென்னை-சேலம் விரைவுச்சாலைக்கு எதிர்ப்பு. சட்டவிரோத மணல் அள்ளலை எதிர்த்தல். காவேரி மற்றும் முல்லைப்பெரியார் நீர் பங்கு கோருதல்.",
+        partial: true,
+      },
+    ],
+  },
 ];

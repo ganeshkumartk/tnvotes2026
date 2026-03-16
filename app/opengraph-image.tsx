@@ -103,7 +103,7 @@ export default async function Image() {
             opacity: 0.7,
           }}
         >
-          தேர்வு 2026 · Tamil Nadu · Civic awareness tool
+          தேர்வு 2026 · Civic awareness tool · tnvotes2026.vercel.app
         </div>
       </div>
     ),

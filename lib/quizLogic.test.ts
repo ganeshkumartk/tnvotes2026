@@ -105,8 +105,8 @@ describe("findTiebreakerCategory", () => {
   });
 
   it("returns null when no unused category has 2+ tied parties", () => {
-    const tied = ["BJP", "INC"];
-    const selectedAllExceptOne = ["welfare", "education", "women", "jobs", "health", "farmers", "governance"];
+    const tied: PartyId[] = ["AIADMK", "NTK"];
+    const selectedAllExceptOne = ["welfare", "education", "women", "jobs", "health", "farmers", "governance", "identity", "law_order"];
     const cat = findTiebreakerCategory(tied, selectedAllExceptOne, CATEGORIES);
     expect(cat).toBeNull();
   });

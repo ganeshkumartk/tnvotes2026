@@ -110,6 +110,50 @@ export default function Legal() {
             </div>
           </section>
 
+          {/* Section 5: Open Source & Data */}
+          <section>
+            <h2 className="text-xl font-medium mb-4 uppercase tracking-wide border-b border-text-primary/20 pb-2">
+              5. Open Source & Verified Data
+            </h2>
+            <div className="space-y-4 font-light text-text-primary/80 leading-relaxed">
+              <p>
+                <strong>TherVu 2026 is open source.</strong> The codebase is publicly available for audit, reuse, and improvement.{" "}
+                <a
+                  href="https://github.com/ganeshkumartk/tnvotes2026"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="underline underline-offset-4 hover:text-text-primary font-medium"
+                >
+                  GitHub → tnvotes2026
+                </a>
+                {" "}We believe in transparency and civic accountability.
+              </p>
+              <p>
+                <strong>Verified manifesto data is publicly available.</strong> Every promise shown in this tool is sourced from official party documents or credible press (TNM, The Hindu, Business Standard, The Federal, dtnext). No inferences, no extrapolations, no AI-fabricated content.
+              </p>
+              <p>
+                You can download the full verified dataset here:{" "}
+                <a
+                  href="/tn_manifesto_verified.json"
+                  download="tn_manifesto_verified.json"
+                  className="underline underline-offset-4 hover:text-text-primary font-medium"
+                >
+                  tn_manifesto_verified.json
+                </a>
+                {" "}(or{" "}
+                <a
+                  href="/tn_manifesto_verified.json"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="underline underline-offset-4 hover:text-text-primary font-medium"
+                >
+                  view online
+                </a>
+                ). The file includes source citations, confidence levels, and last-updated metadata for each party and category.
+              </p>
+            </div>
+          </section>
+
         </div>
 
         <div className="mt-16 pt-8 border-t border-text-primary/10 text-center font-mono text-[10px] uppercase tracking-widest text-text-primary/40">

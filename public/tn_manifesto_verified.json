@@ -1,0 +1,796 @@
+{
+  "meta": {
+    "project": "TN 2026 PManifesto/Policy Comparator",
+    "last_updated": "2026-03-16",
+    "data_integrity_note": "Every promise in this file is sourced from either (a) the party's own official manifesto document, or (b) reporting by credible outlets (TNM, The Hindu, Business Standard, The Federal, dtnext). No inferences, no extrapolations, no AI-fabricated content. Categories with insufficient verified data are left intentionally sparse with a source_gap flag.",
+    "categories": [
+      "welfare_freebies",
+      "education",
+      "employment_economy",
+      "women",
+      "agriculture_farmers",
+      "health",
+      "law_order",
+      "environment",
+      "governance",
+      "federal_identity"
+    ]
+  },
+  "parties": {
+
+    "DMK": {
+      "name": "DMK",
+      "full_name": "Dravida Munnetra Kazhagam",
+      "manifesto_year": 2021,
+      "manifesto_status": "FULL",
+      "source": "Official DMK manifesto PDF — fetched directly from dmk.blob.core.windows.net (505 numbered promises)",
+      "color": "#E53935",
+      "election_role": "ruling_party_2021",
+      "policies": {
+
+        "welfare_freebies": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "₹4,000 cash to every rice card holder; 20 kg free rice; fuel price cuts",
+          "promises": [
+            "₹4,000 cash stimulus to every ration (rice) card holder from June 2021 — Promise #502",
+            "20 kg of free rice to ration card holders — Promise #235",
+            "₹100 subsidy on one cooking gas cylinder per ration card holder — Promise #503",
+            "Petrol price reduced by ₹5/litre, diesel by ₹4/litre — Promise #504",
+            "Aavin milk price reduced from ₹6 to ₹3 per litre — Promise #505",
+            "Free bus transport for women on town buses statewide — Promise #501",
+            "Free bus transport for senior citizens above 70 years — Promise #497",
+            "₹1,500/month financial assistance for senior citizens, widows, abandoned women, disabled persons, Sri Lankan refugees — Promise #330",
+            "Kalaignar Canteens in 500 locations at subsidised cost — Promise #331",
+            "Night Shelter Houses for people sleeping on pavements — Promise #333",
+            "3 LED bulbs at subsidised price to all card holders — Promise #239"
+          ]
+        },
+
+        "education": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Ban NEET; free tablets with 4G for students; education loan waiver for under-30s",
+          "promises": [
+            "Legislation to ban NEET exam in Tamil Nadu, seek Presidential assent — Promise #160",
+            "Free tablet devices with 4G/5G and 10GB data for higher secondary and college students; wi-fi in all institutions — Promise #163",
+            "Education loans for graduates under 30 years waived by government — Promise #159",
+            "Separate State Education Policy for Tamil Nadu, opposing Central NEP — Promise #3",
+            "Free sanitary napkin vending machines in all govt and govt-aided schools and colleges — Promise #162",
+            "Fees for first-generation economically backward students in engineering, medical, agriculture covered — Promise #165",
+            "Coaching centres in all districts for IIT, NIT, AIIMS, IIM entrance exams — Promise #167",
+            "100% literacy in Tamil Nadu within 3 years — Promise #170",
+            "Morning milk for all students in government and govt-aided schools — Promise #169",
+            "Tamil language mandatory in all schools including Kendriya Vidyalayas — Promise #493",
+            "New universities in Kanchipuram and Erode — Promise #496",
+            "Coaching for UPSC, state govt, Railways and bank exams in Chennai, Madurai, Trichy, Coimbatore, Salem, Tirunelveli — Promise #168"
+          ]
+        },
+
+        "employment_economy": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "50 lakh jobs in 5 years; 75% private sector reservation for locals; Old Pension Scheme restored",
+          "promises": [
+            "10 lakh jobs per year, 50 lakh total by 2025-26 via STEP (State Board of Skill Training and Employment Promotion) — Promise #185",
+            "75% reservation in private sector jobs for Tamil Nadu locals — Promise #196",
+            "₹15,000 crore fund to revive COVID-hit industries at low interest — Promise #192",
+            "₹20 lakh low-interest startup loans to 25,000 graduates per year via TIIC — Promise #206",
+            "Old Pension Scheme restored, replacing New Pension Scheme — Promise #309",
+            "Ad-hoc and contract workers with 10+ years service considered for permanent employment — Promise #153",
+            "Welfare boards for 36 unorganised sector employment types revived; pension and medical assistance increased — Promise #151",
+            "100% of govt and public sector jobs allocated to Tamil Nadu youth — Promise #495",
+            "Right to Skill Training Act for marginalized groups — Promise #186"
+          ]
+        },
+
+        "women": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "40% govt job reservation; 12-month maternity leave; ₹24,000 maternity benefit",
+          "promises": [
+            "Women's reservation in govt jobs increased from 30% to 40% — Promise #246",
+            "Maternity leave for state govt employees extended from 9 months to 12 months — Promise #243",
+            "₹24,000 maternity benefit in 8 monthly instalments under Muthulakshmi Reddy scheme (up from ₹18,000) — Promise #252",
+            "Cyber police stations in all districts for cybercrimes against women and children — Promise #254",
+            "Separate courts for sexual crime cases for faster justice — Promise #475",
+            "Nursing/breastfeeding stations with privacy in all public places — Promise #245",
+            "Jobs for unmarried women above 35 years of age — Promise #262",
+            "₹50,000 interest-free loan to 1 lakh BPL women for cottage industries — Promise #261",
+            "Working women's hostels in all districts — Promise #253",
+            "Sexual harassment committees in all factories and industries — Promise #249",
+            "25,000 community welfare workers appointed (women as liaison officers in villages) — Promise #191",
+            "180 coaching centres in every district to help women graduates gain employment — Promise #180"
+          ]
+        },
+
+        "agriculture_farmers": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Farm loan waiver; paddy MSP ₹2,500/quintal; 150-day NREGA at ₹300/day",
+          "promises": [
+            "Farm and jewellery loans of small and medium farmers waived — Promise #33",
+            "Paddy support price increased from ₹2,000 to ₹2,500 per quintal — Promise #75",
+            "Sugarcane support price increased to ₹4,000 per quintal — Promise #75",
+            "NREGA extended from 100 to 150 days; daily wage increased to ₹300 — Promise #42",
+            "Agricultural Development Councils to fix MSP for bananas, turmeric, millets, oilseeds, etc. — Promise #35",
+            "90% subsidy for drip irrigation for up to 5 acres — Promise #41",
+            "₹10,000 subsidy for electric motors to farmers owning under 3 acres — Promise #45",
+            "Separate organic farming department and G. Nammazhvar Organic Farming Research Centre — Promises #36, #37",
+            "Ban on GMO (genetic modification) technology in Tamil Nadu — Promise #52",
+            "Crop insurance compensation even for individual farm damage (not just region-wide calamities) — Promise #57",
+            "Annual agricultural budget after consulting farmers' associations — Promise #29",
+            "10,000 crore State Water Management Scheme under CM supervision — Promise #89"
+          ]
+        },
+
+        "health": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "100% health insurance; 2,000 ambulances; new specialty hospitals in 4 cities",
+          "promises": [
+            "Kalaignar Kaapeetu Thittam revived — 100% healthcare insurance for heart, cancer, kidney conditions — Promise #347",
+            "Ambulances under 108 increased to 2,000; 6 ambulances per Panchayat Union — Promise #349",
+            "Advanced speciality hospitals in Coimbatore, Tirunelveli, Trichy, Krishnagiri within 3 years — Promise #348",
+            "Mobile hospitals for village healthcare access — Promise #349",
+            "New medical colleges in districts currently without any — Promise #164",
+            "Geriatric wards in all government hospitals — Promise #325",
+            "De-addiction centres established; phased approach to alcohol prohibition — Promise #360",
+            "Cancer screening for women in all government hospitals — Promise #248",
+            "Rotavirus, meningococcal, hepatitis vaccines free for newborns — Promise #353",
+            "Immunisation coverage increased to 100% (from current 56%) — Promise #358",
+            "Dialysis, nephrology, CCU in all district hospitals — Promise #344"
+          ]
+        },
+
+        "law_order": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Police Commission revived; special courts for sexual crimes; cyber police in all districts",
+          "promises": [
+            "Police Commission reconstituted — Promise #384",
+            "Separate courts for sexual crimes against women — Promise #475",
+            "Cyber police stations in all districts — Promise #254",
+            "CCTV in schools, hospitals, bus stands, police stations, temples — Promise #483",
+            "₹1 crore compensation to families of police personnel killed on duty — Promise #383",
+            "False cases against Sterlite, Hydrocarbon, Methane, Kudankulam protesters withdrawn — Promise #484",
+            "Special courts for corruption cases against former ministers — Promise #21",
+            "Grievance redressal mechanism for police personnel at district and state level — Promise #385",
+            "High-level committee to eradicate Katta Panchayat (kangaroo courts) — Promise #335"
+          ]
+        },
+
+        "environment": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Forest cover to 33%; river cleaning at ₹5,000 crore; CNG buses in all towns",
+          "promises": [
+            "Forest cover increased to 33% of Tamil Nadu — Promise #367",
+            "CNG buses in all towns and corporation areas — Promise #366",
+            "₹5,000 crore scheme to clean and deepen Chennai rivers (Cooum, Adyar, Kusasthalai) — Promise #93",
+            "New Groundwater Act replacing the one repealed by ADMK — Promise #95",
+            "Ban on illegal borewells in hilly regions — Promise #82",
+            "Forest Commission for wildlife conflict resolution and forest land governance — Promise #368",
+            "Solar panels replacing traditional power at all govt schools, colleges, temples, offices — Promise #225",
+            "₹2,000 crore check dam construction across multiple districts — Promise #90",
+            "Chennai Metro Flood Management Committee — Promise #92",
+            "Tamil Nadu Conservation Project for river cleaning of Cauvery, Vaigai, Tamirabarani, etc. — Promise #362"
+          ]
+        },
+
+        "governance": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Lok Ayukta revived; 100-day grievance resolution; assembly to meet 100 days minimum per year",
+          "promises": [
+            "Lok Ayukta revived for complaints against MLAs and Ministers — Promise #18",
+            "Right to Services Act — certificates (community, birth, income, residential) within fixed timeline — Promise #19",
+            "All complaints resolved within 100 days; dedicated Ministry for implementation — Promise #377",
+            "Legislative Assembly to convene minimum 100 days per year — Promise #376",
+            "Live telecast of assembly proceedings — Promise #375",
+            "District Collector offices to publicly display status of public complaints — Promise #23",
+            "Single window system for investment approvals reintroduced — Promise #199",
+            "TNPSC malpractice probe; transparency in recruitment — Promise #485",
+            "New districts and upgrading of towns to municipal corporations — Promises #380, #381",
+            "DVAC to function independently without government interference — Promise #20"
+          ]
+        },
+
+        "federal_identity": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Oppose Hindi imposition; Education to State List; Tamil as official language in Central offices",
+          "promises": [
+            "Fight Hindi imposition; urge all state languages as official languages of India — Promise #4",
+            "Remove 'Education' from Concurrent List back to State List — Promise #2",
+            "Oppose NEP; formulate separate TN State Education Policy — Promise #3",
+            "Tamil as co-official language in central offices and national banks in Tamil Nadu — Promise #5",
+            "Oppose privatisation of Railways, PSU banks, LIC — Promises #488, #489, #490",
+            "Sethusamudram Shipping Canal Project to be completed — Promise #112",
+            "Katchatheevu reclamation efforts to continue — Promise #113",
+            "Urge independent international probe into Sri Lanka war crimes against Eelam Tamils — Promise #13",
+            "Oppose Central farm laws; repeal ADMK's farm laws aligned with them — Promise #27",
+            "Legislative Council (upper house) reconstituted in Tamil Nadu — Promise #374"
+          ]
+        }
+      }
+    },
+
+    "AIADMK": {
+      "name": "AIADMK",
+      "full_name": "All India Anna Dravida Munnetra Kazhagam",
+      "manifesto_year": 2021,
+      "manifesto_status": "PARTIAL — 164 promises total; full PDF not publicly fetchable; compiled from credible press reports",
+      "sources": [
+        "The News Minute — 15 Mar 2021 (thenewsminute.com/tamil-nadu/amma-housing-scheme...)",
+        "Business Standard — 14 Mar 2021 (business-standard.com — '164 promises')",
+        "Scroll.in — 14 Mar 2021 (scroll.in/latest/989522)",
+        "India.com — 14 Mar 2021 (india.com/tamil-nadu/tamil-nadu-assembly-election-2021-aiadmk...)",
+        "IndiaTV News — 17 Mar 2021 (indiatvnews.com/elections)"
+      ],
+      "color": "#1565C0",
+      "election_role": "main_opposition_2021",
+      "policies": {
+
+        "welfare_freebies": {
+          "source_confidence": "HIGH — confirmed by 4+ independent credible outlets",
+          "headline": "Free house for homeless; ₹1,500/month to women heads; 6 free LPG cylinders; free washing machine",
+          "promises": [
+            "Amma Housing Scheme — free concrete homes for homeless in rural areas; free apartments in cities (govt-purchased land)",
+            "₹1,500 per month to female head of family per ration card under 'Kulavilakku Thittam'",
+            "6 free LPG cylinders per year for every rice-card holder",
+            "Free 'Amma washing machines' for rice-card holders",
+            "Free solar gas stoves for rice-card holders",
+            "Free cable TV connection",
+            "50% bus fare concession for women in city buses",
+            "Petrol and diesel price reduction (amount not specified in reports)"
+          ]
+        },
+
+        "education": {
+          "source_confidence": "HIGH — confirmed across multiple outlets",
+          "headline": "Education loan waiver; free 2GB data for college students; coaching centres",
+          "promises": [
+            "Education loan waiver for eligible students",
+            "Free 2GB mobile data per year for college students",
+            "Free cable TV connection (also listed under welfare)",
+            "Extend meal schemes to cover students of Class 9 and above",
+            "Coaching institutes to be set up for students",
+            "Separate skill development university to be established"
+          ]
+        },
+
+        "employment_economy": {
+          "source_confidence": "HIGH — confirmed across multiple outlets",
+          "headline": "One government job per family with no existing govt employee",
+          "promises": [
+            "At least one government job per family that currently has no government employee",
+            "Farmers to receive ₹7,500 subsidy (confirmed by TNM)"
+          ]
+        },
+
+        "women": {
+          "source_confidence": "HIGH — confirmed across multiple outlets",
+          "headline": "₹1,500/month to women; maternity leave to 1 year; 50% bus fare concession",
+          "promises": [
+            "₹1,500 per month to female head of family per ration card",
+            "Maternity leave increased to 1 year",
+            "50% bus fare concession for women in city buses",
+            "Free 6 LPG cylinders per year",
+            "Free Amma washing machines",
+            "'Amma bank cards' in name of J. Jayalalithaa for women"
+          ]
+        },
+
+        "agriculture_farmers": {
+          "source_confidence": "MEDIUM — partial — ₹7,500 subsidy confirmed; other agricultural promises not fully reported in press",
+          "source_gap": true,
+          "headline": "₹7,500 farmer subsidy; continuation of existing schemes",
+          "promises": [
+            "₹7,500 annual subsidy for farmers (confirmed by TNM, 15 Mar 2021)"
+          ]
+        },
+
+        "health": {
+          "source_confidence": "MEDIUM — multispecialty hospital promise confirmed; full health section not detailed in press reports",
+          "source_gap": true,
+          "headline": "Government multispecialty hospital in every district; free treatment",
+          "promises": [
+            "Every district to get a government multispecialty hospital equivalent to private hospitals",
+            "Free treatment in these government hospitals",
+            "Continuation and expansion of Chief Minister's Comprehensive Health Insurance Scheme"
+          ]
+        },
+
+        "law_order": {
+          "source_confidence": "LOW — not detailed in major press coverage of manifesto release",
+          "source_gap": true,
+          "headline": "Details not available in verified press reports of 2021 manifesto",
+          "promises": []
+        },
+
+        "environment": {
+          "source_confidence": "LOW — not detailed in major press coverage of manifesto release",
+          "source_gap": true,
+          "headline": "Details not available in verified press reports of 2021 manifesto",
+          "promises": []
+        },
+
+        "governance": {
+          "source_confidence": "MEDIUM — Lok Ayukta mentioned in citizen matters comparison",
+          "headline": "Lok Ayukta setup; stable governance continuation",
+          "promises": [
+            "Set up Lok Ayukta (after Centre passes Lokpal bill) — cited in citizenmatters.in 2021 manifesto comparison"
+          ]
+        },
+
+        "federal_identity": {
+          "source_confidence": "HIGH — confirmed across multiple outlets",
+          "headline": "Oppose CAA; dual citizenship for Sri Lankan Tamils; rename Madras HC; two-language policy",
+          "promises": [
+            "Request Central government to withdraw Citizenship Amendment Act (CAA)",
+            "Dual citizenship for Sri Lankan Tamil refugees",
+            "Rename Madras High Court to Tamil Nadu High Court",
+            "Release of 7 convicts in Rajiv Gandhi assassination case",
+            "Support two-language policy (Tamil and English) in schools"
+          ]
+        }
+      }
+    },
+
+    "TVK": {
+      "name": "TVK",
+      "full_name": "Tamilaga Vettri Kazhagam",
+      "manifesto_year": 2026,
+      "manifesto_status": "PARTIAL — Full manifesto not yet released (as of Mar 14, 2026). Only women-specific promises officially unveiled on Mar 7, 2026. Other positions sourced from verified speeches and official party statements.",
+      "sources": {
+        "womens_promises_mar7": [
+          "The Federal — 7 Mar 2026 (thefederal.com/elections-2026/tvk-chief-vijay-assures...)",
+          "dtnext — 7 Mar 2026 (dtnext.in/news/tamilnadu/cash-gas-and-gold-vijay-unveils-tvks-poll-teaser)",
+          "News Today — 7 Mar 2026 (newstodaynet.com/2026/03/07/vijay-unveils-major-women...)",
+          "TCO News — 7 Mar 2026 (tconews.in)",
+          "Free Press Journal — 7 Mar 2026 (freepressjournal.in)",
+          "India.com — 7 Mar 2026"
+        ],
+        "other_positions": [
+          "Wikipedia/Tamilaga_Vettri_Kazhagam — party ideology and stated positions",
+          "The Commune — Jan 2026 (policy signals from Nov 22, 2025 speech)",
+          "Onmanorama — Nov 23, 2025 (Kanchipuram campaign speech)"
+        ]
+      },
+      "color": "#2E7D32",
+      "election_role": "challenger_debut_2026",
+      "policies": {
+
+        "welfare_freebies": {
+          "source_confidence": "HIGH for women-specific; MEDIUM for general welfare signals",
+          "headline": "₹2,500/month to women family heads; 6 free LPG cylinders; gold for newborns; housing for all",
+          "promises": [
+            "[CONFIRMED Mar 7, 2026] Monthly ₹2,500 to women family heads up to age 60 (govt employees exempted) — 'Urimai Thogai'",
+            "[CONFIRMED Mar 7, 2026] 6 free LPG cylinders per year per family — 'Annapoorani Super Six' scheme",
+            "[CONFIRMED Mar 7, 2026] Gold ring and newborn care kit for every girl child born — 'Thaai Maaman' scheme",
+            "[SPEECH SIGNAL — Nov 2025, Kanchipuram] Permanent housing for all families in Tamil Nadu",
+            "[SPEECH SIGNAL — Nov 2025, Kanchipuram] Two-wheeler for every household"
+          ]
+        },
+
+        "education": {
+          "source_confidence": "HIGH for school dropout scheme; MEDIUM for NEET and state list positions",
+          "headline": "₹15,000/year per student to prevent dropout; oppose NEET; education to State List",
+          "promises": [
+            "[CONFIRMED Mar 7, 2026] ₹15,000 annually to parents/guardians of students Class 1-12 to prevent dropout — 'Kamarajar Education Assurance Scheme'",
+            "[OFFICIAL PARTY POSITION — Jul 2024] Abolish NEET exam",
+            "[OFFICIAL PARTY POSITION — Jul 2024] Move Education from Concurrent List back to State List"
+          ]
+        },
+
+        "employment_economy": {
+          "source_confidence": "MEDIUM — speech signals only, not yet formal manifesto promise",
+          "source_gap": true,
+          "headline": "One stable income per family; anti-corruption governance as economic foundation",
+          "promises": [
+            "[SPEECH SIGNAL — Nov 2025] At least one stable income source per family",
+            "[OFFICIAL PARTY POSITION — Apr 2025] Corruption-free, transparent, accountable government"
+          ]
+        },
+
+        "women": {
+          "source_confidence": "HIGH — all confirmed at Mar 7, 2026 official event",
+          "headline": "12 confirmed women-specific promises — the only officially released manifesto section so far",
+          "promises": [
+            "[CONFIRMED] ₹2,500/month to women family heads up to 60 years (govt employees exempted)",
+            "[CONFIRMED] 6 free LPG cylinders/year per family — 'Annapoorani Super Six'",
+            "[CONFIRMED] 8 grams of gold and silk saree for marriages — 'Annan Seer Thittam'",
+            "[CONFIRMED] ₹15,000/year to parents of school students (Class 1-12) to prevent dropout",
+            "[CONFIRMED] Free bus travel for women in all state-run buses — 'Vetri Payanam Thittam'",
+            "[CONFIRMED] Separate department for women, children and senior citizens under CM's direct supervision",
+            "[CONFIRMED] 500 women-led safety surveillance teams with body cameras — 'Rani Velu Nachiyar Padai'",
+            "[CONFIRMED] Fast-track courts for crimes against women — 'Anjalai Ammal Courts'",
+            "[CONFIRMED] Smart panic buttons in public transport connected to 24-hour surveillance centre",
+            "[CONFIRMED] Free sanitary napkins at ration shops, schools and colleges",
+            "[CONFIRMED] Interest-free loans up to ₹5 lakh for women SHGs and entrepreneurs",
+            "[CONFIRMED] Gold ring + newborn care kit for every girl child born — 'Thaai Maaman' scheme"
+          ]
+        },
+
+        "agriculture_farmers": {
+          "source_confidence": "LOW — position statements only, no specific policy figures",
+          "source_gap": true,
+          "headline": "Protect farmers from illegal sand mining; welfare for fishermen and weavers",
+          "promises": [
+            "[SPEECH SIGNAL — Kanchipuram, Nov 2025] Protection for farmers, fishermen, weavers — mentioned as focus groups",
+            "[CONFERENCE RESOLUTION — Oct 2024] Opposition to policies harming small farmers and fishermen"
+          ]
+        },
+
+        "health": {
+          "source_confidence": "MEDIUM — speech signal only",
+          "source_gap": true,
+          "headline": "Upgrade govt hospitals so people can use them without fear",
+          "promises": [
+            "[SPEECH SIGNAL — Nov 2025, Kanchipuram] Upgrade government hospitals to be usable without fear"
+          ]
+        },
+
+        "law_order": {
+          "source_confidence": "HIGH for safety stance; no specific policing promises announced",
+          "headline": "Strict law enforcement; women's safety department; zero tolerance for corruption",
+          "promises": [
+            "[CONFIRMED Mar 7, 2026] Dedicated department for women, children and senior citizens' safety under CM",
+            "[CONFIRMED Mar 7, 2026] 500 women-led surveillance teams — 'Rani Velu Nachiyar Padai'",
+            "[CONFIRMED Mar 7, 2026] Fast-track courts — 'Anjalai Ammal Courts'",
+            "[CONFIRMED Mar 7, 2026] Smart panic buttons in public transport",
+            "[OFFICIAL PARTY POSITION] Zero tolerance for corruption — describes itself in opposition to DMK's alleged corruption"
+          ]
+        },
+
+        "environment": {
+          "source_confidence": "MEDIUM — speech signal only",
+          "source_gap": true,
+          "headline": "Flood mitigation and disaster resilience; Chennai flooding focus",
+          "promises": [
+            "[SPEECH SIGNAL — Nov 2025] Strong flood-mitigation and disaster-resilience systems, especially for Chennai"
+          ]
+        },
+
+        "governance": {
+          "source_confidence": "HIGH — official party ideology",
+          "headline": "Corruption-free, transparent, accountable — no dynastic politics",
+          "promises": [
+            "[OFFICIAL PARTY POSITION — Apr 2025, Coimbatore conference] Corruption-free, transparent, accountable government",
+            "[OFFICIAL PARTY IDEOLOGY — Oct 2024 conference] Anti-dynasty politics stance",
+            "[OFFICIAL PARTY IDEOLOGY] Centre-left, aligned with ideologies of Ambedkar, Periyar, Kamaraj"
+          ]
+        },
+
+        "federal_identity": {
+          "source_confidence": "HIGH — official party ideology and conference resolutions",
+          "headline": "Pro-Tamil; two-language policy; oppose CAA and Hindi push in NEP; secular social justice",
+          "promises": [
+            "[OFFICIAL PARTY IDEOLOGY — Oct 2024 conference] Secular social justice, egalitarianism, two-language policy, democracy",
+            "[OFFICIAL PARTY POSITION — Jul 2024] Oppose Hindi imposition linked to National Education Policy",
+            "[CONFERENCE RESOLUTION — Nov 2024] Opposition to CAA and NRC",
+            "[OFFICIAL PARTY POSITION] BJP described as 'ideological opponent' due to right-wing politics",
+            "[CONFERENCE RESOLUTION — Nov 2024] Oppose centralisation of powers at Centre"
+          ]
+        }
+      }
+    },
+
+    "BJP": {
+      "name": "BJP",
+      "full_name": "Bharatiya Janata Party (Tamil Nadu)",
+      "manifesto_year": 2021,
+      "manifesto_status": "PARTIAL — contested only 20 of 234 seats; manifesto released Mar 22, 2021; compiled from credible press reports",
+      "sources": [
+        "The News Minute — 22 Mar 2021 (thenewsminute.com/article/bjp-tamil-nadu-election-manifesto...)",
+        "IndiaTV News — 20 Mar 2021 (indiatvnews.com)"
+      ],
+      "color": "#E65100",
+      "election_role": "minor_ally_of_aiadmk_2021",
+      "note_2026": "BJP-AIADMK alliance confirmed for 2026 Tamil Nadu elections (confirmed by multiple sources including India.com reporting Amit Shah announcement)",
+      "policies": {
+
+        "welfare_freebies": {
+          "source_confidence": "HIGH — TNM article lists specific promises",
+          "headline": "Free driving licences for young women; free tablets; door-delivery of ration",
+          "promises": [
+            "Free two-wheeler driving licence for women aged 18-23, no test fee",
+            "Free tablet devices for students of Classes 8 and 9",
+            "Door delivery of ration items through Public Distribution System",
+            "Widows pension increased to ₹3,000",
+            "₹6,000 annual support for fishermen and farmers"
+          ]
+        },
+
+        "education": {
+          "source_confidence": "HIGH — TNM article",
+          "headline": "NEET/JEE coaching in every district; online skill university; tablets for students",
+          "promises": [
+            "Free tablet for students of Classes 8 and 9",
+            "Coaching centres for NEET, JEE and CLAT in every district",
+            "Online skill development university to be set up",
+            "Siddha medicine university to be established in Palani"
+          ]
+        },
+
+        "employment_economy": {
+          "source_confidence": "HIGH — TNM article",
+          "headline": "50 lakh new jobs in 5 years",
+          "promises": [
+            "50 lakh new jobs created in 5 years",
+            "12 lakh acres of Panchami lands retrieved and distributed to Scheduled Castes"
+          ]
+        },
+
+        "women": {
+          "source_confidence": "HIGH — TNM article",
+          "headline": "Free driving licences for women aged 18-23",
+          "promises": [
+            "Free two-wheeler driving licence for women aged 18-23"
+          ]
+        },
+
+        "agriculture_farmers": {
+          "source_confidence": "HIGH — TNM article",
+          "headline": "₹6,000 annual support; separate agricultural budget; 5-year sand mining ban",
+          "promises": [
+            "₹6,000 annual support for farmers",
+            "Separate budget for agriculture",
+            "River sand mining banned for 5 years to improve groundwater; river sand import allowed during this period"
+          ]
+        },
+
+        "health": {
+          "source_confidence": "HIGH — TNM article",
+          "headline": "Multispecialty hospital in every district with free treatment",
+          "promises": [
+            "Every district to get a government multispecialty hospital with facilities equivalent to private hospitals",
+            "Free treatment in these hospitals"
+          ]
+        },
+
+        "law_order": {
+          "source_confidence": "HIGH — TNM article",
+          "headline": "Law against forced religious conversions",
+          "promises": [
+            "Law to be brought against forced religious conversions",
+            "Hindu temple administration handed to a Board with religious leaders"
+          ]
+        },
+
+        "environment": {
+          "source_confidence": "HIGH — TNM article",
+          "headline": "5-year river sand mining ban to restore groundwater and river flow",
+          "promises": [
+            "River sand mining banned for 5 years; river sand import permitted during this period"
+          ]
+        },
+
+        "governance": {
+          "source_confidence": "HIGH — TNM article",
+          "headline": "Legislative council; Greater Chennai trifurcated; Circuit Bench in Coimbatore",
+          "promises": [
+            "Legislative council set up for informed debates by subject-matter experts",
+            "Greater Chennai Corporation to be trifurcated",
+            "Circuit Bench of Madras High Court to be established in Coimbatore",
+            "All state highways converted to four-lane roads",
+            "Fisherfolk above 60 to receive pension of ₹3,000/month",
+            "Badugas community to be added to Scheduled Tribe category",
+            "Thirukkural Mamalai Park to be established in Erode district"
+          ]
+        },
+
+        "federal_identity": {
+          "source_confidence": "MEDIUM — inferred from BJP's national positions; not explicitly detailed in TN-specific press reports",
+          "source_gap": true,
+          "headline": "Tamil Nadu development through Central scheme alignment",
+          "promises": [
+            "[NOTE: BJP TN 2021 manifesto focused more on welfare promises than federal ideology; specific federal positions not extracted from available press reports]"
+          ]
+        }
+      }
+    },
+
+    "INC": {
+      "name": "INC",
+      "full_name": "Indian National Congress (Tamil Nadu)",
+      "manifesto_year": 2021,
+      "manifesto_status": "PARTIAL — 26-point manifesto, 40 pages; contested 25 seats in DMK alliance; compiled from credible press",
+      "sources": [
+        "The News Minute — 16 Mar 2021 (thenewsminute.com/tamil-nadu/cong-releases-manifesto-tn-polls-abolishing-neet-fighting-farm-laws-among-promises-145321)",
+        "The Federal — 16 Mar 2021 (thefederal.com/tamilnadu-elections-2021/tn-cong-manifesto-shoots-at-neet-liquor-shops-sops-for-startups)",
+        "The Hindu — 16 Mar 2021 (thehindu.com/news/national/tamil-nadu/congress-lays-out-plans-for-total-prohibition/article34087098.ece)",
+        "NDTV — 16 Mar 2021 (ndtv.com/india-news/tamil-nadu-assembly-elections-congress-releases-manifesto-promises-to-train-youth-for-government-jobs-2391900)",
+        "India Today — 16 Mar 2021 (indiatoday.in/elections/tamil-nadu-assembly-polls-2021/story/congress-releases-manifesto-for-tamil-nadu-polls-1779835-2021-03-16)"
+      ],
+      "color": "#138808",
+      "election_role": "ally_of_dmk_2021",
+      "policies": {
+        "welfare_freebies": {
+          "source_confidence": "MEDIUM — manifesto mentioned welfare of minorities, women, children; specific welfare figures not detailed in press",
+          "source_gap": true,
+          "headline": "Welfare of minorities, women, children; benefits for fishermen",
+          "promises": [
+            "[MANIFESTO — 26 points] Welfare of minorities, women and children",
+            "[MANIFESTO — 26 points] Benefits for fishermen",
+            "[MANIFESTO — 26 points] Improvement in public sanitation and protection of environment"
+          ]
+        },
+        "education": {
+          "source_confidence": "HIGH — confirmed across TNM, The Federal, The Hindu",
+          "headline": "Abolish NEET; increase medical college reservation; waive education loans",
+          "promises": [
+            "Abolish NEET completely — The News Minute 16 Mar 2021",
+            "Set up training centres for rural students to prepare for NEET until exam is withdrawn — The Hindu",
+            "Increase reservation for government school students in medical colleges from 7.5% to 10% — TNM, The Hindu",
+            "Waive education loans borrowed until December 2020 — TNM, The Hindu",
+            "Reject National Education Policy (NEP) 2020 — The Hindu",
+            "Skill development classes for boys and girls who completed Class 12 — TNM"
+          ]
+        },
+        "employment_economy": {
+          "source_confidence": "HIGH — confirmed across TNM, The Federal",
+          "headline": "500 youths trained per district; 50% loan support for SMEs; 5-year tax exemption for startups",
+          "promises": [
+            "Train 500 youths in every district for government jobs — The Federal, TNM (KS Alagiri quote)",
+            "Government to pay 50% of loans taken by small and medium industries — TNM",
+            "Five-year tax exemption for startups and new entrepreneurs — The Federal, TNM"
+          ]
+        },
+        "women": {
+          "source_confidence": "HIGH — confirmed across TNM, The Federal, India Today",
+          "headline": "Special laws to prevent honour killings; protect intercaste marriages",
+          "promises": [
+            "New special laws to prevent murders of couples who marry outside their caste (honour killings) — TNM, The Federal",
+            "Protection of intercaste marriages — India Today"
+          ]
+        },
+        "agriculture_farmers": {
+          "source_confidence": "HIGH — confirmed by TNM",
+          "headline": "Block implementation of Union farm laws in Tamil Nadu",
+          "promises": [
+            "Union government's farm laws will not be implemented in Tamil Nadu — TNM"
+          ]
+        },
+        "health": {
+          "source_confidence": "LOW — manifesto mentioned protection of environment; health specifics not detailed in press",
+          "source_gap": true,
+          "headline": "Details not fully reported in press coverage",
+          "promises": []
+        },
+        "law_order": {
+          "source_confidence": "HIGH — confirmed by TNM, The Federal",
+          "headline": "Special laws against honour killings; protect intercaste marriages",
+          "promises": [
+            "Special laws to prevent honour killings of inter-caste couples — TNM, The Federal"
+          ]
+        },
+        "environment": {
+          "source_confidence": "MEDIUM — mentioned in manifesto summary",
+          "headline": "Protection of environment",
+          "promises": [
+            "[MANIFESTO — 26 points] Protection of the environment — TNM"
+          ]
+        },
+        "governance": {
+          "source_confidence": "HIGH — confirmed by The Hindu, TNM",
+          "headline": "Phased prohibition; separate Ministry for Prohibition; temple property scheme",
+          "promises": [
+            "Total closure of liquor shops in phases — The Hindu",
+            "Dedicated Ministry for Prohibition — The Hindu",
+            "Congress argued state revenue (₹1.33 lakh crore) makes prohibition feasible — The Hindu",
+            "Scheme to manage temple properties — The Hindu"
+          ]
+        },
+        "federal_identity": {
+          "source_confidence": "HIGH — confirmed by TNM",
+          "headline": "Oppose farm laws; state autonomy",
+          "promises": [
+            "Block implementation of Union farm laws in Tamil Nadu — TNM"
+          ]
+        }
+      }
+    },
+
+    "NTK": {
+      "name": "NTK",
+      "full_name": "Naam Tamilar Katchi",
+      "manifesto_year": 2021,
+      "manifesto_status": "PARTIAL — No formal numbered manifesto; positions from official party website (naamtamilar.org), Seeman speeches, Wikipedia. ECI-recognised state party since May 2025.",
+      "sources": [
+        "Wikipedia — Naam Tamilar Katchi (en.wikipedia.org/wiki/Naam_Tamilar_Katchi)",
+        "Official party website — naamtamilar.org",
+        "Times of India — 7 Mar 2021 (ntk fields 234 candidates, 50% women)",
+        "Indian Express — 7 Mar 2021 (Seeman introduces all 234 candidates)",
+        "ABP Live — 2021 (opposition parties including NTK context on NEET)",
+        "electionin.in — NTK party principles and ideology"
+      ],
+      "color": "#CC0000",
+      "election_role": "independent_all_234_seats_2021",
+      "policies": {
+        "welfare_freebies": {
+          "source_confidence": "LOW — not detailed in available sources",
+          "source_gap": true,
+          "headline": "Details not available in verified sources",
+          "promises": []
+        },
+        "education": {
+          "source_confidence": "MEDIUM — NTK opposes NEP; Tamil as medium; no formal manifesto",
+          "source_gap": true,
+          "headline": "Abolish NEET; Tamil as primary medium; oppose NEP; free higher education as right",
+          "promises": [
+            "[PARTY POSITION — official website, Wikipedia] Abolish NEET — consistent with opposition bloc stance in 2021",
+            "[PARTY IDEOLOGY — Wikipedia, naamtamilar.org] Tamil as primary medium of instruction from school through higher education",
+            "[PARTY POSITION] Oppose National Education Policy (NEP)",
+            "[PARTY POSITION] Free higher education as a right, not a commodity",
+            "[2021 CONTEXT — ToI] Better education and medical facilities in rural areas to reverse youth migration"
+          ]
+        },
+        "employment_economy": {
+          "source_confidence": "LOW — speech signals only",
+          "source_gap": true,
+          "headline": "One stable income per family",
+          "promises": [
+            "[2021 ELECTION — Times of India] At least one stable income source per family (from campaign coverage)"
+          ]
+        },
+        "women": {
+          "source_confidence": "HIGH — Wikipedia, party practice",
+          "headline": "50% women candidates; equal representation; LGBTQ rights support",
+          "promises": [
+            "[2021 ELECTION — ToI, Indian Express] 50% of seats allocated to women candidates (117 women, 117 men)",
+            "[PARTY POLICY — Wikipedia] NTK strongly advocates equal representation of women in all areas",
+            "[PARTY POLICY — Wikipedia] Supports LGBTQ rights; fielded transgender candidate in 2016"
+          ]
+        },
+        "agriculture_farmers": {
+          "source_confidence": "HIGH — Times of India 2021 campaign coverage",
+          "headline": "Agriculture as government enterprise; farmers as govt employees; pension for farmers 60+",
+          "promises": [
+            "[2021 ELECTION — Times of India] Agriculture would become a government enterprise with farmers becoming government employees if NTK came to power",
+            "[2021 ELECTION — Times of India] Pension for farmers above 60 years of age"
+          ]
+        },
+        "health": {
+          "source_confidence": "LOW — not detailed",
+          "source_gap": true,
+          "headline": "Rural medical facilities",
+          "promises": [
+            "[2021 CONTEXT — ToI] Better medical facilities in rural areas to reverse youth migration from villages"
+          ]
+        },
+        "law_order": {
+          "source_confidence": "MEDIUM — Wikipedia",
+          "headline": "Abolish death penalty; release Rajiv case convicts; oppose violence",
+          "promises": [
+            "[PARTY POSITION — Wikipedia] Support commuting death sentences and releasing convicts in Rajiv Gandhi assassination case",
+            "[PARTY POSITION — Wikipedia] Stance extends to complete abolition of death penalty in India",
+            "[PARTY POSITION — Wikipedia] Party abhors violence; cadres violating conduct principles would be punished"
+          ]
+        },
+        "environment": {
+          "source_confidence": "HIGH — Wikipedia",
+          "headline": "Oppose Chennai-Salem expressway; oppose illegal sand mining; Cauvery water share",
+          "promises": [
+            "[2018 — Wikipedia] NTK organised protests against proposed Chennai-Salem expressway; Madras HC later quashed land acquisition",
+            "[PARTY POSITION — Wikipedia] Seeman criticised illegal sand mining of riverbeds",
+            "[PARTY POSITION — Wikipedia] Demonstrations demanding Tamil Nadu's share of Kaveri and Mullaperiyar water"
+          ]
+        },
+        "governance": {
+          "source_confidence": "MEDIUM — Wikipedia, party ideology",
+          "headline": "Oppose Dravidian party governance; Tamil rule of Tamil Nadu",
+          "promises": [
+            "[PARTY IDEOLOGY — Wikipedia] Oppose Dravidian parties as having contributed to downfall of Tamils",
+            "[PARTY POSITION — Wikipedia] Only Tamils have right to govern Tamil Nadu as chief minister",
+            "[PARTY PRINCIPLE — electionin.in] One country, one people, one law, one language, one religion, one election, one curriculum"
+          ]
+        },
+        "federal_identity": {
+          "source_confidence": "HIGH — Wikipedia, official sources",
+          "headline": "Tamil nationalism; Tamil as sole official language; Tamil Eelam; reclaim Katchatheevu",
+          "promises": [
+            "[PARTY PRINCIPLE — electionin.in, Wikipedia] Establish separate Tamil Eelam republic as solution to Sri Lankan Tamil issue",
+            "[PARTY IDEOLOGY — Wikipedia] Tamil as sole official language; identity based solely on language",
+            "[PARTY POSITION — Wikipedia] Oppose Dravidian identity; promote Tamil nationalism",
+            "[PARTY POSITION — Wikipedia] Reclaim Katchatheevu island (Seeman's statement led to sedition charges)",
+            "[PARTY POSITION — Wikipedia] Grant Indian citizenship to Sri Lankan Tamil refugees",
+            "[PARTY POSITION — Wikipedia] Contest all 234 seats independently; no alliances"
+          ]
+        }
+      }
+    }
+
+  }
+}

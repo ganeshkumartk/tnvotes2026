@@ -30,8 +30,8 @@ describe("PARTIES", () => {
 });
 
 describe("CATEGORIES", () => {
-  it("has 8 categories", () => {
-    expect(CATEGORIES).toHaveLength(8);
+  it("has 10 categories", () => {
+    expect(CATEGORIES).toHaveLength(10);
   });
 
   it("each category has unique id", () => {

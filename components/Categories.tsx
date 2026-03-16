@@ -67,7 +67,9 @@ export function Categories({ selectedCats, onToggle, onStart, onBack, lang }: Ca
                 health: "மருத்துவம்",
                 farmers: "விவசாயம்",
                 governance: "நிர்வாகம்",
-                identity: "தமிழ் அடையாளம்"
+                identity: "தமிழ் அடையாளம்",
+                law_order: "சட்டம் & நீதி",
+                environment: "சுற்றுச்சூழல்"
               };
               
               const displayName = isTa ? (taNames[cat.id] || cat.name) : cat.name;

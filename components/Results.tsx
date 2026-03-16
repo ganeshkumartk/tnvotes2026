@@ -37,8 +37,8 @@ export function Results({ sortedResults, totalQuestions, onReset, lang, expected
   const second = sortedResults[1];
 
   const shareText = isTa 
-    ? `தேர்வு 2026 கொள்கை விழிப்புணர்வு கருவியில் எனது கொள்கைகள் ${winner?.pct}% ${winner?.party.nameTa} உடன் ஒத்துப்போகிறது. கொள்கைக்கு வாக்களிப்போம். கொடிக்கு அல்ல. thervu2026.in`
-    : `I used TherVu 2026 — a civic awareness tool. My policy alignment: ${winner?.pct}% with ${winner?.party.name}, ${second?.pct}% with ${second?.party.name}. Vote the policy. Not the flag. thervu2026.in`;
+    ? `தேர்வு 2026 கொள்கை விழிப்புணர்வு கருவியில் எனது கொள்கைகள் ${winner?.pct}% ${winner?.party.nameTa} உடன் ஒத்துப்போகிறது. கொள்கைக்கு வாக்களிப்போம். கொடிக்கு அல்ல. tnvotes2026.vercel.app`
+    : `I used TherVu 2026 — a civic awareness tool. My policy alignment: ${winner?.pct}% with ${winner?.party.name}, ${second?.pct}% with ${second?.party.name}. Vote the policy. Not the flag. tnvotes2026.vercel.app`;
 
   function handleCopy() {
     navigator.clipboard.writeText(shareText).then(() => {

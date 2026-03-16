@@ -4,6 +4,8 @@
 
 A civic awareness tool for Tamil Nadu's 2026 Assembly Elections. Compare real manifesto promises from 6 parties — anonymized so users judge the policy, not the party badge. Explore topics, pick what resonates, discover who said it.
 
+**Open source.** Verified manifesto data is in `public/tn_manifesto_verified.json` and served at `/tn_manifesto_verified.json` (see Legal page for details).
+
 ---
 
 ## Stack
@@ -52,7 +54,8 @@ thervu2026/
 │   ├── quizLogic.ts       # Pure logic (shuffle, tiebreaker, scoring) — auditable
 │   ├── quizLogic.test.ts  # Fairness & bias-free audit tests
 │   └── useQuiz.ts         # State machine (screen flow, policy scoring)
-└── public/                # Static assets (favicon, etc.)
+└── public/
+    └── tn_manifesto_verified.json  # Verified manifesto data (open, downloadable)
 ```
 
 ---
@@ -123,8 +126,6 @@ bun i -g vercel
 
 # Deploy
 bun vercel
-
-# Set custom domain thervu2026.in in Vercel dashboard
 ```
 
 ---
@@ -139,11 +140,11 @@ bun vercel
 
 ## Legal & Policies
 
-Full legal page: **[thervu2026.in/legal](https://thervu2026.in/legal)** (or `/legal` when running locally).
+Full legal page: **[tnvotes2026.vercel.app/legal](https://tnvotes2026.vercel.app/legal)** (or `/legal` when running locally).
 
 | Section | Summary |
 |---------|---------|
-| **Disclaimer & ECI** | Independent, non-partisan, citizen-led. Not affiliated with any party or ECI. Content from public manifestos. May pause during 48-hour silence period (Section 126, RPA 1951). |
+| **Disclaimer & ECI** | Independent, non-partisan, citizen-led. Not affiliated with any party or ECI. Content from public manifestos. Will pause during 48-hour silence period (Section 126, RPA 1951). |
 | **Privacy** | No accounts, login, or personal data. All policy comparisons run client-side; no choices sent to servers. No third-party trackers. |
 | **Terms** | Personal civic education only. Results are not opinion/exit polls; do not misrepresent as such. Provided as-is; no warranties. |
 | **IP & Fair Use** | Party names, logos, flags are their owners' IP; used under fair use for commentary/education. UI and code © creators. |
