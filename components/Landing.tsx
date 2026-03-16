@@ -2,31 +2,56 @@
 
 import { motion } from "framer-motion";
 import { PARTIES, type PartyId } from "@/lib/data";
+import { ChennaiCollage, ChennaiIcon, LocalPhrase } from "./ChennaiMotifs";
 
 interface LandingProps {
   onNext: () => void;
   lang: "en" | "ta";
+  onLangToggle?: (lang: "en" | "ta") => void;
   expectedParty: PartyId | null;
   setExpectedParty: (id: PartyId | null) => void;
 }
 
-export function Landing({ onNext, lang, expectedParty, setExpectedParty }: LandingProps) {
+export function Landing({ onNext, lang, onLangToggle, expectedParty, setExpectedParty }: LandingProps) {
   const isTa = lang === "ta";
   return (
-    <div className="min-h-screen flex flex-col selection:bg-text-primary selection:text-bg">
-      {/* Top Bar */}
-      <header className="flex justify-between items-center p-6 border-b border-text-primary/10/10 font-mono text-[10px] uppercase tracking-[0.2etext-text-primary/50/50">
-        <div>{isTa ? "தேர்வு 2026" : "TherVu 2026"}</div>
-        <div>{isTa ? "தமிழ்நாடு" : "Tamil Nadu"}</div>
+    <div className="min-h-screen flex flex-col selection:bg-text-primary selection:text-bg relative">
+      <ChennaiCollage />
+
+      {/* Top Bar — Namma Chennai */}
+      <header className="flex justify-between items-center p-6 border-b-2 border-text-primary font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary">
+        <div className="font-bold text-sm">{isTa ? "நம்ம வாக்கு" : "NAMMA VOTE"}</div>
+        <div className="flex items-center">
+          <div className="hidden sm:block">
+            <span>{isTa ? "தேர்வு 2026" : "TherVu 2026"}</span>
+            <span className="opacity-70 ml-4 mr-4">{isTa ? "தமிழ்நாடு" : "Tamil Nadu"}</span>
+          </div>
+          {onLangToggle && (
+            <div className="flex gap-1 font-mono text-[10px] uppercase tracking-widest border-2 border-text-primary p-0.5 bg-bg/80 font-bold">
+              <button 
+                onClick={() => onLangToggle("en")}
+                className={`px-3 py-1.5 transition-colors ${lang === "en" ? "bg-text-primary text-bg" : "text-text-primary/50 hover:text-text-primary"}`}
+              >
+                ENG
+              </button>
+              <button 
+                onClick={() => onLangToggle("ta")}
+                className={`px-3 py-1.5 transition-colors ${lang === "ta" ? "bg-text-primary text-bg" : "text-text-primary/50 hover:text-text-primary"}`}
+              >
+                தமிழ்
+              </button>
+            </div>
+          )}
+        </div>
       </header>
 
       {/* Main Content */}
-      <main className="flex-1 flex flex-col justify-center px-6 py-12 max-w-5xl mx-auto w-full">
+      <main className="flex-1 flex flex-col justify-center px-6 py-12 max-w-5xl mx-auto w-full relative">
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
-          className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-16 items-end"
+          className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-16 items-center"
         >
           {/* Headline Column */}
           <div className="lg:col-span-8">
@@ -50,8 +75,8 @@ export function Landing({ onNext, lang, expectedParty, setExpectedParty }: Landi
           </div>
 
           {/* Info Column */}
-          <div className="lg:col-span-4 flex flex-col justify-end pb-4">
-            <p className="text-text-primary/70/70 text-lg sm:text-xl font-light leading-relaxed mb-8 max-w-sm">
+          <div className="lg:col-span-4 flex flex-col justify-center pb-4">
+            <p className="text-text-primary/80 text-lg sm:text-xl font-medium leading-relaxed mb-8 max-w-sm">
               {isTa ? (
                 <>
                   குடிமக்கள் விழிப்புணர்வு கருவி. 6 கட்சிகளின் தேர்தல் வாக்குறுதிகள் — பெயர்கள் இன்றி.
@@ -67,7 +92,7 @@ export function Landing({ onNext, lang, expectedParty, setExpectedParty }: Landi
               )}
             </p>
 
-            <div className="mb-8 p-4 border border-text-primary/10 bg-text-primary/5y/5 backdrop-blur-sm">
+            <div className="mb-8 p-4 border-2 border-text-primary bg-white/50 backdrop-blur-sm">
               <label className="block text-xs uppercase tracking-widest text-text-primary/50 font-mono mb-3">
                 {isTa ? "நீங்கள் யாருக்கு வாக்களிக்க திட்டமிட்டுள்ளீர்கள்?" : "Who do you plan to vote for?"}
               </label>
@@ -90,14 +115,14 @@ export function Landing({ onNext, lang, expectedParty, setExpectedParty }: Landi
 
             <button
               onClick={onNext}
-              className="group relative inline-flex w-fit items-center justify-between gap-6 bg-text-primary text-bg px-8 py-5 text-lg font-medium hover:bg-text-primary/90 transition-colors duration-300"
+              className="group relative inline-flex w-fit items-center justify-between gap-4 bg-text-primary text-bg px-8 py-5 text-lg font-bold border-2 border-text-primary hover:bg-text-primary/90 transition-colors duration-300"
             >
               <span>{isTa ? "கொள்கைகளை ஆராயுங்கள்" : "Explore policies"}</span>
               <span className="font-mono text-sm group-hover:translate-x-1 transition-transform duration-300">
                 →
               </span>
             </button>
-            
+
             <div className="mt-8 font-mono text-[10px] text-text-primary/40 uppercase tracking-widest space-y-1">
               <div>{isTa ? "[ 6 கட்சிகள் ]" : "[ 6 PARTIES ]"}</div>
               <div>{isTa ? "[ 10 கொள்கை தலைப்புகள் ]" : "[ 10 POLICY TOPICS ]"}</div>
@@ -107,10 +132,10 @@ export function Landing({ onNext, lang, expectedParty, setExpectedParty }: Landi
         </motion.div>
       </main>
 
-      {/* Footer */}
-      <footer className="p-6 border-t border-text-primary/10 flex justify-between items-center font-mono text-[10px] uppercase tracking-widest text-text-primary/40">
+      {/* Footer — Namma Local */}
+      <footer className="p-6 border-t-2 border-text-primary flex justify-between items-center font-mono text-[10px] uppercase tracking-widest text-text-primary/70">
         <div className="flex flex-col sm:flex-row gap-2 sm:gap-6">
-          <span>{isTa ? "© 2026 - குடிமக்கள் விழிப்புணர்வு கருவி" : "© 2026 - A Civic Awareness Tool"}</span>
+          <span>{isTa ? "© 2026 - நம்ம வாக்கு · குடிமக்கள் விழிப்புணர்வு" : "© 2026 - Namma Vote · Civic Awareness Tool"}</span>
           <a href="/legal" className="hover:text-text-primary transition-colors underline underline-offset-4">
             {isTa ? "சட்டக் கொள்கைகள்" : "Legal & Policies"}
           </a>

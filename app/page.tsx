@@ -13,28 +13,31 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-bg text-text-primary selection:bg-text-primary selection:text-bg">
-      {/* Global Lang Toggle */}
-      <div className="fixed top-6 right-6 z-50 flex gap-2 font-mono text-[10px] uppercase tracking-widest border border-text-primary/20 p-1 bg-bg/50 backdrop-blur-md">
-        <button 
-          onClick={() => quiz.setLang("en")}
-          className={`px-3 py-1.5 transition-colors ${quiz.lang === "en" ? "bg-text-primary text-bg" : "text-text-primary/50 hover:text-text-primary"}`}
-        >
-          ENG
-        </button>
-        <button 
-          onClick={() => quiz.setLang("ta")}
-          className={`px-3 py-1.5 transition-colors ${quiz.lang === "ta" ? "bg-text-primary text-bg" : "text-text-primary/50 hover:text-text-primary"}`}
-        >
-          தமிழ்
-        </button>
-      </div>
+      {/* Global Lang Toggle — Rendered only if NOT on landing, so it doesn't duplicate */}
+      {quiz.screen !== "landing" && (
+        <div className="fixed top-6 right-6 lg:top-[73px] z-50 flex gap-1 font-mono text-[10px] uppercase tracking-widest border-2 border-text-primary p-0.5 bg-bg/80 backdrop-blur-md font-bold">
+          <button 
+            onClick={() => quiz.setLang("en")}
+            className={`px-3 py-1.5 transition-colors ${quiz.lang === "en" ? "bg-text-primary text-bg" : "text-text-primary/50 hover:text-text-primary"}`}
+          >
+            ENG
+          </button>
+          <button 
+            onClick={() => quiz.setLang("ta")}
+            className={`px-3 py-1.5 transition-colors ${quiz.lang === "ta" ? "bg-text-primary text-bg" : "text-text-primary/50 hover:text-text-primary"}`}
+          >
+            தமிழ்
+          </button>
+        </div>
+      )}
 
       <AnimatePresence mode="wait">
         {quiz.screen === "landing" && (
           <motion.div key="landing" exit={{ opacity: 0, y: -8 }} transition={{ duration: 0.2 }}>
             <Landing 
               onNext={() => quiz.goTo("parties")} 
-              lang={quiz.lang} 
+              lang={quiz.lang}
+              onLangToggle={(lang) => quiz.setLang(lang)}
               expectedParty={quiz.expectedParty}
               setExpectedParty={quiz.setExpectedParty}
             />

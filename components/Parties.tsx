@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { PARTIES, type PartyId } from "@/lib/data";
 import { PartyFlagImage } from "./PartyDot";
+import { ChennaiIcon } from "./ChennaiMotifs";
 
 const INDIA_ALLIANCE: PartyId[] = ["DMK", "INC"];
 const NDA_ALLIANCE: PartyId[] = ["AIADMK", "BJP"];
@@ -25,7 +26,7 @@ function AlliancePartyRow({ id, lang }: { id: PartyId, lang: "en" | "ta" }) {
           <div className="text-lg font-medium text-text-primary flex items-center gap-2">
             {isTa ? p.nameTa : p.name}
             {p.partial && (
-              <span className="text-[10px] bg-text-primary/10/10 px-1.5 py-0.5 font-mono text-text-primary/70">26'</span>
+              <span className="text-[10px] bg-text-primary/10 px-1.5 py-0.5 font-mono text-text-primary/70">26'</span>
             )}
           </div>
           <div className="text-[11px] text-text-primary/50 tracking-wide mt-0.5 hidden sm:block">{isTa ? p.fullNameTa : p.fullName}</div>
@@ -45,14 +46,15 @@ export function Parties({ onNext, onBack, lang }: PartiesProps) {
   const isTa = lang === "ta";
   return (
     <div className="min-h-screen flex flex-col">
-      <header className="flex justify-between items-center p-6 border-b border-text-primary/10">
+      <header className="flex justify-between items-center p-6 border-b-2 border-text-primary">
         <button 
           onClick={onBack} 
-          className="font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary/50 hover:text-text-primary transition-colors"
+          className="font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary/70 hover:text-text-primary transition-colors font-bold"
         >
           ← {isTa ? "பின்செல்" : "Back"}
         </button>
-        <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary/50">
+        <div className="flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary">
+          <ChennaiIcon name="mtcBus" size={20} />
           {isTa ? "படி 01 · கட்சிகளை ஆராயுங்கள்" : "Step 01 · Explore parties"}
         </div>
       </header>

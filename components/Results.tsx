@@ -37,8 +37,8 @@ export function Results({ sortedResults, totalQuestions, onReset, lang, expected
   const second = sortedResults[1];
 
   const shareText = isTa 
-    ? `தேர்வு 2026 கொள்கை விழிப்புணர்வு கருவியில் எனது கொள்கைகள் ${winner?.pct}% ${winner?.party.nameTa} உடன் ஒத்துப்போகிறது. கொள்கைக்கு வாக்களிப்போம். கொடிக்கு அல்ல. tnvotes2026.vercel.app`
-    : `I used TherVu 2026 — a civic awareness tool. My policy alignment: ${winner?.pct}% with ${winner?.party.name}, ${second?.pct}% with ${second?.party.name}. Vote the policy. Not the flag. tnvotes2026.vercel.app`;
+    ? `தேர்வு 2026 கொள்கை விழிப்புணர்வு கருவியில் எனது கொள்கைகள் ${winner?.pct}% ${winner?.party.nameTa} உடன் ஒத்துப்போகிறது. கொள்கைக்கு வாக்களிப்போம். கொடிக்கு அல்ல. https://tnvotes2026.vercel.app`
+    : `I used TherVu 2026 — a civic awareness tool. My policy alignment: ${winner?.pct}% with ${winner?.party.name}, ${second?.pct}% with ${second?.party.name}. Vote the policy. Not the flag. https://tnvotes2026.vercel.app`;
 
   function handleCopy() {
     navigator.clipboard.writeText(shareText).then(() => {
@@ -75,10 +75,10 @@ export function Results({ sortedResults, totalQuestions, onReset, lang, expected
 
   return (
     <div className="min-h-screen flex flex-col">
-      <header className="flex justify-between items-center p-6 border-b border-text-primary/10">
+      <header className="flex justify-between items-center p-6 border-b-2 border-text-primary">
         <button 
           onClick={onReset} 
-          className="font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary/50 hover:text-text-primary transition-colors"
+          className="font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary/70 hover:text-text-primary transition-colors font-bold"
         >
           ← {isTa ? "மீண்டும் ஆராயுங்கள்" : "Explore again"}
         </button>

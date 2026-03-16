@@ -65,7 +65,7 @@ export function Quiz({ queue, currentQ, progress, onPick, lang, variant = "norma
   return (
     <div className="min-h-screen flex flex-col">
       {/* Progress Header */}
-      <header className="flex justify-between items-center p-6 border-b border-text-primary/10">
+      <header className="flex justify-between items-center p-6 border-b-2 border-text-primary">
         <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary/50">
           {variant === "tiebreaker"
             ? (isTa ? "இறுதி முடிவு — ஒரு கொள்கை மேலும்" : "Tie-breaker — one more policy to decide")

@@ -63,7 +63,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#F4F0E6",
+  themeColor: "#FAD949",
 };
 
 export default function RootLayout({
@@ -74,7 +74,8 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${bricolage.variable} ${jetbrains.variable}`}>
       <body className="bg-bg text-text-primary antialiased selection:bg-text-primary selection:text-bg font-sans">
-        <div className="fixed inset-0 pointer-events-none z-[-1] mix-blend-multiply opacity-[0.05]" style={{ backgroundImage: 'url("data:image/svg+xml,%3Csvg viewBox=%220 0 200 200%22 xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cfilter id=%22noiseFilter%22%3E%3CfeTurbulence type=%22fractalNoise%22 baseFrequency=%220.65%22 numOctaves=%223%22 stitchTiles=%22stitch%22/%3E%3C/filter%3E%3Crect width=%22100%25%22 height=%22100%25%22 filter=%22url(%23noiseFilter)%22/%3E%3C/svg%3E")' }}></div>
+        {/* Chennai doodle-style dot grid background */}
+        <div className="fixed inset-0 pointer-events-none z-[-1] opacity-[0.08]" style={{ backgroundImage: 'radial-gradient(circle, #111 1px, transparent 1px)', backgroundSize: '24px 24px' }} aria-hidden></div>
         {children}
       </body>
     </html>

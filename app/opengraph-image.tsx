@@ -22,7 +22,7 @@ export default async function Image() {
           flexDirection: "column",
           alignItems: "center",
           justifyContent: "center",
-          background: "#F4F0E6",
+          background: "#FAD949",
           fontFamily: "system-ui, sans-serif",
         }}
       >

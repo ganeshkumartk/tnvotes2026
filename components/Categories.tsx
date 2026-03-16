@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import { CATEGORIES } from "@/lib/data";
+import { ChennaiIcon } from "./ChennaiMotifs";
 
 interface CategoriesProps {
   selectedCats: string[];
@@ -17,14 +18,15 @@ export function Categories({ selectedCats, onToggle, onStart, onBack, lang }: Ca
 
   return (
     <div className="min-h-screen flex flex-col">
-      <header className="flex justify-between items-center p-6 border-b border-text-primary/10">
+      <header className="flex justify-between items-center p-6 border-b-2 border-text-primary">
         <button 
           onClick={onBack} 
-          className="font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary/50 hover:text-text-primary transition-colors"
+          className="font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary/70 hover:text-text-primary transition-colors font-bold"
         >
           ← {isTa ? "பின்செல்" : "Back"}
         </button>
-        <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary/50">
+        <div className="flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.2em] text-text-primary">
+          <ChennaiIcon name="filterCoffee" size={20} />
           {isTa ? "படி 02 · தலைப்புகளை தேர்ந்தெடு" : "Step 02 · Choose topics"}
         </div>
       </header>
