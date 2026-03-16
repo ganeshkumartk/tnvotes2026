@@ -1,8 +1,15 @@
+import { readFileSync } from "fs";
+import { join } from "path";
 import { ImageResponse } from "next/og";
 
 export const alt = "தேர்வு 2026 — Vote the policy. Not the flag. Civic awareness tool for Tamil Nadu Assembly Elections.";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
+
+// Tamil text rendered as image (canvas + Noto Sans Tamil) for crisp OG preview.
+// Run: node scripts/generate-og-tamil.mjs to regenerate.
+const tamilPng = readFileSync(join(process.cwd(), "public/og-tamil-2026.png"));
+const tamilDataUrl = `data:image/png;base64,${tamilPng.toString("base64")}`;
 
 export default async function Image() {
   return new ImageResponse(
@@ -92,18 +99,33 @@ export default async function Image() {
           </div>
         </div>
 
-        {/* Subtitle */}
+        {/* Subtitle: Tamil as image for crisp rendering; English as text */}
         <div
           style={{
             position: "absolute",
             bottom: 60,
+            left: "50%",
+            transform: "translateX(-50%)",
+            display: "flex",
+            alignItems: "center",
+            gap: 8,
             fontSize: 24,
             fontWeight: 400,
             color: "#111111",
             opacity: 0.7,
           }}
         >
-          தேர்வு 2026 · Civic awareness tool · tnvotes2026.vercel.app
+          <img
+            src={tamilDataUrl}
+            alt="தேர்வு 2026"
+            width={165}
+            height={42}
+            style={{ display: "block", objectFit: "contain" }}
+          />
+          <span>·</span>
+          <span>Civic awareness tool</span>
+          <span>·</span>
+          <span>tnvotes2026.vercel.app</span>
         </div>
       </div>
     ),
