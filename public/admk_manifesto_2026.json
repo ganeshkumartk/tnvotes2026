@@ -1,0 +1,1749 @@
+{
+    "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+    "manifesto_year": 2026,
+    "manifesto_data": [
+      {
+        "section_heading": "Important Election Promises",
+        "promises": [
+          {
+            "id": 1,
+            "tamil": "வரிச் சுமை மற்றும் விலைவாசி ஏற்றத்தை சமாளிக்க, ஒவ்வொரு குடும்பத்திற்கும் ரூ. 10,000/- சிறப்பு உதவித் தொகை வழங்கப்படும்.",
+            "english": "Special assistance of Rs. 10,000/- to every family to manage the tax burden and price rise."
+          },
+          {
+            "id": 2,
+            "tamil": "மகளிர் நலன் காக்க 'குல விளக்கு திட்டம்': சமூகத்தில் பொருளாதார சமநிலையை உருவாக்கிட, திட்டத்தின் மூலம் அனைத்து குடும்ப அட்டைதாரர்களுக்கும், ஒவ்வொரு மாதமும் உதவித் தொகையாக ரூ. 2,000/- வழங்கப்படும். இத்தொகை குடும்பத் தலைவியின் வங்கிக் கணக்கில் செலுத்தப்படும்.",
+            "english": "'Kula Vilakku Scheme' to protect women's welfare: To create economic equality in society, a monthly assistance of Rs. 2,000/- will be provided to all family cardholders through the Kula Vilakku Scheme. This amount will be deposited directly into the bank account of the female head of the family."
+          },
+          {
+            "id": 3,
+            "tamil": "மகளிரைப் போல, ஆண்களுக்கும் கட்டணமில்லா பேருந்து பயணத் திட்டம்: நகரப் பேருந்துகளில் பயணம் செய்யும் ஆண்களுக்கு கட்டணமில்லா பேருந்து பயணத் திட்டம் செயல்படுத்தப்படும். ஏற்கெனவே நடைமுறையில் இருக்கும், நகரப் பேருந்துகளில் பயணம் செய்யும் மகளிருக்கான கட்டணமில்லா பேருந்து பயணத் திட்டம் தொடர்ந்து செயல்படுத்தப்படும்.",
+            "english": "Free bus travel scheme for men, similar to women: A free bus travel scheme will be implemented for men traveling in city buses. Furthermore, the existing free bus travel scheme for women in city buses will continue to be implemented."
+          },
+          {
+            "id": 4,
+            "tamil": "வீடு இல்லாத குடும்பங்களுக்கு வீடு வழங்கும் 'அம்மா இல்லம் திட்டம்': 'அம்மா இல்லம் திட்டம்' மூலம், கிராமப் புறங்களில் குடியிருப்பதற்கு வீட்டு மனையும், சொந்த வீடும் இல்லாதவர்களுக்கு, அரசே இடம் வாங்கி கான்கிரீட் வீடுகள் கட்டித் தரப்படும். அதேபோல், நகரப் பகுதிகளில் சொந்த வீடு இல்லாத ஏழைகளுக்கு, 'அம்மா இல்லம் திட்டம்' மூலம் அடுக்குமாடி வீடுகள் கட்டி விலையில்லாமல் வழங்கப்படும்.",
+            "english": "'Amma Illam Scheme' providing houses for homeless families: Through the 'Amma Illam Scheme,' the government itself will purchase land and build free concrete houses for those in rural areas who do not own a house plot or a house. Similarly, for the homeless poor in urban areas, multi-story apartments will be built and provided free of cost through the 'Amma Illam Scheme.' Under this scheme, Scheduled Caste people living in a joint family will be given priority."
+          },
+          {
+            "id": 5,
+            "tamil": "100 நாட்கள் வேலைவாய்ப்புத் திட்டம் 150 நாட்களாக உயர்த்தப்படும்: 100 நாட்கள் வேலைவாய்ப்புத் திட்டம் 125 நாட்களாக உயர்த்தப்படும் என்று மத்திய அரசு அறிவித்துள்ளது. கிராமப்புறங்களின் வளர்ச்சிக்கான இத்திட்டம், 150 நாட்கள் வரை வேலைவாய்ப்பு பெறும் வகையில் செயல்முறைபடுத்த நடவடிக்கை எடுக்கப்படும்.",
+            "english": "100 days employment scheme will be increased to 150 days: The Central Government has announced that the 100 days employment scheme will be increased to 125 days. Steps will be taken to implement this rural development scheme to provide up to 150 days of employment."
+          },
+          {
+            "id": 6,
+            "tamil": "அம்மா இருசக்கர வாகனம் வாங்க மானியம் வழங்கும் திட்டம்: வேலைக்குச் செல்லும் மகளிருக்கு ரூ. 25,000/- மானியத்துடன், 5 லட்சம் மகளிருக்கு அம்மா இருசக்கர வாகனங்கள் வழங்கப்படும்.",
+            "english": "Subsidy scheme for purchasing Amma Two-Wheelers: Amma two-wheelers will be provided to 5 lakh working women with a subsidy of Rs. 25,000/-."
+          },
+          {
+            "id": 7,
+            "tamil": "முதியோர் உள்ளிட்டவர்களுக்கான ஓய்வூதியங்கள் ரூ. 2,000/-மாக உயர்வு: சமூக ஓய்வூதியத் திட்டத்தின் கீழ் முதியோர், விதவைப் பெண்கள், முதிர் கன்னிகள், கணவனால் கைவிடப்பட்ட பெண்கள், மாற்றுத் திறனாளிகள் மற்றும் மூன்றாம் பாலினத்தவர்களுக்கு வழங்கப்பட்டு வரும் சமூகப் பாதுகாப்பு மாதாந்திர ஓய்வூதியம் ரூ. 1,200/-ல் இருந்து ரூ. 2,000/-ஆக உயர்த்தி வழங்கப்படும்.",
+            "english": "Pensions for the elderly and others increased to Rs. 2,000/-: The monthly social security pension provided to the elderly, widows, destitute unmarried women, deserted women, differently-abled persons, and transgender persons under the social pension scheme will be increased from Rs. 1,200/- to Rs. 2,000/-."
+          },
+          {
+            "id": 8,
+            "tamil": "வங்கிகளில் பெற்ற கல்விக் கடன் தள்ளுபடி: மாணவர்கள், பெற்றோர்கள் நலன் காக்கும் பொருட்டு, வங்கிகளில் கல்விக் கடன் பெற்று, வேலைவாய்ப்பு கிடைக்காமல், கடன் தவணையை செலுத்த முடியாமல் உள்ளவர்களின் கல்விக் கடனை தள்ளுபடி செய்யும் வகையில், அத்தொகையை அரசே ஏற்கும்.",
+            "english": "Waiver of education loans obtained from banks: To protect the welfare of students and parents, the government will take over and waive the education loans of those who borrowed from banks but are unable to pay their EMIs due to unemployment."
+          },
+          {
+            "id": 9,
+            "tamil": "வாழ்வாதார உதவியாக, ஆண்டுக்கு 3 கேஸ் சிலிண்டர்கள் வழங்கப்படும்: அரிசி குடும்ப அட்டைதாரர்களுக்கு வாழ்வாதார உதவியாக, ஆண்டுக்கு 3 கேஸ் சிலிண்டர்கள் விலையில்லாமல் வழங்கப்படும்.",
+            "english": "3 free gas cylinders per year as livelihood assistance: As livelihood assistance, 3 free gas cylinders will be provided annually to the family of Rice Cardholders."
+          },
+          {
+            "id": 10,
+            "tamil": "ஜல்லிக்கட்டில் வீரர்கள் உயிரிழக்க நேரிட்டால் ரூ. 10 லட்சம் வழங்கப்படும். படுகாயமடைந்தவர்களுக்கு ரூ. 2 லட்சம் வழங்கப்படும். போட்டிகளை நடத்த அரசின் சார்பில் மானியமாக ரூ. 5 லட்சம் வழங்கப்படும். ஆன்லைன் பதிவு முறை ரத்து செய்யப்பட்டு பழைய நடைமுறையே பின்பற்றப்படும்.",
+            "english": "Rs. 10 lakh compensation for families of Jallikattu tamers who lose their lives; Rs. 2 lakh for severe injuries. A Government subsidy of Rs. 5 lakh will be provided to organize events. The online registration system will be cancelled and the manual system reinstated."
+          },
+          {
+            "id": 11,
+            "tamil": "இஸ்லாமிய, கிறிஸ்தவ மற்றும் ஏனைய சிறுபான்மை வகுப்பைச் சேர்ந்த மகளிர், சுயதொழில் தொடங்குவதற்கு வட்டியில்லா கடன் வழங்கப்படும்.",
+            "english": "Interest-free loans will be provided to women belonging to Muslim, Christian, and other minority communities to start self-employment ventures."
+          },
+          {
+            "id": 12,
+            "tamil": "மாற்றுத் திறனாளிகள் கூட்டுறவு வங்கிகளில் வாங்கிய கடன் தள்ளுபடி செய்யப்படும்.",
+            "english": "Loans obtained by differently-abled persons from cooperative banks will be waived."
+          },
+          {
+            "id": 13,
+            "tamil": "வேலைக்காக காத்திருக்கும் பட்டதாரி இளைஞர்களுக்கு மாதந்தோறும் 2,000 ரூபாயும்; +2 வரை படித்தவர்களுக்கு மாதந்தோறும் 1,000 ரூபாயும் வழங்கப்படும்.",
+            "english": "A monthly assistance of Rs. 2,000 will be provided to unemployed graduate youth and young women; Rs. 1,000 per month will be provided to those who have studied up to +2."
+          },
+          {
+            "id": 14,
+            "tamil": "மீன்பிடி தடைக் காலங்களில் மீனவர்களுக்கு நிவாரண உதவித் தொகை 8,000 ரூபாயில் இருந்து 12,000 ரூபாயாக உயர்த்தி வழங்கப்படும்.",
+            "english": "The relief assistance currently provided to fishermen during the fishing ban period will be increased from Rs. 8,000 to Rs. 12,000."
+          },
+          {
+            "id": 15,
+            "tamil": "பொங்கல் தொகுப்புடன், 1,000/- ரூபாய் ரொக்கமும் வழங்கப்படும்.",
+            "english": "Along with the Pongal gift hamper, a cash amount of Rs. 1,000/- will be given."
+          },
+          {
+            "id": 16,
+            "tamil": "கைத்தறி நெசவாளர்களுக்கு விலையில்லா மின்சாரம் 450 யூனிட்டாகவும், விசைத்தறி நெசவாளர்களுக்கு 1400 யூனிட்டாகவும் உயர்த்தி வழங்கப்படும்.",
+            "english": "Free electricity currently provided to handloom weavers will be increased to 450 units, and for powerloom weavers, to 1400 units."
+          },
+          {
+            "id": 17,
+            "tamil": "நகரப் பகுதிகளில் நடைபாதை சிறு வியாபாரிகள் கூட்டுறவு வங்கிகளில் வாங்கிய கடன் தள்ளுபடி செய்யப்படும்.",
+            "english": "Loans obtained from cooperative banks by small street vendors operating on pavements in urban areas will be waived."
+          },
+          {
+            "id": 18,
+            "tamil": "சொந்த ஆட்டோ இல்லாதவர்கள் புதிய ஆட்டோ வாங்குவதற்கு ரூ. 75,000/- மானியமாக வழங்கப்படும்.",
+            "english": "Registered members of the Auto Drivers Association who do not own an auto will be provided a subsidy of Rs. 75,000/- to purchase a new auto."
+          },
+          {
+            "id": 19,
+            "tamil": "ஆண்டுதோறும் தீபாவளி பண்டிகைக்கு பெண்களுக்கு விலையில்லா சேலையும், ஆண்களுக்கு தரமான வேட்டியும் வழங்கப்படும்.",
+            "english": "Every year for the Deepavali festival, high-quality free sarees will be provided to all women holding family cards, and high-quality dhotis will be provided to men."
+          },
+          {
+            "id": 20,
+            "tamil": "அரிசி குடும்ப அட்டைதாரர்களுக்கு குளிர் பதன பெட்டி (Fridge) விலையில்லாமல் வழங்கப்படும்.",
+            "english": "To reduce the household workload of homemakers, a free refrigerator (Fridge) will be provided to rice family cardholders."
+          },
+          {
+            "id": 21,
+            "tamil": "விலையில்லா அரிசியோடு, ஒரு கிலோ பருப்பு, ஒரு லிட்டர் சமையல் எண்ணெய் ஆகியவை விலையில்லாமல் வழங்கப்படும்.",
+            "english": "Along with the free rice currently provided to family cardholders, one kilo of dal and one litre of cooking oil will be provided free of cost."
+          }
+        ]
+      },
+      {
+        "section_number": 1,
+        "section_heading_tamil": "மத்திய, மாநில கூட்டாட்சி முறை",
+        "section_heading_english": "Central, State Federal System",
+        "section_heading": "மத்திய, மாநில கூட்டாட்சி முறை (Central, State Federal System)",
+        "promises": [
+          {
+            "id": 22,
+            "tamil": "‘உறவுக்கு கைகொடுப்போம், உரிமைக்கு குரல் கொடுப்போம்' கொள்கைப்படி மாநில அரசுகள் நிதி, நிர்வாக உரிமைகளுடன் சுதந்திரமாக செயல்பட வேண்டும்.",
+            "english": "According to the principle \"We will extend our hand for friendship, and raise our voice for rights\", State Governments must function independently with proper financial and administrative rights."
+          },
+          {
+            "id": 23,
+            "tamil": "மாறிவரும் சூழ்நிலைகளுக்கேற்ப, நிதிப் பகிர்வு முறையில் கூடுதல் நிதிப் பகிர்வை மாநிலங்களுக்கு வழங்க வலியுறுத்துவோம்.",
+            "english": "We will insist that additional financial devolution be provided to the states in accordance with changing circumstances."
+          },
+          {
+            "id": 24,
+            "tamil": "தமிழ் நாட்டின் நிதிப் பகிர்வு குறையாமல் பெறுவதை வலியுறுத்துவோம்.",
+            "english": "Standing firm, we will demand that Tamil Nadu receives its financial share without any reduction."
+          },
+          {
+            "id": 25,
+            "tamil": "தொகுதிகள் மறுசீரமைப்பில் தமிழ் நாட்டிற்கான விகிதாச்சார பிரதிநிதித்துவம் குறைந்துவிடாமல் இருக்க வலியுறுத்துவோம்.",
+            "english": "We will continuously insist that Tamil Nadu's current proportional representation is not reduced during the delimitation of constituencies."
+          },
+          {
+            "id": 26,
+            "tamil": "கல்வி, மருத்துவம் போன்ற துறைகள் பொதுப் பட்டியலில் இருந்து மாநிலப் பட்டியலுக்கு மாற்றப்பட வேண்டும்.",
+            "english": "Our stance remains that crucial departments such as Education and Medicine must be transferred from the Concurrent List to the State List."
+          },
+          {
+            "id": 27,
+            "tamil": "மத்திய வரி வசூலில், மேல் வரி, கூடுதல் வரி (Cess, Surcharge) மாநிலங்களுக்கு பகிர்ந்தளிக்கப்படும் நிதியில் சேர்க்கப்பட வேண்டும்.",
+            "english": "Our stance remains that taxes like cess and surcharge must be included in the divisible pool shared with the states."
+          }
+        ]
+      },
+      {
+        "section_number": 2,
+        "section_heading_tamil": "பொது நிர்வாகம்",
+        "section_heading_english": "Public Administration",
+        "section_heading": "பொது நிர்வாகம் (Public Administration)",
+        "promises": [
+          {
+            "id": 28,
+            "tamil": "ஜாதிச் சான்றிதழ் உள்ளிட்ட அரசு பலன்களை குறிப்பிட்ட நாட்களுக்குள் பெறுவதை உறுதி செய்ய பொது சேவை மையம் கட்டமைப்புகள் வலுப்படுத்தப்படும்.",
+            "english": "To ensure that the public quickly receives essential documents within specified days, infrastructure like public service centers (E-Seva) will be strengthened."
+          },
+          {
+            "id": 29,
+            "tamil": "பொதுமக்கள் மனுக்களின் நிலையை நேரடியாக அறிந்துகொள்ள ஏதுவாக இணையதளம் மேம்படுத்தப்படும்.",
+            "english": "The website will be upgraded so that the public can directly know all decisions and track actions taken on their petitions."
+          },
+          {
+            "id": 30,
+            "tamil": "கடந்த 5 ஆண்டுகளில் ஊழல் செய்த அலுவலர்கள் மற்றும் அமைச்சர்கள் மீது கடுமையான நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Severe action will be taken against officials and ministers who have engaged in deep-rooted corruption across departments over the past 5 years."
+          },
+          {
+            "id": 31,
+            "tamil": "மலைவாழ் மக்களுக்கு வழங்கப்பட்ட பட்டாக்கள் கணினிமயமாக்கப்பட்டு முறையாக வழங்கப்படும்.",
+            "english": "All pattas previously issued to tribal people living in hilly areas will be computerized, and proper pattas will be issued."
+          },
+          {
+            "id": 32,
+            "tamil": "கோயில் இனாம் நில உரிமை தொடர்பான பிரச்சனைகளுக்கு தீர்வுகாண ஒரு குழு அமைத்து உரிய தீர்வு காணப்படும்.",
+            "english": "To find a solution to temple Inam land ownership disputes, a committee will be formed and an appropriate solution found."
+          },
+          {
+            "id": 33,
+            "tamil": "ஆட்சேபணை இல்லாத அரசு நிலங்களில் வசிப்பவர்களுக்கு அரசு நிர்ணயிக்கும் தொகையை செலுத்தினால் பட்டா வழங்கப்படும்.",
+            "english": "Arrangements will be made to issue pattas to people residing for a long time on unobjectionable government lands provided they pay the amount fixed by the government."
+          }
+        ]
+      },
+      {
+        "section_number": 3,
+        "section_heading_tamil": "விவசாயம்",
+        "section_heading_english": "Agriculture",
+        "section_heading": "விவசாயம் (Agriculture)",
+        "promises": [
+          {
+            "id": 34,
+            "tamil": "நெல்லுக்கு ஆதார விலை குவிண்டால் ஒன்றுக்கு ரூ. 3,500/- என நிர்ணயம் செய்யப்படும்.",
+            "english": "Considering the cost of paddy production, steps will be taken to fix the Minimum Support Price (MSP) for paddy at Rs. 3,500/- per quintal."
+          },
+          {
+            "id": 35,
+            "tamil": "கரும்பு டன் ஒன்றுக்கு ரூ. 4,500/- என லாபகரமான நியாய விலை நிர்ணயம் செய்யப்படும்.",
+            "english": "Considering the cost of sugarcane production, steps will be taken to fix a profitable Fair and Remunerative Price (FRP) of Rs. 4,500/- per ton of sugarcane."
+          },
+          {
+            "id": 36,
+            "tamil": "விவசாய உற்பத்தியாளர் குழுக்கள்/நிறுவனங்கள் அமைப்பதை ஊக்குவிப்பதுடன் நிதி மற்றும் பிற உதவிகள் செய்யப்படும்.",
+            "english": "Along with encouraging the formation of Farmer Producer Groups/Companies, necessary financial and other assistance will be provided to strengthen existing companies."
+          },
+          {
+            "id": 37,
+            "tamil": "சிறு, குறு விவசாயிகளுக்கு இடுபொருட்கள் வாங்க ஆண்டுக்கு ஹெக்டேர் ஒன்றிற்கு ரூ. 15,000/- வரை வழங்கப்படும்.",
+            "english": "To purchase inputs like fertilizers and seeds, a production subsidy of up to Rs. 15,000/- per hectare per year will be provided to small and marginal farmers."
+          },
+          {
+            "id": 38,
+            "tamil": "கூட்டுறவு கடன் சங்கம் மூலம் விவசாயிகள் பெற்றுள்ள வேளாண்மை பயிர் கடன் தள்ளுபடி செய்யப்படும்.",
+            "english": "Steps will be taken to waive the agricultural crop loans obtained by farmers through Primary Agricultural Cooperative Credit Societies."
+          },
+          {
+            "id": 39,
+            "tamil": "Dr. M.S. சுவாமிநாதன் பரிந்துரைப்படி அனைத்து வேளாண் விளை பொருட்களுக்கும் குறைந்தபட்ச விலை (MSP) உறுதி செய்யப்படும்.",
+            "english": "As per the recommendations of Dr. M.S. Swaminathan, a Minimum Support Price (MSP) will be fixed for all food grain agricultural produce."
+          },
+          {
+            "id": 40,
+            "tamil": "வேளாண் விளைபொருட்களை மதிப்புக் கூட்டும் தொழில் கட்டமைப்புகளை கூட்டுறவு அமைப்புகளில் ஏற்படுத்த நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Appropriate government action will be taken to establish value-addition industrial infrastructure in cooperative organizations."
+          },
+          {
+            "id": 41,
+            "tamil": "காப்பீட்டுத் தொகையில் 2% மட்டும் விவசாயிகள் செலுத்தவும், மீதமுள்ள தொகையை அரசே செலுத்தவும் நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken so that farmers only pay 2% of the premium, and the government will bear the remaining insurance amount."
+          },
+          {
+            "id": 42,
+            "tamil": "விவசாய உற்பத்திக் குழுக்கள் கிட்டங்கிகள் அமைக்க சிறப்பு மானியம் வழங்கப்படும்.",
+            "english": "Special subsidies will be provided to establish agricultural warehouses as needed by Farmer Producer Groups."
+          },
+          {
+            "id": 43,
+            "tamil": "பெருந்திட்ட அளவில் சேமிப்பு கிட்டங்கிகள், உலர் இயந்திரங்கள், குளிர்பதன வசதிகள் ஏற்படுத்தித் தரப்படும்.",
+            "english": "To protect agricultural produce without damage, large-scale storage warehouses, drying machines, and cold storage facilities will be established in required locations."
+          },
+          {
+            "id": 44,
+            "tamil": "வேளாண் பல்கலைக்கழகத்திற்கு ஆராய்ச்சி பணிகளுக்கு கூடுதல் நிதி ஒதுக்கப்படும்.",
+            "english": "Additional funds will be allocated to the Agricultural University for research activities to pave the way for agricultural development."
+          },
+          {
+            "id": 45,
+            "tamil": "நிலமற்ற விவசாய கூலித் தொழிலாளர்களுக்கு வீடு, கல்வி, வேலைவாய்ப்பு கிடைக்க சிறப்பு நடவடிக்கை எடுக்கப்படும்.",
+            "english": "A census of landless agricultural laborers will be conducted, and special steps taken to ensure they receive housing, education, and employment."
+          },
+          {
+            "id": 46,
+            "tamil": "கூட்டுறவு வங்கிகள் மூலம் ட்ரோன் வசதிகள் குறைந்த வாடகையில் கிடைக்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to make drone facilities available through Cooperative Banks for pesticide spraying at a low rent."
+          },
+          {
+            "id": 47,
+            "tamil": "தரிசு நில மேம்பாட்டுத் திட்டம் தனி இயக்கமாக செயல்படும் மற்றும் விவசாயக் காடுகள் வளர்ப்பு ஊக்குவிக்கப்படும்.",
+            "english": "The 'Wasteland Development Scheme' will function as a separate movement; the Farm Forestry scheme will be encouraged."
+          },
+          {
+            "id": 48,
+            "tamil": "இயற்கை விவசாயத்தை ஊக்குவிக்கும் வகையில் நிதியுதவி மற்றும் மானியம் வழங்கப்படும்.",
+            "english": "To encourage organic farming, the government will provide concessions like financial assistance and subsidies."
+          },
+          {
+            "id": 49,
+            "tamil": "விவசாயிகள் விரும்பினால் நேரடியாக 100% அரசு மானியத்தில் 'சூரிய ஒளி பம்ப் செட்டுகள்' வழங்கப்படும்.",
+            "english": "For all farmers applying for new connections, \"Solar Pump Sets\" will be provided directly with a 100% government subsidy if they desire."
+          },
+          {
+            "id": 50,
+            "tamil": "விவசாயப் பணியின்போது உயிரிழந்தால் குடும்பத்திற்கு 10 லட்சம் ரூபாய் இழப்பீடு வழங்கப்படும்.",
+            "english": "If farmers lose their lives during agricultural work, a compensation of Rs. 10 lakh will be provided to their families."
+          },
+          {
+            "id": 51,
+            "tamil": "கறவை பசுக்கள், ஆடுகள், கோழிகள் வளர்ப்பு போன்ற தொழில்கள் செய்ய மானியத்துடன் கடன் வழங்கப்படும்.",
+            "english": "A scheme providing subsidized loans to small and marginal farmers will be implemented to engage in businesses like rearing livestock."
+          },
+          {
+            "id": 52,
+            "tamil": "டெல்டா மாவட்டங்களில் உலர்களம் மற்றும் சேமிப்பு கிடங்குகள் அமைத்து உட்கட்டமைப்பு மேம்படுத்தப்படும்.",
+            "english": "Steps will be taken to set up drying yards and storage warehouses in the delta districts to improve infrastructure."
+          },
+          {
+            "id": 53,
+            "tamil": "உணவு பதப்படுத்தும் தொழில் பூங்காக்கள் ஒவ்வொரு மாவட்டத்திலும் ஏற்படுத்தப்படும்.",
+            "english": "To encourage the food processing industry, food processing parks will be established in every district."
+          },
+          {
+            "id": 54,
+            "tamil": "நாராயணசாமி நாயுடு வாழ்ந்த வீட்டினை நினைவு இல்லமாக மாற்றுவதற்கு நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to acquire the house where farmer leader Narayanasamy Naidu lived and convert it into a memorial home."
+          },
+          {
+            "id": 55,
+            "tamil": "ஒவ்வொரு மாவட்டத்திலும் குளிர்சாதனக் கிடங்கு (Cold Storage) ஏற்படுத்திட நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to establish a Cold Storage facility in the central part of every district for agricultural and dairy products."
+          },
+          {
+            "id": 56,
+            "tamil": "சிறு, குறு விவசாயிகளுக்கு அறுவடை நெல்லை பாதுகாக்க மானிய விலையில் தார் பாய் வழங்கப்படும்.",
+            "english": "To protect harvested paddy, tarpaulin sheets will be provided at subsidized rates to small and marginal farmers."
+          },
+          {
+            "id": 57,
+            "tamil": "விவசாயிகள் மற்றும் மண்பாண்டத் தொழிலாளர்கள் தடையின்றி வண்டல் மண் எடுத்துச் செல்ல வழிவகை செய்யப்படும்.",
+            "english": "Arrangements will be made for farmers and pottery workers to take alluvial soil without hindrance with proper permission."
+          },
+          {
+            "id": 58,
+            "tamil": "பொது சமுதாய கிணறுகள் மற்றும் போர்வெல்கள் மூலம் பாசன வசதியும் குடிநீர் வசதியும் செய்யப்படும்.",
+            "english": "Community wells and community borewells will be created to facilitate irrigation for agricultural lands and drinking water."
+          },
+          {
+            "id": 59,
+            "tamil": "'இயற்கை வேளாண் விஞ்ஞானி நம்மாழ்வார்' பெயரில் இயற்கை வேளாண் கல்வி மையங்கள் உருவாக்கப்படும்.",
+            "english": "Organic farming education centers will be established in the name of 'Organic Agricultural Scientist Nammalvar'."
+          },
+          {
+            "id": 60,
+            "tamil": "பாசனத்திற்கு மும்முனை மின்சாரம் தொடர்ந்து கிடைக்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to ensure a continuous supply of three-phase electricity for irrigation."
+          },
+          {
+            "id": 61,
+            "tamil": "வேளாண் தொழிலை லாபகரமாக்கி வருவாயைப் பெருக்க மாநில வேளாண்மை ஆணையம் அமைக்கப்படும்.",
+            "english": "A State Agricultural Commission will be formed to make the agricultural industry more profitable and increase farmer income."
+          },
+          {
+            "id": 62,
+            "tamil": "'முதலமைச்சர்-விவசாயி வங்கி திட்டம்' மூலம் அனைத்து வகை வேளாண் உபகரணங்களும் வாடகை முறையில் வழங்கப்படும்.",
+            "english": "The 'Chief Minister-Farmer Bank Scheme' will be implemented to provide all types of agricultural equipment on a rental basis."
+          },
+          {
+            "id": 63,
+            "tamil": "நீலகிரி மாவட்டத்தில் காய்கறிகள் மற்றும் பழங்கள் பதப்படுத்தும் நிலையங்கள் அமைக்கப்படும்.",
+            "english": "To benefit farmers in the Nilgiris district, vegetable and fruit processing centers will be established."
+          },
+          {
+            "id": 64,
+            "tamil": "மானாவாரி நிலங்களில் விவசாயத்தை ஊக்குவிக்க ஒருங்கிணைந்த பண்ணை மேலாண்மை முறைகள் பரவலாக்கப்படும்.",
+            "english": "To encourage agriculture in rain-fed lands, integrated farm management and improved crop cultivation methods will be popularized."
+          },
+          {
+            "id": 65,
+            "tamil": "சொட்டுநீர் பாசனம் மற்றும் விவசாய உபகரண மானியங்கள் நேரடியாக வங்கிக் கணக்கில் செலுத்தப்படும்.",
+            "english": "Subsidies provided for drip irrigation and agricultural equipment will be deposited directly into the farmers' bank accounts."
+          },
+          {
+            "id": 66,
+            "tamil": "பம்பு செட்டுகளுக்கான GST வரியை 18%-லிருந்து 5%-மாகக் குறைக்க மத்திய அரசை வலியுறுத்துவோம்.",
+            "english": "We will urge the Central Government to reduce the GST on pump sets from 18% to 5%."
+          }
+        ]
+      },
+      {
+        "sub_section_heading": "தென்னை விவசாயம் (Coconut Farming)",
+        "promises": [
+          {
+            "id": 67,
+            "tamil": "தென்னையில் இருந்து இறக்கப்படும் நீரா பானத்தை பதப்படுத்தும் தொழிற்சாலைகளை ஏற்படுத்தி விற்பனை செய்யப்படும்.",
+            "english": "Steps will be taken to establish factories to process Neera extracted from coconut trees and sell it across the country."
+          },
+          {
+            "id": 68,
+            "tamil": "கொப்பறை தேங்காய் விலை குறையும்போதெல்லாம் அரசே கொள்முதல் செய்ய நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Whenever the price of copra coconut drops, steps will be taken by the government itself to procure copra."
+          },
+          {
+            "id": 69,
+            "tamil": "தேங்காய் நார் தொழிலை ஊக்குவிக்க மின் கட்டணச் சலுகை வழங்கப்படும்.",
+            "english": "To encourage the coir industry, electricity tariff concessions will be provided."
+          }
+        ]
+      },
+      {
+        "section_number": 4,
+        "section_heading_tamil": "நீர் வளம்",
+        "section_heading_english": "Water Resources",
+        "section_heading": "நீர் வளம் (Water Resources)",
+        "promises": [
+          {
+            "id": 70,
+            "tamil": "தமிழ் நாடு முழுவதும் உள்ள நீர்நிலைகள் குடிமராமத்து திட்டத்தின் மூலம் சீரமைக்கப்படும்.",
+            "english": "Water bodies across Tamil Nadu will be restored through the Kudimaramathu scheme, and water resources augmented."
+          },
+          {
+            "id": 71,
+            "tamil": "நீர்நிலைகளில் பெருகியுள்ள சீமைக் கருவேல மரங்கள் முற்றிலும் அகற்றப்படும்.",
+            "english": "Prosopis juliflora (Seemai Karuvelam) trees in irrigation tanks and riverbeds will be completely removed."
+          },
+          {
+            "id": 72,
+            "tamil": "ஆனைமலையாறு மற்றும் நல்லாறு அணைகள் கட்ட நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken regarding the construction of the Anaimalaiyar and Nallar dams under the Parambikulam-Aliyar project."
+          },
+          {
+            "id": 73,
+            "tamil": "பாண்டியாறு-புன்னம்புழா திட்டம் முழுமையாக விரைந்து செயல்படுத்தப்படும்.",
+            "english": "The Pandiyar-Punnampuzha scheme, a long-time dream of the farmers, will be implemented swiftly."
+          },
+          {
+            "id": 74,
+            "tamil": "விவசாயிகளின் நலன் கருதி அத்திக்கடவு-அவிநாசி திட்டம் Phase-2 முனைப்போடு செயல்படுத்தப்படும்.",
+            "english": "The Athikadavu-Avinashi Scheme Phase-2 will be implemented vigorously."
+          },
+          {
+            "id": 75,
+            "tamil": "சரபங்கா நீரேற்றுத் திட்டத்தின் மூலம் 100 ஏரிகளுக்கு நீர் நிரப்பும் பணிகள் விரைந்து முடிக்கப்படும்.",
+            "english": "To utilize the surplus water of the Mettur dam, the work of filling 100 lakes through the Sarabanga lift irrigation scheme will be completed swiftly."
+          },
+          {
+            "id": 76,
+            "tamil": "மேட்டூர் அணையின் உபரி நீரை நீரேற்று பாசனம் மூலம் ஏரிகளை நிரப்ப நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to pump the surplus water discharged from the Mettur dam to fill local lakes."
+          },
+          {
+            "id": 77,
+            "tamil": "சரபங்கா, திருமணிமுத்தாறு மற்றும் கரைபொட்டனார் ஆறுகளுடன் உபரி நீர் இணைக்க புதிய திட்டம் செயல்படுத்தப்படும்.",
+            "english": "A new scheme will be implemented to link the Mettur reservoir's surplus water with the Sarabanga and other rivers."
+          },
+          {
+            "id": 78,
+            "tamil": "ஊராட்சிப் பகுதிகள் அனைத்திலும் பாதுகாக்கப்பட்ட, தடையற்ற குடிநீர் வழங்கப்படும்.",
+            "english": "Protected, uninterrupted drinking water will be supplied to all Panchayat areas in Tamil Nadu."
+          },
+          {
+            "id": 79,
+            "tamil": "காவிரி-வைகை-குண்டாறு நதிகள் இணைப்புத் திட்டத்தை விரைவில் முடிக்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to swiftly complete the Cauvery-Vaigai-Gundar river linking project."
+          },
+          {
+            "id": 80,
+            "tamil": "கோதாவரி-காவிரி நதிநீர் இணைப்புத் திட்டத்தை செயல்படுத்த நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to implement the Godavari-Cauvery river linking project."
+          },
+          {
+            "id": 81,
+            "tamil": "முல்லைப் பெரியாறு அணையில் 152 அடி தண்ணீர் தேக்கி வைக்கும் பணி தொடரும்.",
+            "english": "The work to store 152 feet of water in the Mullaiperiyar dam will continue."
+          },
+          {
+            "id": 82,
+            "tamil": "நீர்ப்பாசன கால்வாய்த் திட்டங்கள் அனைத்தும் விரைந்து நிறைவேற்றப்படும்.",
+            "english": "Irrigation canal projects such as Athikadavu-Avinashi and Thamirabarani-Karumeniyar will all be completed swiftly."
+          },
+          {
+            "id": 83,
+            "tamil": "தேவையான இடங்களில் தடுப்பணைகள் அமைத்து நிலத்தடி நீர் செறிவூட்டப்படும்.",
+            "english": "Check dams will be constructed at required locations throughout the state to recharge groundwater."
+          },
+          {
+            "id": 84,
+            "tamil": "தாமிரபரணி ஆற்றின் உபநீரை வறண்ட பகுதிகளுக்கு எடுத்துச் செல்லும் புதிய திட்டம் செயல்படுத்தப்படும்.",
+            "english": "A new water management project will be implemented to divert the surplus water of the Thamirabarani river to arid regions."
+          },
+          {
+            "id": 85,
+            "tamil": "தாமிரபரணி-வைப்பாறு இணைப்புத் திட்டத்தை நிறைவேற்ற நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Necessary studies will be conducted to implement the Thamirabarani-Vaippar linking project."
+          }
+        ]
+      },
+      {
+        "section_number": 5,
+        "section_heading_tamil": "கால்நடை வளம்",
+        "section_heading_english": "Livestock Wealth",
+        "section_heading": "கால்நடை வளம் (Livestock Wealth)",
+        "promises": [
+          {
+            "id": 86,
+            "tamil": "விலையில்லா கறவை மாடு, ஆடுகள் வழங்கும் திட்டம் பெரிய அளவில் தொடர நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to resume the scheme of providing free milch cows and goats on a large scale."
+          },
+          {
+            "id": 87,
+            "tamil": "தலைவாசலில் கால்நடைப் பூங்கா மேம்படுத்தப்பட்டு அதிக பால் தரும் கலப்பின பசுக்களை உருவாக்கும் திட்டம் செயல்படுத்தப்படும்.",
+            "english": "The livestock park in Thalaivasal, Salem district, will be upgraded to create high-yielding crossbred cows."
+          },
+          {
+            "id": 88,
+            "tamil": "செறிவூட்டப்பட்ட தீவனப் பெட்டகங்கள் கால்நடை வளர்ப்போருக்கு சிறப்பு மானிய விலையில் வழங்கப்படும்.",
+            "english": "Enriched fodder kits will be provided to livestock rearers at special subsidized rates."
+          },
+          {
+            "id": 89,
+            "tamil": "பால் உபபொருட்கள் அதிக அளவில் உற்பத்தி செய்து லாபம் ஈட்டும் வகையில் 'ஆவின்' நிறுவனம் மேம்படுத்தப்படும்.",
+            "english": "The 'Aavin' institution will be upgraded to produce and sell milk by-products in large quantities."
+          },
+          {
+            "id": 90,
+            "tamil": "கால்நடை மருந்தகங்கள் போன்ற கட்டமைப்புகள் வலுப்படுத்தப்படும்.",
+            "english": "Infrastructure like new livestock sub-centers and veterinary dispensaries will be strengthened."
+          },
+          {
+            "id": 91,
+            "tamil": "தொடக்க பால் உற்பத்தியாளர் கூட்டுறவு சங்கப் பணியாளர்களை அரசு/கூட்டுறவு பணியாளர்களாக கொண்டுவர நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to regularize employees of Primary Milk Producers Cooperative Societies."
+          }
+        ]
+      },
+      {
+        "section_number": 6,
+        "section_heading_tamil": "மீனவர் நலன்",
+        "section_heading_english": "Fishermen Welfare",
+        "section_heading": "மீனவர் நலன் (Fishermen Welfare)",
+        "promises": [
+          {
+            "id": 92,
+            "tamil": "கடலில் உயிரிழக்கும் மீனவர்களின் குடும்பங்களுக்கு விபத்துக் காப்பீடாக ரூ.25 லட்சம் வழங்கப்படும்.",
+            "english": "An accident insurance of Rs. 25 lakh will be provided to the families of fishermen who meet with accidents or die of illness at sea."
+          },
+          {
+            "id": 93,
+            "tamil": "செயற்கைக்கோள் இணைப்புடன் கூடிய கடல் ஆம்புலன்ஸ் வசதிகள் ஏற்படுத்தப்படும்.",
+            "english": "Sea ambulance facilities equipped with satellite connectivity will be established for swift rescues."
+          },
+          {
+            "id": 94,
+            "tamil": "மீனவர்களையும் படகுகளையும் மீட்க மீனவர் மீட்புக் குழு மற்றும் இழுவை படகு வசதி ஏற்படுத்தப்படும்.",
+            "english": "A Fishermen Rescue Team and towing boat facilities will be established to rescue stranded boats."
+          },
+          {
+            "id": 95,
+            "tamil": "ஆழ்கடல் மீனவர்களுக்கு சக்தி வாய்ந்த தொலைத் தொடர்பு மையம் மற்றும் ரேடியோ டெலிபோன் வழங்கப்படும்.",
+            "english": "Powerful telecommunication centers will be established and radio telephones provided to deep-sea mechanized fishing boats."
+          },
+          {
+            "id": 96,
+            "tamil": "கடற்கரை மாவட்டங்களில் ஒருங்கிணைந்த மீன்பிடித் துறைமுகங்கள் (Integrated Fishing Harbour) அமைக்கப்படும்.",
+            "english": "Integrated Fishing Harbours equipped with all necessary facilities will be established."
+          },
+          {
+            "id": 97,
+            "tamil": "மீனவர்களுக்கு மானிய விலையில் வழங்கப்படும் டீசல் 500 லிட்டராக உயர்த்தி வழங்கப்படும்.",
+            "english": "The subsidized diesel provided monthly to fishermen will be increased to 500 liters."
+          },
+          {
+            "id": 98,
+            "tamil": "மீனவ சங்கங்கள் மூலம் நவீன படகுகள் வாங்க மானியத்துடன் கூடிய கடன் வசதி செய்து தரப்படும்.",
+            "english": "Subsidized loan facilities will be provided through fishermen societies for modern boats and equipment."
+          },
+          {
+            "id": 99,
+            "tamil": "உள்நாட்டு மீனவர்களுக்கு வலை மற்றும் உபகரணங்கள் விலையில்லாமல் வழங்கப்படும்.",
+            "english": "Nets and equipment will be provided free of cost to inland fishermen through Cooperative Societies."
+          },
+          {
+            "id": 100,
+            "tamil": "மீனவப் பெண்களுக்கு நலத் திட்டங்கள் பெற பயோமெட்ரிக் அட்டை வழங்கப்படும்.",
+            "english": "Biometric cards will be issued to fisherwomen to ensure they fully receive welfare schemes."
+          },
+          {
+            "id": 101,
+            "tamil": "முகத்துவாரங்கள் தூர் வாரப்பட்டு நிலைப்படுத்தப்படும்.",
+            "english": "To protect livelihoods, all estuaries will be desilted, stabilized, and widened."
+          },
+          {
+            "id": 102,
+            "tamil": "நவீன மீன் பதனிடும் நிலையம், நவீன மீன் சந்தை, பசுமை மீன் சந்தை ஆகியன உருவாக்கப்படும்.",
+            "english": "Modern fish processing centers and modern fish markets will be created at landing centers."
+          },
+          {
+            "id": 103,
+            "tamil": "65 வயதுக்கு மேற்பட்ட மீனவர்களுக்கு மாதம் 2,500 ரூபாய் ஓய்வூதியம் வழங்கப்படும்.",
+            "english": "A monthly pension of Rs. 2,500 will be provided to fishermen above 65 years of age."
+          }
+        ]
+      },
+      {
+        "section_number": 7,
+        "section_heading_tamil": "கல்வி",
+        "section_heading_english": "Education",
+        "section_heading": "கல்வி (Education)",
+        "promises": [
+          {
+            "id": 104,
+            "tamil": "அரசு பள்ளி மாணவர்களுக்கான மருத்துவப் படிப்பு இடஒதுக்கீடு 7.5 சதவீதத்தில் இருந்து 10 சதவீதமாக உயர்த்தி வழங்கப்படும்.",
+            "english": "The medical admission reservation for government school students will be increased from 7.5 percent to 10 percent."
+          },
+          {
+            "id": 105,
+            "tamil": "உயர்நிலை மற்றும் மேல்நிலை வகுப்புகளில் அறிவியல் ஆர்வத்தைத் தூண்டும் வகையில் 'STEM learning' மையங்கள் ஏற்படுத்தப்படும்.",
+            "english": "Special steps will be taken to improve mathematical and language skills; 'STEM learning' centers will be established."
+          },
+          {
+            "id": 106,
+            "tamil": "6 முதல் 10-ஆம் வகுப்புகளுக்கு கணினி அறிவியலை சேர்த்து ஆறு பாடங்களாக கற்பிக்கும் வகையில் பாடத் திட்டம் மாற்றி அமைக்கப்படும்.",
+            "english": "The curriculum will be restructured to teach computer science as a sixth subject for classes 6 to 10."
+          },
+          {
+            "id": 107,
+            "tamil": "அறிஞர் அண்ணா கண்ட இருமொழிக் கொள்கைக்கு பாதிப்பு ஏற்படுத்தும் புதிய கல்விக் கொள்கையின் ஷரத்துகள் ஏற்கப்பட மாட்டாது.",
+            "english": "Clauses detrimental to the two-language policy envisioned by Arignar Anna in the New Education Policy are unacceptable."
+          },
+          {
+            "id": 108,
+            "tamil": "பள்ளிக் கல்வித் துறையில் காலியாக உள்ள ஆசிரியர் பணியிடங்கள் நிரப்பப்படும்.",
+            "english": "The currently vacant teacher posts in the School Education Department will be filled."
+          },
+          {
+            "id": 109,
+            "tamil": "பருவகால மாற்றம் (Climate Change) குறித்து மாணவர்களின் பாடத் திட்டத்தில் சேர்க்கப்படும்.",
+            "english": "Climate Change will be included in the students' curriculum."
+          },
+          {
+            "id": 110,
+            "tamil": "அரசு மற்றும் உதவி பெறும் கல்லூரி மாணவர்களுக்கு உரிய காலத்தில் விலையில்லா மடிக் கணினி வழங்கப்படும்.",
+            "english": "Free laptops will be provided at the appropriate time to students studying in government and aided colleges."
+          },
+          {
+            "id": 111,
+            "tamil": "மாணாக்கர்கள் பயன்பெறும் வகையில், கல்வித் தொலைக்காட்சி மீண்டும் பயன்பாட்டுக்கு கொண்டுவரப்படும்.",
+            "english": "Kalvi TV (Education TV) will be brought back into use to benefit students."
+          },
+          {
+            "id": 112,
+            "tamil": "ஹார்வேர்டு, MIT போன்ற பல்கலைக்கழகங்களுடன் இணைந்து 10 சர்வதேச தரம் வாய்ந்த பல்கலைக்கழகங்கள் தமிழ் நாட்டில் தொடங்கப்படும்.",
+            "english": "10 international standard universities will be established in collaboration with world-renowned universities."
+          },
+          {
+            "id": 113,
+            "tamil": "ஊர்ப்புற நூலகங்கள் தரம் உயர்த்தப்படும் மற்றும் நூலகர் காலிப் பணியிடங்கள் நிரப்பப்படும்.",
+            "english": "Rural libraries will be upgraded and all vacant librarian posts filled."
+          }
+        ]
+      },
+      {
+        "section_number": 8,
+        "section_heading_tamil": "மருத்துவம் மற்றும் சுகாதாரம்",
+        "section_heading_english": "Medicine and Healthcare",
+        "section_heading": "மருத்துவம் மற்றும் சுகாதாரம் (Medicine and Healthcare)",
+        "promises": [
+          {
+            "id": 114,
+            "tamil": "சுமார் 2000 அம்மா மினி கிளினிக்குகள் நவீன மருத்துவ வசதிகளுடன் மீண்டும் துவக்கப்படும்.",
+            "english": "The approximately 2000 Amma Mini Clinics will be reopened with modern medical facilities."
+          },
+          {
+            "id": 115,
+            "tamil": "அரசு காப்பீடுத் திட்ட ஏழைகள் தனியார் மருத்துவமனைகளில் பெரிய சிகிச்சைகளை மேற்கொள்ளும்போது முழு தொகையையும் அரசே செலுத்தும்.",
+            "english": "The government will directly pay the entire amount without any cost limit for major treatments in private hospitals for those in the insurance scheme."
+          },
+          {
+            "id": 116,
+            "tamil": "மருத்துவர், பல் மருத்துவர் மற்றும் பேராசிரியர் காலிப் பணியிடங்கள் நிரப்பப்படும்.",
+            "english": "Vacant posts for doctors, dentists, Assistant Professors, and Associate Professors will be filled."
+          },
+          {
+            "id": 117,
+            "tamil": "10 ஆண்டுகளுக்கு மேலாக பணிபுரியும் செவிலியர்களின் பணி நிரந்தரம் செய்யப்படும்.",
+            "english": "The services of nurses who have been working for more than 10 years will be made permanent."
+          },
+          {
+            "id": 118,
+            "tamil": "அம்மா முழு உடல் மருத்துவ பரிசோதனை திட்டத்தில் பெட் ஸ்கேனிங் வசதிகள் ஏற்படுத்தப்படும்.",
+            "english": "Under the Amma Master Health Checkup scheme, PET scanning facilities will be established to detect cancer."
+          },
+          {
+            "id": 119,
+            "tamil": "சர்க்கரை நோய், இரத்த அழுத்தம் கண்டறிய கிராமப் புறங்களில் மருத்துவ முகாம்கள் நடத்தப்படும்.",
+            "english": "Medical camps will be conducted in rural areas to identify people affected by diabetes and blood pressure."
+          },
+          {
+            "id": 120,
+            "tamil": "ஏழை தம்பதிகளுக்கு மருத்துவக் காப்பீட்டுத் திட்டத்தின்கீழ் கட்டணமில்லா IVF சிகிச்சை வழங்கப்படும்.",
+            "english": "Free IVF treatment will be provided under the Chief Minister's Comprehensive Health Insurance Scheme."
+          },
+          {
+            "id": 121,
+            "tamil": "புற்றுநோய் சிகிச்சைக்கான வசதிகள் அனைத்து மாவட்ட அரசு மருத்துவமனைகளிலும் ஏற்படுத்தப்படும்.",
+            "english": "Linear Accelerator facilities and cancer treatment centers will be established in all district government hospitals."
+          },
+          {
+            "id": 122,
+            "tamil": "ஆரம்ப சுகாதார நிலையங்கள் உள்ளிட்ட மருத்துவமனைகளின் கட்டமைப்பு வசதிகள் மேம்படுத்தப்படும்.",
+            "english": "Infrastructure facilities of Primary Health Centers and all government hospitals will be upgraded."
+          }
+        ]
+      },
+      {
+        "section_number": 9,
+        "section_heading_tamil": "தமிழ் மொழி மற்றும் பண்பாடு",
+        "section_heading_english": "Tamil Language and Culture",
+        "section_heading": "தமிழ் மொழி மற்றும் பண்பாடு (Tamil Language and Culture)",
+        "promises": [
+          {
+            "id": 123,
+            "tamil": "தமிழ் மொழி உட்பட அனைத்தையும் மத்திய அரசின் ஆட்சி மொழிகளாக அறிவிக்க வலியுறுத்துவோம்.",
+            "english": "We will urge the Central Government to declare state languages, including Tamil, as official languages of the Central Government."
+          },
+          {
+            "id": 124,
+            "tamil": "சென்னை உயர்நீதி மன்றத்தின் வழக்காடு மொழியாக தமிழை கொண்டு வர நடவடிக்கை மேற்கொள்ளப்படும்.",
+            "english": "Steps will be taken to bring Tamil as the language of proceedings in the Madras High Court."
+          },
+          {
+            "id": 125,
+            "tamil": "மத்திய அரசு போட்டித் தேர்வுகள் உள்ளிட்ட அனைத்து தேர்வுகளும் தமிழில் நடத்த வலியுறுத்தப்படும்.",
+            "english": "We will insist that all examinations, including Central Government competitive exams, be conducted in Tamil."
+          },
+          {
+            "id": 126,
+            "tamil": "25 சர்வதேச பல்கலைக்கழகங்களில் தமிழ் இருக்கைகள் அமைக்க நடவடிக்கை மேற்கொள்ளப்படும்.",
+            "english": "Financial assistance will be provided to establish Tamil Chairs in 25 international universities."
+          },
+          {
+            "id": 127,
+            "tamil": "கீழடி, ஆதிச்சநல்லூர் உள்ளிட்ட இடங்களில் அகழாய்வுப் பணிகள் தடையின்றி தொடர நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to swiftly continue uninterrupted excavation works at sites like Keeladi and Adichanallur."
+          }
+        ]
+      },
+      {
+        "section_number": 10,
+        "section_heading_tamil": "மகளிர் நலன் மற்றும் குழந்தைகள் பாதுகாப்பு",
+        "section_heading_english": "Women's Welfare and Child Protection",
+        "section_heading": "மகளிர் நலன் மற்றும் குழந்தைகள் பாதுகாப்பு (Women's Welfare and Child Protection)",
+        "promises": [
+          {
+            "id": 128,
+            "tamil": "மகளிர் சுயதொழில் தொடங்க மானியம் வழங்கி, 5 ஆண்டுகளில் ஒரு லட்சம் சிறு/குறு தொழில் நிறுவனங்கள் தொடங்கப்படும்.",
+            "english": "A subsidy of up to Rs. 10,000 per person will be provided to women to start one lakh small/micro enterprises in 5 years."
+          },
+          {
+            "id": 129,
+            "tamil": "மகளிர் சுயஉதவிக் குழுக்களுக்கு குறைந்த வட்டியில் கடன் வழங்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to provide loans at low interest rates to Women's Self-Help Groups."
+          },
+          {
+            "id": 130,
+            "tamil": "தாலிக்குத் தங்கம் மற்றும் திருமண உதவித் திட்டத்துடன் விலையில்லா பட்டுவேட்டி, சேலைகள் வழங்கப்படும்.",
+            "english": "Steps will be taken to continue the Thalikku Thangam and Marriage Assistance Scheme, including free silk dhotis and sarees."
+          },
+          {
+            "id": 131,
+            "tamil": "கைம்பெண்கள் மற்றும் ஆதரவற்ற பெண்களுக்கு மானியத்துடன் கூடிய கடன் மற்றும் வேலை வாய்ப்பில் முன்னுரிமை வழங்கப்படும்.",
+            "english": "Widows and destitute women will quickly receive subsidized loans for self-employment and priority in employment."
+          },
+          {
+            "id": 132,
+            "tamil": "தையல் பயிற்சி முடித்த பெண்களுக்கு இலவச தையல் இயந்திரம் வழங்கப்படும்.",
+            "english": "Free sewing machines will be provided to women who complete training at recognized tailoring institutes."
+          },
+          {
+            "id": 133,
+            "tamil": "டாக்டர் முத்துலட்சுமி ரெட்டி மகப்பேறு உதவித் தொகை உயர்த்தி வழங்கப்படும்.",
+            "english": "The Dr. Muthulakshmi Reddy Maternity Benefit amount will be increased."
+          },
+          {
+            "id": 134,
+            "tamil": "பெண் குழந்தைகள் பாதுகாப்பு திட்ட வைப்பு நிதி 50,000 ரூபாயில் இருந்து 1,00,000 ரூபாயாக உயர்த்தப்படும்.",
+            "english": "The investment amount under the Girl Child Protection Scheme will be increased to Rs. 1,00,00,000/-."
+          }
+        ]
+      },
+      {
+        "section_number": 11,
+        "section_heading_tamil": "பெண்கள் பாதுகாப்பு",
+        "section_heading_english": "Women's Protection",
+        "section_heading": "பெண்கள் பாதுகாப்பு (Women's Protection)",
+        "promises": [
+          {
+            "id": 135,
+            "tamil": "சென்னையில் செயல்பட்டு வரும் காவலன் செயலி மற்ற நகரங்களுக்கும் விரிவுபடுத்தப்படும்.",
+            "english": "To ensure the safety of women at all times, the Kavalan app functioning in Chennai will be expanded to other cities."
+          },
+          {
+            "id": 136,
+            "tamil": "சென்னையில் அறிமுகப்படுத்தப்பட்ட அம்மா ரோந்து வாகனங்கள் மற்ற நகரங்களுக்கும் விரிவுபடுத்தப்படும்.",
+            "english": "The Amma Patrol vehicles introduced in Chennai for the protection of women and children will be expanded to other cities."
+          },
+          {
+            "id": 137,
+            "tamil": "இரண்டாம் கட்ட நகரங்களிலும் உலகத் தரத்திலான CCTV கண்காணிப்பு கட்டமைப்பு உருவாக்கப்படும்.",
+            "english": "To further improve law and order, world-class CCTV infrastructure will be created in tier-two cities."
+          },
+          {
+            "id": 138,
+            "tamil": "வேலைக்குச் செல்லும் மகளிர் தங்குவதற்கு வசதியாக அதிக அளவில் மகளிர் தங்கும் விடுதிகள் அமைக்கப்படும்.",
+            "english": "A large number of working women's hostels will be built in urban areas to facilitate safe accommodation."
+          },
+          {
+            "id": 139,
+            "tamil": "தமிழகத்தில் மதுவிலக்கை அமல்படுத்தும் நோக்கில், படிப்படியாக மதுபானக் கடைகளை மூடுவதற்கு நடவடிக்கை எடுக்கப்படும்.",
+            "english": "With the aim of implementing prohibition, steps will be taken to close liquor shops in a phased manner."
+          }
+        ]
+      },
+      {
+        "section_number": 12,
+        "section_heading_tamil": "தொழில் வளம்",
+        "section_heading_english": "Industrial Wealth",
+        "section_heading": "தொழில் வளம் (Industrial Wealth)",
+        "promises": [
+          {
+            "id": 140,
+            "tamil": "இரண்டாண்டுகளுக்கு ஒருமுறை உலக முதலீட்டாளர் மாநாடு நடத்தி தொழில் வளம் பெருக்கப்படும்.",
+            "english": "Global Investors Meets will be held once every two years to quickly transform Tamil Nadu into a 'One Trillion Dollar Economy'."
+          },
+          {
+            "id": 141,
+            "tamil": "தென் மாவட்டங்கள் தொழில் வளம் பெருக சிறப்பு நடவடிக்கைகள் எடுக்கப்படும்.",
+            "english": "Special steps will be taken specifically to boost industrial wealth in the southern districts."
+          },
+          {
+            "id": 142,
+            "tamil": "முதலமைச்சர் நேரடி கட்டுப்பாட்டில் 'ஒற்றை சாளர முறை' மூலம் அனைத்து அனுமதிகளும் குறித்த காலத்தில் வழங்கப்படும்.",
+            "english": "A 'Single Window System' will operate under the direct control of the Honorable Chief Minister to coordinate all permissions within a specified time."
+          },
+          {
+            "id": 143,
+            "tamil": "மதுரை, தூத்துக்குடி தொழில் வழித்தடத் திட்டத்தை செயல்படுத்த தொழிற்பேட்டைகள் அமைக்கப்படும்.",
+            "english": "To facilitate industrial investment, industrial estates will be established at specific locations to implement the industrial corridor project in the southern districts."
+          },
+          {
+            "id": 144,
+            "tamil": "சென்னையை Medical Tourism என்ற நிலையில் மேம்படுத்தவும் மற்ற நகரங்களுக்கும் விரிவுபடுத்தவும் நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Chennai will be upgraded as a Medical Tourism hub and foreign exchange will be earned for the medical sector."
+          },
+          {
+            "id": 145,
+            "tamil": "தொழில் முனைவோருக்கு உதவிட சிறப்பு தனி வாரியம் அமைத்து திறன் மேம்பாட்டுப் பயிற்சிகள் வழங்கிட வழிவகை செய்யப்படும்.",
+            "english": "To assist entrepreneurs and exporters, a special separate board will be formed to provide skill development training."
+          },
+          {
+            "id": 146,
+            "tamil": "சென்னையை தலைமையிடமாகக் கொண்டு Satellite Software Park நிறுவப்படும்.",
+            "english": "A Satellite Software Park will be established with Chennai as the headquarters to enable 200 software companies to set up their firms."
+          },
+          {
+            "id": 147,
+            "tamil": "உப்பு உற்பத்தித் தொழிலை மேம்படுத்தும் வண்ணம் 'அம்மா உப்பு திட்டம்' மீண்டும் கொண்டுவரப்படும்.",
+            "english": "To improve the salt production industry, the 'Amma Salt Scheme' will be brought back."
+          },
+          {
+            "id": 148,
+            "tamil": "சென்னையிலும், திருநெல்வேலியிலும் மருந்துவப் பூங்கா (Pharmaceutical Park) அமைக்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to establish Pharmaceutical Parks in Chennai and Tirunelveli to increase employment."
+          },
+          {
+            "id": 149,
+            "tamil": "கோவை, திருச்சி உள்ளிட்ட பகுதிகளில் இராணுவத் தளவாடங்கள் தயாரிக்கும் தொழிற்சாலைகளை விரைந்து அமைக்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to swiftly establish factories manufacturing defense equipment in the defense corridor."
+          },
+          {
+            "id": 150,
+            "tamil": "சென்னைக்கு அருகில் 260 ஏக்கர் பரப்பளவில் \"தொழில்நுட்ப நகர்\" அமைக்க நடவடிக்கை மேற்கொள்ளப்படும்.",
+            "english": "Steps will be taken to establish a \"Tech City\" over 260 acres near Chennai for financial and fintech companies."
+          }
+        ]
+      },
+      {
+        "section_number": 13,
+        "section_heading_tamil": "சிறு, குறு மற்றும் நடுத்தர தொழில் மேம்பாடு",
+        "section_heading_english": "MSME Development",
+        "section_heading": "சிறு, குறு மற்றும் நடுத்தர தொழில் மேம்பாடு (MSME Development)",
+        "promises": [
+          {
+            "id": 151,
+            "tamil": "சிறு, குறு மற்றும் நடுத்தர தொழில் நிறுவனங்களின் பிரச்சனைகளுக்கு அரசு தீர்வு காண ஒரு குழு அமைக்கப்படும்.",
+            "english": "A committee including MSME representatives will be formed to analyze problems and facilitate finding solutions."
+          },
+          {
+            "id": 152,
+            "tamil": "விவசாயம் சார்ந்த மற்றும் கைவினை சார்ந்த தொழில் துவங்க சிறப்பு மானியங்கள் வழங்கப்படும்.",
+            "english": "To encourage industrial development in rural areas, special subsidies will be provided to start agriculture-based and food processing industries."
+          },
+          {
+            "id": 153,
+            "tamil": "சிறு, குறு தொழிலாளர்களுக்கான மின்சார நிலைக் கட்டணம் வரைமுறைபடுத்தப்படும்.",
+            "english": "The fixed charges levied by the Electricity Board on micro and small industries will be regulated."
+          },
+          {
+            "id": 154,
+            "tamil": "சூரிய ஒளி மின்சாரத்தை தாங்களே தயாரித்து பயன்படுத்துவதை ஊக்குவிக்க கூடுதலாக மானியம் வழங்கப்படும்.",
+            "english": "Additional subsidies will be provided to encourage micro and small industries to generate their own solar power."
+          },
+          {
+            "id": 155,
+            "tamil": "கைவினைக் கலைஞர்களுக்கான சிறு வணிக வளாகம் மற்றும் திறன் மேம்பாட்டு வளாகங்கள் மாவட்டந்தோறும் உருவாக்கப்படும்.",
+            "english": "Integrated small trade complexes and skill development complexes for artisans will be created in every district."
+          },
+          {
+            "id": 156,
+            "tamil": "ஒப்பந்த வேலை மீதான (ஜாப் ஒர்க்ஸ்) GST வரிவிதிப்பை 5%-மாகக் குறைக்க மத்திய அரசை வலியுறுத்தப்படும்.",
+            "english": "For the growth of MSMEs, we will urge the Central Government to reduce the GST on job works to 5%."
+          }
+        ]
+      },
+      {
+        "section_number": 14,
+        "section_heading_tamil": "சுற்றுச்சூழல்",
+        "section_heading_english": "Environment",
+        "section_heading": "சுற்றுச்சூழல் (Environment)",
+        "promises": [
+          {
+            "id": 157,
+            "tamil": "'நடந்தாய் வாழி காவேரி திட்டம்' விரைந்து செயல்படுத்தப்படும்.",
+            "english": "The 'Nadanthai Vaazhi Cauveri Scheme' will be implemented swiftly to prevent sewage from mixing in the river."
+          },
+          {
+            "id": 158,
+            "tamil": "வைகை, தாமிரபரணி ஆறுகளில் கலக்கும் கழிவு நீரை தடுக்க உரிய ஆய்வுகள் மேற்கொள்ளப்படும்.",
+            "english": "Proper studies will be conducted and steps taken to prevent sewage from mixing in rivers like Vaigai and Thamirabarani."
+          },
+          {
+            "id": 159,
+            "tamil": "ஜந்து ஆண்டுகளில் 10 கோடி மரக் கன்றுகள் நடப்பட்டு பராமரிக்கப்படும்.",
+            "english": "10 crore saplings will be planted and maintained over five years to make Tamil Nadu an eco-friendly state."
+          },
+          {
+            "id": 160,
+            "tamil": "அனைத்து நகரப் பேருந்துகளும் மின்சார வாகனங்களாக மாற்றப்படும்.",
+            "english": "With the aim of encouraging electric vehicles, all city buses will be converted into electric vehicles."
+          },
+          {
+            "id": 161,
+            "tamil": "சாக்கடை கழிவுகளை அகற்ற ரோபோட்டிக் இயந்திரத்தை பயன்படுத்தும் தொழில்நுட்பம் புகுத்தப்படும்.",
+            "english": "Technology using robotic machines to remove sewage waste will be introduced."
+          },
+          {
+            "id": 162,
+            "tamil": "மாநகராட்சிகளில் நீர் மறுசுழற்சி மற்றும் கழிவு நீர் சுத்திகரிப்புக்கு முக்கியத்துவம் அளிக்கப்படும்.",
+            "english": "Importance will be given to water recycling and sewage treatment in all municipal corporations."
+          },
+          {
+            "id": 163,
+            "tamil": "சாயப் பட்டறை கழிவுநீர் பிரச்சனைகளுக்கு நிரந்தரத் தீர்வு ஏற்படுத்திட உரிய நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Appropriate steps will be taken to find a permanent solution to the dyeing effluent problem in western districts."
+          },
+          {
+            "id": 164,
+            "tamil": "மறுசுழற்சி பிளாஸ்டிக் கழிவுகளுக்கு GST-யை 5%-மாகக் குறைக்க மத்திய அரசை வலியுறுத்தப்படும்.",
+            "english": "We will urge the Central Government to reduce the GST on recycled plastic waste from 18% to 5%."
+          },
+          {
+            "id": 165,
+            "tamil": "பேப்பர் பைகள் உற்பத்தி மூலப் பொருட்களுக்கான GST-யை 5%-மாகக் குறைக்க வலியுறுத்தப்படும்.",
+            "english": "We will urge the Central Government to reduce the GST on raw materials for producing eco-friendly paper bags."
+          },
+          {
+            "id": 166,
+            "tamil": "நகர்ப்புறங்களில் குப்பைகளை அழிக்க நவீன முறையைப் பயன்படுத்தி சிறப்பு நடவடிக்கைகள் மேற்கொள்ளப்படும்.",
+            "english": "As a permanent solution for garbage waste, special steps will be taken to destroy garbage using modern methods."
+          },
+          {
+            "id": 167,
+            "tamil": "கிராம ஊராட்சிகளில் குப்பைக் கழிவுகளை மறுசுழற்சி செய்ய நடவடிக்கை மேற்கொள்ளப்படும்.",
+            "english": "In highly populated village panchayats, steps will be taken to recycle garbage waste and properly treat sewage water."
+          }
+        ]
+      },
+      {
+        "section_number": 15,
+        "section_heading_tamil": "தொழிலாளர் நலன்",
+        "section_heading_english": "Labour Welfare",
+        "section_heading": "தொழிலாளர் நலன் (Labour Welfare)",
+        "promises": [
+          {
+            "id": 168,
+            "tamil": "ஆட்டோ ஓட்டுநர்களின் வாழ்வாதாரத்தைப் பாதுகாக்க அரசு சார்பில் தனி செயலி உருவாக்கப்படும்.",
+            "english": "To protect the livelihood of auto drivers, a separate app will be created on behalf of the government."
+          },
+          {
+            "id": 169,
+            "tamil": "டெலிவரி தொழிலாளர்கள், டாக்சி ஓட்டுநர்கள் போன்ற தற்காலிக தொழிலாளர்களுக்கான நலத் திட்ட வாரியம் ஏற்படுத்தப்படும்.",
+            "english": "A 'Welfare Scheme Board for temporary contract workers or app-based gig workers' will be established."
+          },
+          {
+            "id": 170,
+            "tamil": "நாட்டு செங்கல் சூளை மற்றும் மண்பாண்டத் தொழிலாளர்களுக்கு வழங்கும் மண் அளவு 150 யூனிட்டாக உயர்த்தப்படும்.",
+            "english": "The sand quota currently provided to manual country brick kiln and pottery workers will be increased to 150 units."
+          },
+          {
+            "id": 171,
+            "tamil": "மண்பாண்டத் தொழிலாளர்களுக்கான மழைக்கால நிவாரண நிதி உயர்த்தி வழங்கப்படும்.",
+            "english": "The monsoon relief fund currently provided to all pottery workers in Tamil Nadu will be increased."
+          },
+          {
+            "id": 172,
+            "tamil": "விஸ்வகர்மா சமுதாய மக்களின் ஐந்து தொழில்களும் உள்ளடங்கிய தொழில் பூங்கா மாவட்ட அளவில் அமைத்துத் தரப்படும்.",
+            "english": "Industrial parks encompassing the five traditional trades of the Vishwakarma community will be established at the district level."
+          },
+          {
+            "id": 173,
+            "tamil": "பீடித் தொழிலாளர்கள் வாரியத்தின் மூலமாக சலுகைகள் கிடைக்க வழிவகை செய்யப்படும்.",
+            "english": "Beedi workers will be registered in the unorganized workers' board to receive concessions through the board."
+          },
+          {
+            "id": 174,
+            "tamil": "உப்பளத் தொழிலாளர்களுக்கு வழங்கப்படும் மழைக்கால நிவாரண நிதி உயர்த்தி வழங்கப்படும்.",
+            "english": "The monsoon relief fund currently provided to all salt pan workers in Tamil Nadu will be increased."
+          },
+          {
+            "id": 175,
+            "tamil": "வெள்ளி கொலுசு, ஆபரண தொழில் செய்பவர்கள் நலன் காக்க \"வெள்ளி கொலுசு, ஆபரண தொழில் நல வாரியம்\" அமைக்கப்படும்.",
+            "english": "To protect the welfare of goldsmiths, a \"Silver Anklet and Jewellery Industry Welfare Board\" will be established."
+          },
+          {
+            "id": 176,
+            "tamil": "பனை பொருட்கள் மூலம் மதிப்புப் கூட்டு உற்பத்திப் பொருட்கள் தயாரிப்பது ஊக்குவிக்கப்படும்.",
+            "english": "The manufacturing of value-added products from palm through producer societies will be encouraged."
+          },
+          {
+            "id": 177,
+            "tamil": "பனை தொழிலாளர்களுக்கு உற்பத்தி இல்லாத காலங்களில் வாழ்வாதார மாதாந்திர உதவித் தொகை வழங்கப்படும்.",
+            "english": "A monthly livelihood assistance amount will be provided to palm workers during non-production periods."
+          },
+          {
+            "id": 178,
+            "tamil": "பனை தொழிலாளர்களுக்கு மரம் ஏறும் கருவி உள்ளிட்ட உபகரணங்கள் விலையில்லாமல் வழங்கப்படும்.",
+            "english": "Registered palm workers will be provided with necessary equipment, starting from tree-climbing devices, free of cost."
+          },
+          {
+            "id": 179,
+            "tamil": "பனை தொழிலாளர்களுக்கு காப்பீடு, கல்வி, ஓய்வூதியம் உள்ளிட்ட வாழ்வாதார உதவிகள் வழங்கப்படும்.",
+            "english": "Insurance facilities and livelihood assistance such as education and pension will be provided to palm workers."
+          },
+          {
+            "id": 180,
+            "tamil": "முடிதிருத்தும் மற்றும் சலவைத் தொழிலாளர்கள் வாரியத்தின் மூலம் சலுகைகள் பெற நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to ensure hairdressers and washermen receive all concessions through the welfare board."
+          },
+          {
+            "id": 181,
+            "tamil": "சலவைத் தொழிலாளர்கள் மற்றும் முடிதிருத்தும் தொழிலாளர்களுக்கு சிறப்புத் திட்டத்தின்கீழ் வீடுகள் வழங்கப்படும்.",
+            "english": "Steps will be taken to provide houses to washermen and hairdressers under a special scheme."
+          },
+          {
+            "id": 182,
+            "tamil": "அனைத்து அமைப்பு சாரா வாகன ஓட்டுநர்களுக்கும் இலவச விபத்துக் காப்பீடுத் திட்டம் துவங்கப்படும்.",
+            "english": "A free accident insurance scheme will be launched for all unorganized vehicle drivers."
+          },
+          {
+            "id": 183,
+            "tamil": "அமைப்பு சாரா கூலித் தொழிலாளர்களுக்கு வட்டியில்லா நுண்கடன் ரூ. 10,000 வழங்கும் திட்டம் விரிவாக்கம் செய்யப்படும்.",
+            "english": "The scheme providing interest-free micro-loans of Rs. 10,000 to all unorganized wage laborers will be expanded."
+          },
+          {
+            "id": 184,
+            "tamil": "அனைத்து வியாபாரிகளையும் வணிகர் நல வாரியத்தில் பதிவு செய்து அவர்களின் நலன் காக்கப்படும்.",
+            "english": "Steps will be taken to register all traders in the Traders Welfare Board and protect their welfare."
+          },
+          {
+            "id": 185,
+            "tamil": "தமிழகத்தில் ஏழ்மையில் வாழும் போயர் மக்களுக்கு நல வாரியம் அமைக்கப்படும்.",
+            "english": "A welfare board will be established for the Boyar community people living in poverty in Tamil Nadu."
+          }
+        ]
+      },
+      {
+        "section_number": 16,
+        "section_heading_tamil": "வன வளம்",
+        "section_heading_english": "Forest Wealth",
+        "section_heading": "வன வளம் (Forest Wealth)",
+        "promises": [
+          {
+            "id": 186,
+            "tamil": "யானை - மனித மோதலை தடுக்க வனத் துறைக்கு புதிய வாகனங்கள் மற்றும் உபகரணங்கள் வழங்கப்படும்.",
+            "english": "To prevent human-elephant conflict, the forest department will be provided with adequate new Jeep vehicles and equipment."
+          }
+        ]
+      },
+      {
+        "section_number": 17,
+        "section_heading_tamil": "மின்சாரத் துறை",
+        "section_heading_english": "Power Sector",
+        "section_heading": "மின்சாரத் துறை (Power Sector)",
+        "promises": [
+          {
+            "id": 187,
+            "tamil": "சூரிய சக்தி போன்ற மரபு சாரா எரிசக்தி மூலம் மின் உற்பத்தி பெரிய அளவில் அதிகரிக்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Permissions for non-conventional energy like solar power will be granted with transparency to massively increase generation."
+          },
+          {
+            "id": 188,
+            "tamil": "அடுக்குமாடி குடியிருப்புகளின் பொது பயன்பாட்டு மின் கட்டண விகிதம் சீரமைக்கப்படும்.",
+            "english": "The Common Usage Charge (Tariff 1D) fixed for electricity in multi-story apartment buildings will be revised."
+          },
+          {
+            "id": 189,
+            "tamil": "மேற்கூரை சூரிய மின்சக்தி அமைக்க 1 கிலோ வாட்டிற்கு ரூ. 30,000/- மற்றும் 2 கிலோ வாட்டிற்கு ரூ. 60,000/- மானியம் வழங்கப்படும்.",
+            "english": "To install rooftop solar panels, a subsidy of Rs. 30,000/- for 1 kilowatt and Rs. 60,000/- for 2 kilowatts will be provided."
+          }
+        ]
+      },
+      {
+        "section_number": 18,
+        "section_heading_tamil": "உட்கட்டமைப்பு",
+        "section_heading_english": "Infrastructure",
+        "section_heading": "உட்கட்டமைப்பு (Infrastructure)",
+        "promises": [
+          {
+            "id": 190,
+            "tamil": "முக்கிய நகரங்கள் மற்றும் சுற்றுலா மையங்களில் இலவச WiFi வசதி ஏற்படுத்தித் தரப்படும்.",
+            "english": "Free WiFi facilities will be provided in major cities and tourist centers for the benefit of all."
+          },
+          {
+            "id": 191,
+            "tamil": "தூத்துக்குடி விமான நிலையம் தரம் உயர்த்தப்பட்டு இரவு நேர விமான சேவை தொடங்க வலியுறுத்தப்படும்.",
+            "english": "We will urge the Central Government to upgrade the Thoothukudi airport to start night flight services."
+          },
+          {
+            "id": 192,
+            "tamil": "நாகப்பட்டினம்-தூத்துக்குடி-கன்னியாகுமரி நான்குவழி சாலைத் திட்டம் விரைவாக செயல்படுத்தப்படும்.",
+            "english": "The Nagapattinam-Thoothukudi-Kanyakumari four-lane highway project will be implemented swiftly."
+          },
+          {
+            "id": 193,
+            "tamil": "மத்திய அரசால் ஏற்கெனவே அறிவிக்கப்பட்ட ரயில்வே மற்றும் துறைமுக விரிவாக்கத் திட்டங்கள் துரிதப்படுத்தப்படும்.",
+            "english": "Steps will be taken to expedite already announced railway, highway, and port expansion projects."
+          },
+          {
+            "id": 194,
+            "tamil": "குளச்சல் துறைமுகம் மேம்படுத்தப்பட்டு சரக்குப் பெட்டக இணைய வசதி ஏற்படுத்தப்படும்.",
+            "english": "Steps will be taken through the Central Government to upgrade the Colachel port and establish container terminal facilities."
+          },
+          {
+            "id": 195,
+            "tamil": "அனைத்து மாநகராட்சிகளிலும் போக்குவரத்து நெரிசலை தவிர்க்க சுற்றுச் சாலைகள் (Ring Roads) அமைக்கப்படும்.",
+            "english": "Ring Roads will be constructed in all municipal corporations to avoid traffic congestion."
+          },
+          {
+            "id": 196,
+            "tamil": "சென்னை விமான நிலையம் முதல் கிளாம்பாக்கம் வரை மெட்ரோ ரயில் திட்டம் விரைவாக நிறைவேற்றப்படும்.",
+            "english": "Steps will be taken to swiftly complete the Metro rail project from Chennai Airport to Kilambakkam."
+          },
+          {
+            "id": 197,
+            "tamil": "சென்னை வெள்ள தடுப்புப் பணிகள் முழுமையாகவும், முறையாகவும் நிறைவேற்றப்படும்.",
+            "english": "Flood prevention works in Chennai will be completed comprehensively and properly."
+          },
+          {
+            "id": 198,
+            "tamil": "மாநகரப் பகுதிகளில் 'பன்னடுக்கு வாகன நிறுத்த வளாகங்கள்' கூடுதலாக அமைக்கப்படும்.",
+            "english": "Additional 'multi-level parking complexes' will be constructed to meet needs in major metropolitan areas."
+          },
+          {
+            "id": 199,
+            "tamil": "மத்திய அரசின் உதவியுடன் கோவை விமான நிலைய விரிவாக்கப் பணிகள் விரைவுபடுத்தப்படும்.",
+            "english": "With the assistance of the Central Government, the Coimbatore airport expansion works will be expedited."
+          },
+          {
+            "id": 200,
+            "tamil": "கோவை மற்றும் மதுரை மெட்ரோ இரயில் திட்டங்கள் நிறைவேற்ற நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to implement the Coimbatore and Madurai Metro rail projects."
+          },
+          {
+            "id": 201,
+            "tamil": "கோவை மேற்கு புறவழிச் சாலைத் திட்டப் பணிகள் முடிக்கப்பட்டு பயன்பாட்டிற்கு கொண்டுவரப்படும்.",
+            "english": "The Western Bypass road project works in Coimbatore will be completed and brought into public use."
+          },
+          {
+            "id": 202,
+            "tamil": "கோவை L&T நான்கு வழிச் சாலையை ஆறு வழிச் சாலையாக மாற்றம் செய்யப்படும்.",
+            "english": "The L&T bypass four-lane road in Coimbatore will be converted into a six-lane road."
+          },
+          {
+            "id": 203,
+            "tamil": "அவிநாசி சாலையில் உயர்மட்ட மேம்பாலம் நீட்டிப்பு செய்து புதிய மேம்பாலம் அமைத்துத் தரப்படும்.",
+            "english": "The high-level flyover on Avinashi road will be extended and a new flyover constructed."
+          },
+          {
+            "id": 204,
+            "tamil": "கோவை இராமநாதபுரம் உயர்மட்ட மேம்பாலம் அருகிலிருந்து ஒண்டிப்புதூர் வரை புதிய உயர்மட்ட மேம்பாலம் அமைக்கப்படும்.",
+            "english": "A new high-level flyover will be constructed from Ramanathapuram to Ondipudur in Coimbatore."
+          },
+          {
+            "id": 205,
+            "tamil": "கோவை-பொள்ளாச்சி சாலை சந்திப்பில் போக்குவரத்து நெரிசலைத் தவிர்க்க உயர்மட்ட மேம்பாலம் அமைக்கப்படும்.",
+            "english": "A high-level flyover will be constructed at the junction of Coimbatore-Pollachi road and L&T bypass."
+          },
+          {
+            "id": 206,
+            "tamil": "தடாகம் சாலை, லாலி ரோடு சந்திப்பில் உயர்மட்ட மேம்பாலம் அமைக்கப்படும்.",
+            "english": "A high-level flyover will be constructed at the Thadagam road-Lawley road junction to control traffic."
+          },
+          {
+            "id": 207,
+            "tamil": "கோவை செயிண்ட் மேரிஸ் பள்ளி அருகில் இருந்து காவல் ஆணையாளர் அலுவலகம் வரை உயர்மட்ட மேம்பாலம் அமைக்கப்படும்.",
+            "english": "A high-level flyover will be constructed starting from near St. Mary's School to the Commissioner's office."
+          },
+          {
+            "id": 208,
+            "tamil": "சர்வதேச அணிகள் பங்குபெறும் வகையில் புதிய கிரிக்கெட் மைதானம் கோவையில் அமைக்கப்படும்.",
+            "english": "A new cricket stadium will be constructed in Coimbatore to host international matches."
+          },
+          {
+            "id": 209,
+            "tamil": "கோவை மாநகராட்சி ஒருங்கிணைந்த பேருந்து முனையப் பணிகள் விரைந்து முடிக்கப்படும்.",
+            "english": "Construction works of the Coimbatore Corporation Integrated Bus Terminus will be completed swiftly."
+          },
+          {
+            "id": 210,
+            "tamil": "சிறுவாணி அணையை தூர்வாரி சீரமைக்கும் திட்டம் மத்திய அரசின் உதவியுடன் நிறைவேற்றப்படும்.",
+            "english": "The project to desilt and restore the Siruvani dam will be implemented with Central Government assistance."
+          },
+          {
+            "id": 211,
+            "tamil": "கோவையில் அகல இரயில் பாதையில் இயங்கி வந்த இரயில் சேவை மீண்டும் துவக்கப்படும்.",
+            "english": "Steps will be taken to restart the train services that were operating on the broad-gauge route in Coimbatore."
+          }
+        ]
+      },
+      {
+        "section_number": 19,
+        "section_heading_tamil": "சுற்றுலா",
+        "section_heading_english": "Tourism",
+        "section_heading": "சுற்றுலா (Tourism)",
+        "promises": [
+          {
+            "id": 212,
+            "tamil": "சுற்றுலா மையங்களில் வசதிகள் மேம்படுத்தப்பட்டு இளைஞர்கள்/மகளிருக்கு வேலைவாய்ப்பு உருவாக்கப்படும்.",
+            "english": "Tourist facilities and spiritual circuits will be upgraded and employment created for local youth/women."
+          },
+          {
+            "id": 213,
+            "tamil": "சென்னையில் இருந்து கன்னியாகுமரி வரை கடற்கரை பகுதிகளில் World Class Water Theme Park அமைக்கப்படும்.",
+            "english": "A World Class Water Theme Park and marine sports centers will be established at ten selected locations."
+          },
+          {
+            "id": 214,
+            "tamil": "சென்னை மற்றும் இராமேஸ்வரம்-தனுஷ்கோடி ஆகிய இடங்களில் உலகத் தரத்தில் கடல் சுற்றுலா வசதிகள் ஏற்படுத்தப்படும்.",
+            "english": "World-class marine tourism facilities will be established in Chennai and Rameswaram-Dhanushkodi."
+          }
+        ]
+      },
+      {
+        "section_number": 20,
+        "section_heading_tamil": "இளைஞர் நலன், வேலைவாய்ப்பு, திறன் மேம்பாடு",
+        "section_heading_english": "Youth Welfare, Employment, Skill Development",
+        "section_heading": "இளைஞர் நலன், வேலைவாய்ப்பு, திறன் மேம்பாடு (Youth Welfare, Employment, Skill Development)",
+        "promises": [
+          {
+            "id": 215,
+            "tamil": "10 மற்றும் 12-ஆம் வகுப்பு முடித்த இளைஞர்களுக்கு பிணையில்லாமல் ரூ. 25 லட்சம் வரை தொழில் கடன் வழங்கப்படும்.",
+            "english": "Youth who completed 10th and 12th will be provided skill training and business loans up to Rs. 25 lakh without collateral."
+          },
+          {
+            "id": 216,
+            "tamil": "தனியார் நிறுவன வேலைவாய்ப்புகளில் 75 சதவீதத்தை தமிழர்களுக்கே வழங்க சட்டம் இயற்றப்படும்.",
+            "english": "A law will be enacted mandating that a minimum of 75 percent of jobs in private companies must be provided to Tamils."
+          },
+          {
+            "id": 217,
+            "tamil": "அரசு அலுவலகங்களில் உள்ள லட்சக்கணக்கான காலிப் பணியிடங்கள் TNPSC மூலம் நிரப்பப்படும்.",
+            "english": "Lakhs of vacancies in government offices will be filled through TNPSC, creating employment for youth."
+          },
+          {
+            "id": 218,
+            "tamil": "மலைவாழ் இளைஞர்கள் சுயதொழில் தொடங்க ரூ. 10 லட்சம் வரை கடன் மற்றும் 50% மானியம் வழங்கப்படும்.",
+            "english": "Tribal youth will be facilitated to get loans up to Rs. 10 lakh with a 50% subsidy for self-employment."
+          },
+          {
+            "id": 219,
+            "tamil": "நகர்ப்புற மகளிர் மற்றும் இளைஞர்களுக்கு ஓட்டுநர் பயிற்சி உள்ளிட்ட திறன் பயிற்சிகள் வழங்கி வேலைவாய்ப்பு ஏற்படுத்தப்படும்.",
+            "english": "Training in jobs like driving and nursing will be provided to help urban youth get employment via a separate organization."
+          },
+          {
+            "id": 220,
+            "tamil": "படித்த இளைஞர்களின் திறன் வளர்ப்புக்கென தனி பல்கலைக்கழகம் உருவாக்கப்படும்.",
+            "english": "A separate university for Skill Development will be created for educated youth with online training."
+          },
+          {
+            "id": 221,
+            "tamil": "மாவட்ட நூலகங்களிலேயே போட்டித் தேர்வுகளுக்கு உயர்தர பயிற்சி மையம் அமைக்கப்படும்.",
+            "english": "High-quality coaching centers will be established within district libraries to prepare youth for competitive exams."
+          },
+          {
+            "id": 222,
+            "tamil": "கல்வி பயிலும் காலத்திலேயே திறன் வளர்ப்பதற்கும் வேலை வாய்ப்பு பெறுவதற்கும் நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to develop skills during the education period itself to ensure employment after graduation."
+          },
+          {
+            "id": 223,
+            "tamil": "இளைஞர்கள் வெளிநாடுகளில் வேலைவாய்ப்பு பெற இலவச மொழி மற்றும் திறன் பயிற்சி வழங்கப்படும்.",
+            "english": "Free training in language and digital skills will be provided for youth to get employment abroad."
+          }
+        ]
+      },
+      {
+        "section_number": 21,
+        "section_heading_tamil": "விலைவாசி கட்டுப்பாடு",
+        "section_heading_english": "Price Control",
+        "section_heading": "விலைவாசி கட்டுப்பாடு (Price Control)",
+        "promises": [
+          {
+            "id": 224,
+            "tamil": "அம்மா உணவகம் மீண்டும் சிறப்பு பொலிவுடன் இயக்கப்படும்.",
+            "english": "Amma Canteens will be operated again with special vigor and opened as needed in government hospitals."
+          },
+          {
+            "id": 225,
+            "tamil": "கட்டுமானப் பொருட்களின் விலைகளைக் குறைக்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to reduce the prices of construction materials like cement and steel required for building houses."
+          },
+          {
+            "id": 226,
+            "tamil": "'விலை கட்டுப்பாட்டு நிதியம்' மூலம் அத்தியாவசியப் பொருட்கள் நியாய விலையில் மக்களுக்கு வழங்கப்படும்.",
+            "english": "Steps will be taken to buy goods and distribute them at fair prices via an increased 'Price Control Fund'."
+          },
+          {
+            "id": 227,
+            "tamil": "முக்கிய நகரங்களில் அத்தியாவசியப் பொருட்களை விற்கும் கூட்டுறவு அங்காடிகள் அதிக அளவில் திறக்கப்படும்.",
+            "english": "Cooperative supermarkets selling essential commodities will be opened in large numbers in major cities."
+          }
+        ]
+      },
+      {
+        "section_number": 22,
+        "section_heading_tamil": "சமூக நலன்",
+        "section_heading_english": "Social Welfare",
+        "section_heading": "சமூக நலன் (Social Welfare)",
+        "promises": [
+          {
+            "id": 228,
+            "tamil": "மாவட்டந்தோறும் முதியோர் இல்லங்கள் அமைக்க தொழில் நிறுவனங்கள் ஊக்குவிக்கப்படும்.",
+            "english": "Old age homes will be established in every district; industrial companies will be encouraged to set them up."
+          },
+          {
+            "id": 229,
+            "tamil": "திருநங்கைகள் சுய தொழில் செய்ய மானியத்துடன் கடன் வசதி மற்றும் 60 வயதுக்கு மேற்பட்டவர்களுக்கு ஓய்வூதியம் வழங்கப்படும்.",
+            "english": "Subsidized loan facilities and a pension scheme for those above 60 years will be implemented for transgender persons."
+          }
+        ]
+      },
+      {
+        "section_number": 23,
+        "section_heading_tamil": "மாற்றுத் திறனாளிகளுக்கான நலன்",
+        "section_heading_english": "Welfare for the Differently-Abled",
+        "section_heading": "மாற்றுத் திறனாளிகளுக்கான நலன் (Welfare for the Differently-Abled)",
+        "promises": [
+          {
+            "id": 230,
+            "tamil": "மாற்றுத்திறனாளிகளுக்கு வழங்கும் கடன் ரூ. 2,00,000/-மாக உயர்த்தி 50% மானியத்துடன் வழங்கப்படும்.",
+            "english": "The loan amount for differently-abled persons will be increased to Rs. 2,00,000/- with a 50% subsidy."
+          },
+          {
+            "id": 231,
+            "tamil": "அறநிலைத் துறை சார்ந்த கடைகளை மாற்றுத் திறனாளிகளுக்கு 5% இடஒதுக்கீட்டில் ஒதுக்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to allocate HR&CE department shops to differently-abled persons under a 5% reservation."
+          },
+          {
+            "id": 232,
+            "tamil": "பார்வையற்ற மாற்றுத் திறனாளிகளுக்கான பராமரிப்பு உதவித் தொகை உயர்த்தி வழங்கிட நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Visually impaired persons will be included in the severely affected category for increased maintenance allowance."
+          },
+          {
+            "id": 233,
+            "tamil": "குறைந்த பார்வை உடையவர்களை மாற்றுத் திறனாளி பட்டியலில் சேர்த்து சலுகைகள் பெற வழிவகை செய்யப்படும்.",
+            "english": "Persons with vision impairment in one eye will be included in the low vision category for government assistance."
+          },
+          {
+            "id": 234,
+            "tamil": "ஆட்டிசம் போன்ற பாதிப்புள்ள அறிவுசார் வளர்ச்சிக் குறைபாடு உடைய குழந்தைகளுக்காக அரசு சிறப்பு பள்ளிகள் உருவாக்கப்படும்.",
+            "english": "Special government schools will be created for children with intellectual disabilities like Autism."
+          }
+        ]
+      },
+      {
+        "section_number": 24,
+        "section_heading_tamil": "ஆதிதிராவிடர் நலன்",
+        "section_heading_english": "Adi Dravidar Welfare",
+        "section_heading": "ஆதிதிராவிடர் நலன் (Adi Dravidar Welfare)",
+        "promises": [
+          {
+            "id": 235,
+            "tamil": "தாட்கோ மூலம் ஆதிதிராவிடருக்கு வழங்கப்பட்ட பொருளாதார மேம்பாட்டுக்கான கடன்கள் தள்ளுபடி செய்யப்படும்.",
+            "english": "Loans provided to Adi Dravidars for economic development through TAHDCO will be waived."
+          },
+          {
+            "id": 236,
+            "tamil": "ஆதி திராவிடர்களுக்கான கோவில் புதியதாக கட்டுவதற்கு வழங்கப்படும் தொகை ரூ. 5 லட்சமாக உயர்த்தி வழங்கப்படும்.",
+            "english": "The amount for constructing new temples for Adi Dravidars will be increased to Rs. 5 lakh."
+          },
+          {
+            "id": 237,
+            "tamil": "கிறிஸ்துவத்திற்கு மாறும் பட்டியலின மக்களின் சலுகைகள் தொடர மத்திய அரசின் கவனத்திற்கு கொண்டு செல்லப்படும்.",
+            "english": "Steps will be taken to ensure rights and concessions continue for Scheduled Caste people converting to Christianity."
+          },
+          {
+            "id": 238,
+            "tamil": "ஆதிதிராவிடர் பகுதிகளில் உள்ள மயானங்கள் ஆக்கிரமிப்பில் இருந்து மீட்டெடுத்து சுற்றுச் சுவர் அமைக்கப்படும்.",
+            "english": "Burial grounds in Adi Dravidar areas will be recovered and compound walls will be built."
+          }
+        ]
+      },
+      {
+        "section_number": 25,
+        "section_heading_tamil": "முதியோர் நலன்",
+        "section_heading_english": "Welfare of the Elderly",
+        "section_heading": "முதியோர் நலன் (Welfare of the Elderly)",
+        "promises": [
+          {
+            "id": 239,
+            "tamil": "ரயில்வே துறையில் Senior Citizen மற்றும் பத்திரிகையாளர்களுக்கு 50% Fare Concession மீண்டும் வழங்க வலியுறுத்தப்படும்.",
+            "english": "We will urge the restoration of the 50% Fare Concession in the Railway Department for seniors and journalists."
+          },
+          {
+            "id": 240,
+            "tamil": "தனியாக வசிக்கும் முதியோர் பாதுகாப்பினை உறுதி செய்ய பட்ட புத்தகங்கள் பராமரிக்கப்படும்.",
+            "english": "Beat books will be maintained at the houses of elderly people living alone to ensure their safety."
+          }
+        ]
+      },
+      {
+        "section_number": 26,
+        "section_heading_tamil": "வீட்டு வசதி",
+        "section_heading_english": "Housing",
+        "section_heading": "வீட்டு வசதி (Housing)",
+        "promises": [
+          {
+            "id": 241,
+            "tamil": "பெருநகரங்களில் நடுத்தர வர்க்க குடும்பங்களுக்கு நியாயமான வாடகையில் அடுக்கு மாடி வீடுகள் கட்டித் தரப்படும்.",
+            "english": "The government will build multi-story apartments in metropolitan cities to provide rental houses at fair rents."
+          },
+          {
+            "id": 242,
+            "tamil": "கூட்டுறவு வீட்டுவசதி சங்கக் கடன்களுக்கான அபராத வட்டி மற்றும் EMI வட்டி தள்ளுபடி செய்யப்படும்.",
+            "english": "Penal and EMI interest for housing mortgage loans will be waived for a One Time Settlement."
+          },
+          {
+            "id": 243,
+            "tamil": "குடிசை மாற்று வாரிய குடியிருப்புகளில் நீண்டகாலமாக வசிப்பவர்களுக்கு நிலுவையில் உள்ள கிரயப் பத்திரங்கள் வழங்கப்படும்.",
+            "english": "Steps will be taken to issue pending sale deeds to residents in tenements built by the Slum Clearance Board."
+          }
+        ]
+      },
+      {
+        "section_number": 27,
+        "section_heading_tamil": "அரசு ஊழியர் - ஆசிரியர் நலன்",
+        "section_heading_english": "Govt Employees - Teachers Welfare",
+        "section_heading": "அரசு ஊழியர் - ஆசிரியர் நலன் (Govt Employees - Teachers Welfare)",
+        "promises": [
+          {
+            "id": 244,
+            "tamil": "ஆசிரியர்கள் மற்றும் சங்கங்களின் கோரிக்கைகளை பரிசீலித்து ஓய்வூதியத் திட்டம் சீரமைக்கப்படும்.",
+            "english": "Demands regarding the pension scheme will be reviewed and the system restructured."
+          },
+          {
+            "id": 245,
+            "tamil": "ஒப்பந்த அடிப்படையில் பணிபுரியும் பணியாளர்களின் தொகுப்பு ஊதியம் உயர்த்தி வழங்கப்படும்.",
+            "english": "The consolidated pay provided to staff working on a contract basis in government departments will be increased."
+          },
+          {
+            "id": 246,
+            "tamil": "குடிமைப் பணியாளர்கள் கூட்டு மன்றக் கூட்டம் ஆண்டுக்கு 2 முறை நடத்தப்பட்டு ஆசிரியர்களின் கோரிக்கைகளுக்கு தீர்வு காணப்படும்.",
+            "english": "A Civil Services Joint Council meeting will be held twice a year to resolve the demands of officials and teachers."
+          },
+          {
+            "id": 247,
+            "tamil": "காலதாமதமின்றி 8-வது மாநில ஊதியக் குழு அமைக்கப்பட்டு ஊதிய உயர்வு வழங்கப்படும்.",
+            "english": "The 8th State Pay Commission will be formed without delay and a pay hike provided."
+          },
+          {
+            "id": 248,
+            "tamil": "சத்துணவு மற்றும் ஆம்புலன்ஸ் பணியாளர்களுக்கு அரசு காலிப் பணியிடங்களில் முன்னுரிமை வழங்கப்படும்.",
+            "english": "Priority will be given in government vacancies to noon-meal workers and ambulance staff."
+          },
+          {
+            "id": 249,
+            "tamil": "சத்துணவு பணியாளர்கள் மற்றும் நியாய விலைக் கடை ஊழியர்களுக்கு புதிய சிறப்பு ஓய்வூதியத் திட்டம் உருவாக்கப்படும்.",
+            "english": "A new special pension scheme will be created to benefit noon-meal organizers and fair price shop employees."
+          },
+          {
+            "id": 250,
+            "tamil": "சமூகநலத் துறையின்கீழ் பணிபுரியும் சத்துணவு ஊழியர்களுக்கு பணி பாதுகாப்பு வழங்கப்படும்.",
+            "english": "Steps will be taken to provide job security to staff working under the Social Welfare Department."
+          },
+          {
+            "id": 251,
+            "tamil": "ஊராட்சி செயலாளர்கள் மற்றும் கிராம உதவியாளர்களுக்கு பணி பாதுகாப்பு மற்றும் ஊதியம் முறைப்படுத்தப்படும்.",
+            "english": "Job security and salaries will be regularized for Panchayat Secretaries and Village Assistants."
+          },
+          {
+            "id": 252,
+            "tamil": "தூய்மைப் பணியாளர்களுக்கு பணி பாதுகாப்பு உறுதி செய்வதுடன் அவர்களது ஊதியம் உயர்த்தி வழங்கப்படும்.",
+            "english": "Job security will be ensured for sanitation workers and their salaries will be increased."
+          },
+          {
+            "id": 253,
+            "tamil": "வாழ்வாதார இயக்க பணியாளர்களுக்கு பொது காப்பீடு மற்றும் மருத்துவக் காப்பீடு வழங்கப்படும்.",
+            "english": "Steps will be taken to include livelihood mission staff under insurance and medical schemes."
+          }
+        ]
+      },
+      {
+        "section_number": 28,
+        "section_heading_tamil": "காவல் துறை",
+        "section_heading_english": "Police Department",
+        "section_heading": "காவல் துறை (Police Department)",
+        "promises": [
+          {
+            "id": 254,
+            "tamil": "காவலர்களுக்கு சுழற்சி முறையில் வாரம் ஒருநாள் விடுப்பு வழங்கப்படும்.",
+            "english": "Police personnel working in the police department will be provided one day of leave per week."
+          },
+          {
+            "id": 255,
+            "tamil": "காவலர்களுக்கான சலவைப் படி ரூ. 1,000-ஆக உயர்த்தி வழங்கப்படும்.",
+            "english": "The washing allowance currently provided will be increased from Rs. 500 to Rs. 1,000/-."
+          },
+          {
+            "id": 256,
+            "tamil": "மற்ற மாவட்டங்கள் மற்றும் மாநகரங்களில் காவலர்களுக்கு ரூ. 200 உணவுப்படியாக வழங்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to provide a food allowance of Rs. 200 in other districts and corporations."
+          },
+          {
+            "id": 257,
+            "tamil": "மற்ற பெருநகரங்களிலும் காவலர் நல மருத்துவமனைகள் ஏற்படுத்தப்படும்.",
+            "english": "Police welfare hospitals will be established in major cities like Madurai, Coimbatore, and Trichy."
+          },
+          {
+            "id": 258,
+            "tamil": "போதைப் பொருட்களை முற்றிலும் ஒழிக்க முதலமைச்சரின் நேரடி கட்டுப்பாட்டில் சிறப்பு அதிரடிப் படை அமைக்கப்படும்.",
+            "english": "To completely eradicate drugs, an Anti-Drug Task Force will be formed under the direct control of the Chief Minister."
+          },
+          {
+            "id": 259,
+            "tamil": "அதிக குடியிருப்புகள் உள்ள காவலர் குடியிருப்புகளில் மருத்துவ உதவி மையம் ஏற்படுத்தப்படும்.",
+            "english": "Medical Help Desks will be established in police quarters with a high number of residences."
+          },
+          {
+            "id": 260,
+            "tamil": "காவலர்கள் மற்றும் குடும்பத்தினர் உயிர் காக்கும் அறுவை சிகிச்சை செலவை அரசே ஏற்கும்.",
+            "english": "The government will bear the entire cost if police personnel and their family members undergo life-saving surgeries."
+          },
+          {
+            "id": 261,
+            "tamil": "காவலர் மற்றும் பொதுமக்கள் நல்லுறவு பேணுவதற்காக காவலர் பொதுமக்கள் அமைப்பு அமைக்கப்படும்.",
+            "english": "To maintain good relations, a Police-Public Association will be formed under a DSP or Assistant Commissioner."
+          },
+          {
+            "id": 262,
+            "tamil": "காவலர்களுக்கான சீருடைப்படி 6,000/- ரூபாயாக உயர்த்தி வழங்கப்படும்.",
+            "english": "The uniform allowance currently provided to police personnel will be increased to Rs. 6,000/-."
+          },
+          {
+            "id": 263,
+            "tamil": "ஊர்க் காவல் படையினருக்கு வேலை நாட்களை அதிகரிக்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to increase the currently low number of working days provided to Home Guards."
+          }
+        ]
+      },
+      {
+        "section_number": 29,
+        "section_heading_tamil": "பத்திரிகையாளர்/ஊடகவியலாளர் நலன்",
+        "section_heading_english": "Journalists/Media Personnel Welfare",
+        "section_heading": "பத்திரிகையாளர்/ஊடகவியலாளர் நலன் (Journalists/Media Personnel Welfare)",
+        "promises": [
+          {
+            "id": 264,
+            "tamil": "தாலுகா அளவிலான உள்ளூர் பத்திரிகையாளர்களுக்கும் அரசு அங்கீகார அட்டை மற்றும் ஓய்வூதியம் வழங்கப்படும்.",
+            "english": "Accreditation cards and pensions will be provided to local journalists and web reporters at the taluk level."
+          },
+          {
+            "id": 265,
+            "tamil": "சொந்தமாக வீடு கட்ட விரும்பும் பத்திரிகையாளர்களுக்கும் ரூ. 10 லட்சம் வரை முழுமையான வட்டியில்லா வீட்டுக் கடன் வழங்கப்படும்.",
+            "english": "Fully interest-free housing loans up to Rs. 10 lakh will be provided to long-serving working journalists."
+          },
+          {
+            "id": 266,
+            "tamil": "பத்திரிகையாளர்களுக்கான ஓய்வூதியத் திட்டத்தில் வருமான உச்சவரம்பு நீக்கப்படும்.",
+            "english": "The income ceiling in the pension scheme for journalists will be removed."
+          },
+          {
+            "id": 267,
+            "tamil": "முக்கிய நகரங்களில் பத்திரிகையாளர்கள் வீடுகட்டிக் கொள்வதற்கு குடியிருப்பு மனைகள் வழங்கப்படும்.",
+            "english": "Housing plots will be provided to journalists to build houses in major cities of Tamil Nadu."
+          },
+          {
+            "id": 268,
+            "tamil": "காட்சி ஊடகவியளர்களுக்கும் இனி ஓய்வூதியம் வழங்கப்படும்.",
+            "english": "The pension currently provided to print journalists will henceforth be provided to visual media personnel as well."
+          }
+        ]
+      },
+      {
+        "section_number": 30,
+        "section_heading_tamil": "ஜவுளித் தொழில் மற்றும் நெசவாளர் நலன்",
+        "section_heading_english": "Textile Industry and Weavers Welfare",
+        "section_heading": "ஜவுளித் தொழில் மற்றும் நெசவாளர் நலன் (Textile Industry and Weavers Welfare)",
+        "promises": [
+          {
+            "id": 269,
+            "tamil": "65 வயதுக்கு மேற்பட்ட நெசவாளர்களுக்கு மாதம் வழங்கப்படும் ஓய்வூதியம் 2,500 ரூபாயாக உயர்த்தி வழங்கப்படும்.",
+            "english": "The monthly pension provided to weavers above 65 years will be increased from Rs. 1,000 to Rs. 2,500."
+          },
+          {
+            "id": 270,
+            "tamil": "நெசவாளர்களுக்கான காப்பீட்டுத் தொகை ரூ. 3,00,000/-ஆக உயர்த்தி வழங்க நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to increase the insurance amount for handloom weavers to Rs. 3,00,000/-."
+          },
+          {
+            "id": 271,
+            "tamil": "விசைத்தறி சங்கங்களின் ஜவுளிகள் தேங்காமல் இருக்க கோ-ஆப்டெக்ஸ் நிறுவனம் அதிகப்படியாக கொள்முதல் செய்யும்.",
+            "english": "Steps will be taken to ensure textiles from powerloom societies do not stagnate by having Co-optex procure them."
+          },
+          {
+            "id": 272,
+            "tamil": "நூல் விலை உயர்வை கட்டுப்படுத்த தமிழ் நாடு பஞ்சு கொள்முதல் கழகம் ஏற்படுத்தப்படும்.",
+            "english": "The Tamil Nadu Cotton Procurement Corporation will be established to control yarn price hikes."
+          },
+          {
+            "id": 273,
+            "tamil": "குறைந்த விலைக்கு நெசவாளர்களுக்கு பருத்தி நூல் கிடைக்க வழிவகை செய்யப்படும்.",
+            "english": "Cotton will be procured through CCI and yarn made available to weavers at low prices."
+          },
+          {
+            "id": 274,
+            "tamil": "விலையில்லா வேட்டி, சேலைகள் முழுக்க முழுக்க தமிழ் நாட்டிலேயே நெசவாளர் சங்கங்கள் மூலம் உற்பத்தி செய்யப்படும்.",
+            "english": "Free dhotis and sarees will be produced entirely within Tamil Nadu through weavers' cooperative societies."
+          },
+          {
+            "id": 275,
+            "tamil": "நெசவுத் தொழிலாளர்களுக்கான காப்பீட்டுத் திட்ட பிரீமியம் தொகையை அரசே ஏற்கும்.",
+            "english": "The government itself will bear the insurance scheme premium amount for weaving laborers."
+          },
+          {
+            "id": 276,
+            "tamil": "நூற்பு, நெசவு மற்றும் பின்னல் பிரிவுகளை விரிவுபடுத்த நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Steps will be taken to expand the spinning, weaving-powerloom, knitting, and processing divisions."
+          },
+          {
+            "id": 277,
+            "tamil": "நெசவாளர்களுக்கு நெசவுக் கூடத்தோடு சேர்ந்த பசுமை வீடுகள் கட்டித் தரப்படும்.",
+            "english": "Green houses attached with weaving sheds will be built to benefit weavers."
+          },
+          {
+            "id": 278,
+            "tamil": "கைத்தறி நெசவாளர்கள் நெய்யும் சேலைகளுக்கு சேலை மதிப்பீட்டில் ரிவார்டு வழங்கப்படும்.",
+            "english": "Rewards will be provided based on the value of the sarees woven by handloom weavers."
+          }
+        ]
+      },
+      {
+        "section_number": 31,
+        "section_heading_tamil": "General",
+        "section_heading_english": "General",
+        "section_heading": "General",
+        "promises": [
+          {
+            "id": 279,
+            "tamil": "ஒவ்வொரு மாவட்டத்திலும் ஆதரவற்ற விலங்குகளைப் பராமரிக்க உலகத் தரத்தில் அரசு விலங்குகள் காப்பகம் அமைக்கப்படும்.",
+            "english": "World-class government animal shelters will be established in every district to care for destitute animals."
+          },
+          {
+            "id": 280,
+            "tamil": "தெரு நாய்களின் இனப் பெருக்கத்தை கட்டுப்படுத்த சிறப்பு கருத்தடைத் திட்டம் செயல்படுத்தப்படும்.",
+            "english": "A special sterilization program will be implemented to control the breeding of street dogs."
+          },
+          {
+            "id": 281,
+            "tamil": "தமிழ் நாட்டை கொத்தடிமை தொழில் முறை இல்லா மாநிலமாக உருவாக்க நடவடிக்கை மேற்கொள்ளப்படும்.",
+            "english": "All possible measures will be undertaken to make Tamil Nadu a state free from the bonded labour system."
+          },
+          {
+            "id": 282,
+            "tamil": "ஜெருசலேம் புனிதப் பயணம் மேற்கொள்ளும் கிறிஸ்தவர்களின் எண்ணிக்கை மற்றும் உதவித் தொகை உயர்த்தப்படும்.",
+            "english": "The number of Christians undertaking the holy pilgrimage to Jerusalem will be increased and their subsidy raised."
+          },
+          {
+            "id": 283,
+            "tamil": "ஹஜ் மற்றும் உம்ரா பயணத்திற்கான உதவித் தொகை கூடுதலாக வழங்கப்படும்.",
+            "english": "Additional funds and subsidies will be provided for Muslim pilgrims for Hajj and Umrah journeys."
+          },
+          {
+            "id": 284,
+            "tamil": "கிறிஸ்தவர்கள் மற்றும் இஸ்லாமியர்களுக்கு கல்லறைத் தோட்டம் அமைக்க இடவசதி தரப்படும்.",
+            "english": "Land facilities will be provided to establish cemeteries for Christians and Kabristans for Muslims."
+          },
+          {
+            "id": 285,
+            "tamil": "கச்சத் தீவை மீட்டெடுக்க உறுதியான நடவடிக்கை எடுக்கப்படும்.",
+            "english": "Firm steps will be taken to retrieve Katchatheevu, which was the dream of Puratchi Thalaivi Amma."
+          },
+          {
+            "id": 286,
+            "tamil": "பூசாரிகள் குடும்பநல நிதி பாகுபாடின்றி வழங்கப்பட்டு ஓய்வூதியம் உயர்த்தி வழங்கப்படும்.",
+            "english": "Arrangements will be made to provide the Poojari Family Welfare Fund without discrimination and increase their pension."
+          },
+          {
+            "id": 287,
+            "tamil": "வள்ளி கும்மி உள்ளிட்ட பாரம்பரிய கிராமியக் கலைகள் அரசு சார்பில் ஆவணப்படுத்தப்படும்.",
+            "english": "Traditional folk arts will be documented and encouraged by the government."
+          },
+          {
+            "id": 288,
+            "tamil": "மண்டலந்தோறும் உலகத் தரத்தில் விளையாட்டு அரங்கங்கள் அமைக்கப்படும் மற்றும் விலையில்லா விளையாட்டு உபகரணங்கள் வழங்கப்படும்.",
+            "english": "World-class sports stadiums will be established in every zone and free equipment provided in panchayat areas."
+          },
+          {
+            "id": 289,
+            "tamil": "உச்சநீதிமன்ற கிளையை சென்னையில் விரைந்து அமைக்க வலியுறுத்தப்படும்.",
+            "english": "The AIADMK will urge the swift establishment of a Supreme Court bench in Chennai."
+          },
+          {
+            "id": 290,
+            "tamil": "இலங்கைத் தமிழ் அகதிகளுக்கு “இரட்டைக் குடியுரிமை\" வழங்கிட மத்திய அரசை வலியுறுத்துவோம்.",
+            "english": "We will urge the Central Government to grant \"Dual Citizenship\" to Sri Lankan Tamil refugees living in India."
+          },
+          {
+            "id": 291,
+            "tamil": "இந்து ஆன்மீக பயணம் மேற்கொள்வோருக்கு பயணச் சலுகைக் கட்டணம் உயர்த்தி வழங்கப்படும்.",
+            "english": "The travel concession fare will be increased for those undertaking Hindu spiritual pilgrimages."
+          },
+          {
+            "id": 292,
+            "tamil": "திருக்கோயில்களில் அன்னதான திட்டம் மேலும் விரிவுப்படுத்தப்படும்.",
+            "english": "The Annadhanam scheme currently implemented in temples will be further expanded."
+          },
+          {
+            "id": 293,
+            "tamil": "சாதிவாரி கணக்கெடுப்பு பணியினை விரைந்து செய்திட மத்திய அரசை வலியுறுத்தப்படும்.",
+            "english": "We will urge the Central Government to swiftly conduct a caste-based census."
+          },
+          {
+            "id": 294,
+            "tamil": "நெய்வேலி NLC-க்கு நிலம் வழங்கியவர்களுக்கான மறுவாழ்வு அமல்படுத்த சிறப்புக் குழு அமைக்கப்படும்.",
+            "english": "A special committee will be formed to implement the Rehabilitation and Resettlement Policy for NLC land providers."
+          },
+          {
+            "id": 295,
+            "tamil": "தனியார் துறை ஓய்வூதியர்களுக்கு மாதா மாதம் கணிசமான ஓய்வூதியம் வழங்க ஆய்வுகள் மேற்கொள்ளப்படும்.",
+            "english": "Studies will be conducted to ensure retired private sector workers receive a substantial minimum monthly pension."
+          },
+          {
+            "id": 296,
+            "tamil": "முன்னாள் படைவீரர்களுடைய பிள்ளைகளுக்கு பட்டப் படிப்பில் சேர 1 சதவீதம் இடஒதுக்கீடு வழங்கப்படும்.",
+            "english": "Reservation of 1 percent will be provided for the children of ex-servicemen for undergraduate courses."
+          },
+          {
+            "id": 297,
+            "tamil": "இராணுவத்தில் உயிர் நீத்த படைவீரர்களின் குடும்ப உறுப்பினர்களுக்கு கருணை அடிப்படையில் பணி நியமனம் வழங்கப்படும்.",
+            "english": "Compassionate appointments will be provided to the family members of martyred and disabled soldiers."
+          }
+        ]
+      }
+    ]
+  }

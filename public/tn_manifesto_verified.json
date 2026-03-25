@@ -17,7 +17,6 @@
     ]
   },
   "parties": {
-
     "DMK": {
       "name": "DMK",
       "full_name": "Dravida Munnetra Kazhagam",
@@ -27,7 +26,6 @@
       "color": "#E53935",
       "election_role": "ruling_party_2021",
       "policies": {
-
         "welfare_freebies": {
           "source_confidence": "HIGH — direct from manifesto text",
           "headline": "₹4,000 cash to every rice card holder; 20 kg free rice; fuel price cuts",
@@ -45,7 +43,6 @@
             "3 LED bulbs at subsidised price to all card holders — Promise #239"
           ]
         },
-
         "education": {
           "source_confidence": "HIGH — direct from manifesto text",
           "headline": "Ban NEET; free tablets with 4G for students; education loan waiver for under-30s",
@@ -64,7 +61,6 @@
             "Coaching for UPSC, state govt, Railways and bank exams in Chennai, Madurai, Trichy, Coimbatore, Salem, Tirunelveli — Promise #168"
           ]
         },
-
         "employment_economy": {
           "source_confidence": "HIGH — direct from manifesto text",
           "headline": "50 lakh jobs in 5 years; 75% private sector reservation for locals; Old Pension Scheme restored",
@@ -80,7 +76,6 @@
             "Right to Skill Training Act for marginalized groups — Promise #186"
           ]
         },
-
         "women": {
           "source_confidence": "HIGH — direct from manifesto text",
           "headline": "40% govt job reservation; 12-month maternity leave; ₹24,000 maternity benefit",
@@ -99,7 +94,6 @@
             "180 coaching centres in every district to help women graduates gain employment — Promise #180"
           ]
         },
-
         "agriculture_farmers": {
           "source_confidence": "HIGH — direct from manifesto text",
           "headline": "Farm loan waiver; paddy MSP ₹2,500/quintal; 150-day NREGA at ₹300/day",
@@ -118,7 +112,6 @@
             "10,000 crore State Water Management Scheme under CM supervision — Promise #89"
           ]
         },
-
         "health": {
           "source_confidence": "HIGH — direct from manifesto text",
           "headline": "100% health insurance; 2,000 ambulances; new specialty hospitals in 4 cities",
@@ -136,7 +129,6 @@
             "Dialysis, nephrology, CCU in all district hospitals — Promise #344"
           ]
         },
-
         "law_order": {
           "source_confidence": "HIGH — direct from manifesto text",
           "headline": "Police Commission revived; special courts for sexual crimes; cyber police in all districts",
@@ -152,7 +144,6 @@
             "High-level committee to eradicate Katta Panchayat (kangaroo courts) — Promise #335"
           ]
         },
-
         "environment": {
           "source_confidence": "HIGH — direct from manifesto text",
           "headline": "Forest cover to 33%; river cleaning at ₹5,000 crore; CNG buses in all towns",
@@ -169,7 +160,6 @@
             "Tamil Nadu Conservation Project for river cleaning of Cauvery, Vaigai, Tamirabarani, etc. — Promise #362"
           ]
         },
-
         "governance": {
           "source_confidence": "HIGH — direct from manifesto text",
           "headline": "Lok Ayukta revived; 100-day grievance resolution; assembly to meet 100 days minimum per year",
@@ -186,7 +176,6 @@
             "DVAC to function independently without government interference — Promise #20"
           ]
         },
-
         "federal_identity": {
           "source_confidence": "HIGH — direct from manifesto text",
           "headline": "Oppose Hindi imposition; Education to State List; Tamil as official language in Central offices",
@@ -205,129 +194,182 @@
         }
       }
     },
-
     "AIADMK": {
       "name": "AIADMK",
       "full_name": "All India Anna Dravida Munnetra Kazhagam",
-      "manifesto_year": 2021,
-      "manifesto_status": "PARTIAL — 164 promises total; full PDF not publicly fetchable; compiled from credible press reports",
+      "manifesto_year": 2026,
+      "manifesto_status": "FULL — 297 promises (section-wise) imported from admk_manifesto_2026.json; topic cards re-grouped into 10 categories.",
       "sources": [
-        "The News Minute — 15 Mar 2021 (thenewsminute.com/tamil-nadu/amma-housing-scheme...)",
-        "Business Standard — 14 Mar 2021 (business-standard.com — '164 promises')",
-        "Scroll.in — 14 Mar 2021 (scroll.in/latest/989522)",
-        "India.com — 14 Mar 2021 (india.com/tamil-nadu/tamil-nadu-assembly-election-2021-aiadmk...)",
-        "IndiaTV News — 17 Mar 2021 (indiatvnews.com/elections)"
+        "public/admk_manifesto_2026.json (AIADMK 2026 manifesto text; section-wise)"
       ],
       "color": "#1565C0",
       "election_role": "main_opposition_2021",
       "policies": {
-
         "welfare_freebies": {
-          "source_confidence": "HIGH — confirmed by 4+ independent credible outlets",
-          "headline": "Free house for homeless; ₹1,500/month to women heads; 6 free LPG cylinders; free washing machine",
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Special assistance of Rs. 10,000/- to every family to manage the tax burden and price rise.",
           "promises": [
-            "Amma Housing Scheme — free concrete homes for homeless in rural areas; free apartments in cities (govt-purchased land)",
-            "₹1,500 per month to female head of family per ration card under 'Kulavilakku Thittam'",
-            "6 free LPG cylinders per year for every rice-card holder",
-            "Free 'Amma washing machines' for rice-card holders",
-            "Free solar gas stoves for rice-card holders",
-            "Free cable TV connection",
-            "50% bus fare concession for women in city buses",
-            "Petrol and diesel price reduction (amount not specified in reports)"
+            "Special assistance of Rs. 10,000/- to every family to manage the tax burden and price rise.",
+            "3 free gas cylinders per year as livelihood assistance: As livelihood assistance, 3 free gas cylinders will be provided annually to the family of Rice Cardholders.",
+            "Along with the Pongal gift hamper, a cash amount of Rs. 1,000/- will be given.",
+            "To reduce the household workload of homemakers, a free refrigerator (Fridge) will be provided to rice family cardholders.",
+            "Along with the free rice currently provided to family cardholders, one kilo of dal and one litre of cooking oil will be provided free of cost.",
+            "Nets and equipment will be provided free of cost to inland fishermen through Cooperative Societies.",
+            "A monthly pension of Rs. 2,500 will be provided to fishermen above 65 years of age.",
+            "A subsidy of up to Rs. 10,000 per person will be provided to women to start one lakh small/micro enterprises in 5 years.",
+            "Steps will be taken to continue the Thalikku Thangam and Marriage Assistance Scheme, including free silk dhotis and sarees.",
+            "Free sewing machines will be provided to women who complete training at recognized tailoring institutes.",
+            "Subsidized loan facilities and a pension scheme for those above 60 years will be implemented for transgender persons.",
+            "The loan amount for differently-abled persons will be increased to Rs. 2,00,000/- with a 50% subsidy."
           ]
         },
-
         "education": {
-          "source_confidence": "HIGH — confirmed across multiple outlets",
-          "headline": "Education loan waiver; free 2GB data for college students; coaching centres",
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Waiver of education loans obtained from banks: To protect the welfare of students and parents, the government will take over and waive…",
           "promises": [
-            "Education loan waiver for eligible students",
-            "Free 2GB mobile data per year for college students",
-            "Free cable TV connection (also listed under welfare)",
-            "Extend meal schemes to cover students of Class 9 and above",
-            "Coaching institutes to be set up for students",
-            "Separate skill development university to be established"
+            "Waiver of education loans obtained from banks: To protect the welfare of students and parents, the government will take over and waive the education loans of those who borrowed from banks but are unable to pay their EMIs due to unemployment.",
+            "Rs. 10 lakh compensation for families of Jallikattu tamers who lose their lives; Rs. 2 lakh for severe injuries. A Government subsidy of Rs. 5 lakh will be provided to organize events. The online registration system will be cancelled and the manual system reinstated.",
+            "Loans obtained by differently-abled persons from cooperative banks will be waived.",
+            "Loans obtained from cooperative banks by small street vendors operating on pavements in urban areas will be waived.",
+            "The medical admission reservation for government school students will be increased from 7.5 percent to 10 percent.",
+            "Special steps will be taken to improve mathematical and language skills; 'STEM learning' centers will be established.",
+            "The curriculum will be restructured to teach computer science as a sixth subject for classes 6 to 10.",
+            "Clauses detrimental to the two-language policy envisioned by Arignar Anna in the New Education Policy are unacceptable.",
+            "The currently vacant teacher posts in the School Education Department will be filled.",
+            "Climate Change will be included in the students' curriculum.",
+            "Free laptops will be provided at the appropriate time to students studying in government and aided colleges.",
+            "Kalvi TV (Education TV) will be brought back into use to benefit students."
           ]
         },
-
         "employment_economy": {
-          "source_confidence": "HIGH — confirmed across multiple outlets",
-          "headline": "One government job per family with no existing govt employee",
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "100 days employment scheme will be increased to 150 days: The Central Government has announced that the 100 days employment scheme will…",
           "promises": [
-            "At least one government job per family that currently has no government employee",
-            "Farmers to receive ₹7,500 subsidy (confirmed by TNM)"
+            "100 days employment scheme will be increased to 150 days: The Central Government has announced that the 100 days employment scheme will be increased to 125 days. Steps will be taken to implement this rural development scheme to provide up to 150 days of employment.",
+            "To encourage the coir industry, electricity tariff concessions will be provided.",
+            "Special steps will be taken specifically to boost industrial wealth in the southern districts.",
+            "To facilitate industrial investment, industrial estates will be established at specific locations to implement the industrial corridor project in the southern districts.",
+            "Chennai will be upgraded as a Medical Tourism hub and foreign exchange will be earned for the medical sector.",
+            "To assist entrepreneurs and exporters, a special separate board will be formed to provide skill development training.",
+            "To improve the salt production industry, the 'Amma Salt Scheme' will be brought back.",
+            "Steps will be taken to establish Pharmaceutical Parks in Chennai and Tirunelveli to increase employment.",
+            "A committee including MSME representatives will be formed to analyze problems and facilitate finding solutions.",
+            "To encourage industrial development in rural areas, special subsidies will be provided to start agriculture-based and food processing industries.",
+            "Additional subsidies will be provided to encourage micro and small industries to generate their own solar power.",
+            "Integrated small trade complexes and skill development complexes for artisans will be created in every district."
           ]
         },
-
         "women": {
-          "source_confidence": "HIGH — confirmed across multiple outlets",
-          "headline": "₹1,500/month to women; maternity leave to 1 year; 50% bus fare concession",
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "'Kula Vilakku Scheme' to protect women's welfare: To create economic equality in society, a monthly assistance of Rs. 2,000/- will be…",
           "promises": [
-            "₹1,500 per month to female head of family per ration card",
-            "Maternity leave increased to 1 year",
-            "50% bus fare concession for women in city buses",
-            "Free 6 LPG cylinders per year",
-            "Free Amma washing machines",
-            "'Amma bank cards' in name of J. Jayalalithaa for women"
+            "'Kula Vilakku Scheme' to protect women's welfare: To create economic equality in society, a monthly assistance of Rs. 2,000/- will be provided to all family cardholders through the Kula Vilakku Scheme. This amount will be deposited directly into the bank account of the female head of the family.",
+            "Free bus travel scheme for men, similar to women: A free bus travel scheme will be implemented for men traveling in city buses. Furthermore, the existing free bus travel scheme for women in city buses will continue to be implemented.",
+            "Subsidy scheme for purchasing Amma Two-Wheelers: Amma two-wheelers will be provided to 5 lakh working women with a subsidy of Rs. 25,000/-.",
+            "Pensions for the elderly and others increased to Rs. 2,000/-: The monthly social security pension provided to the elderly, widows, destitute unmarried women, deserted women, differently-abled persons, and transgender persons under the social pension scheme will be increased from Rs. 1,200/- to Rs. 2,000/-.",
+            "Interest-free loans will be provided to women belonging to Muslim, Christian, and other minority communities to start self-employment ventures.",
+            "A monthly assistance of Rs. 2,000 will be provided to unemployed graduate youth and young women; Rs. 1,000 per month will be provided to those who have studied up to +2.",
+            "Every year for the Deepavali festival, high-quality free sarees will be provided to all women holding family cards, and high-quality dhotis will be provided to men.",
+            "To ensure the safety of women at all times, the Kavalan app functioning in Chennai will be expanded to other cities.",
+            "The Amma Patrol vehicles introduced in Chennai for the protection of women and children will be expanded to other cities.",
+            "A large number of working women's hostels will be built in urban areas to facilitate safe accommodation."
           ]
         },
-
         "agriculture_farmers": {
-          "source_confidence": "MEDIUM — partial — ₹7,500 subsidy confirmed; other agricultural promises not fully reported in press",
-          "source_gap": true,
-          "headline": "₹7,500 farmer subsidy; continuation of existing schemes",
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "The relief assistance currently provided to fishermen during the fishing ban period will be increased from Rs. 8,000 to Rs. 12,000.",
           "promises": [
-            "₹7,500 annual subsidy for farmers (confirmed by TNM, 15 Mar 2021)"
+            "The relief assistance currently provided to fishermen during the fishing ban period will be increased from Rs. 8,000 to Rs. 12,000.",
+            "Free electricity currently provided to handloom weavers will be increased to 450 units, and for powerloom weavers, to 1400 units.",
+            "Considering the cost of paddy production, steps will be taken to fix the Minimum Support Price (MSP) for paddy at Rs. 3,500/- per quintal.",
+            "Along with encouraging the formation of Farmer Producer Groups/Companies, necessary financial and other assistance will be provided to strengthen existing companies.",
+            "To purchase inputs like fertilizers and seeds, a production subsidy of up to Rs. 15,000/- per hectare per year will be provided to small and marginal farmers.",
+            "Steps will be taken to waive the agricultural crop loans obtained by farmers through Primary Agricultural Cooperative Credit Societies.",
+            "As per the recommendations of Dr. M.S. Swaminathan, a Minimum Support Price (MSP) will be fixed for all food grain agricultural produce.",
+            "Steps will be taken so that farmers only pay 2% of the premium, and the government will bear the remaining insurance amount.",
+            "Special subsidies will be provided to establish agricultural warehouses as needed by Farmer Producer Groups.",
+            "To protect agricultural produce without damage, large-scale storage warehouses, drying machines, and cold storage facilities will be established in required locations.",
+            "Additional funds will be allocated to the Agricultural University for research activities to pave the way for agricultural development.",
+            "A census of landless agricultural laborers will be conducted, and special steps taken to ensure they receive housing, education, and employment."
           ]
         },
-
         "health": {
-          "source_confidence": "MEDIUM — multispecialty hospital promise confirmed; full health section not detailed in press reports",
-          "source_gap": true,
-          "headline": "Government multispecialty hospital in every district; free treatment",
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "The approximately 2000 Amma Mini Clinics will be reopened with modern medical facilities.",
           "promises": [
-            "Every district to get a government multispecialty hospital equivalent to private hospitals",
-            "Free treatment in these government hospitals",
-            "Continuation and expansion of Chief Minister's Comprehensive Health Insurance Scheme"
+            "The approximately 2000 Amma Mini Clinics will be reopened with modern medical facilities.",
+            "The government will directly pay the entire amount without any cost limit for major treatments in private hospitals for those in the insurance scheme.",
+            "Vacant posts for doctors, dentists, Assistant Professors, and Associate Professors will be filled.",
+            "The services of nurses who have been working for more than 10 years will be made permanent.",
+            "Under the Amma Master Health Checkup scheme, PET scanning facilities will be established to detect cancer.",
+            "Medical camps will be conducted in rural areas to identify people affected by diabetes and blood pressure.",
+            "Free IVF treatment will be provided under the Chief Minister's Comprehensive Health Insurance Scheme.",
+            "Linear Accelerator facilities and cancer treatment centers will be established in all district government hospitals.",
+            "Infrastructure facilities of Primary Health Centers and all government hospitals will be upgraded."
           ]
         },
-
         "law_order": {
-          "source_confidence": "LOW — not detailed in major press coverage of manifesto release",
-          "source_gap": true,
-          "headline": "Details not available in verified press reports of 2021 manifesto",
-          "promises": []
-        },
-
-        "environment": {
-          "source_confidence": "LOW — not detailed in major press coverage of manifesto release",
-          "source_gap": true,
-          "headline": "Details not available in verified press reports of 2021 manifesto",
-          "promises": []
-        },
-
-        "governance": {
-          "source_confidence": "MEDIUM — Lok Ayukta mentioned in citizen matters comparison",
-          "headline": "Lok Ayukta setup; stable governance continuation",
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Police personnel working in the police department will be provided one day of leave per week.",
           "promises": [
-            "Set up Lok Ayukta (after Centre passes Lokpal bill) — cited in citizenmatters.in 2021 manifesto comparison"
+            "Police personnel working in the police department will be provided one day of leave per week.",
+            "Police welfare hospitals will be established in major cities like Madurai, Coimbatore, and Trichy.",
+            "To completely eradicate drugs, an Anti-Drug Task Force will be formed under the direct control of the Chief Minister.",
+            "Medical Help Desks will be established in police quarters with a high number of residences.",
+            "The government will bear the entire cost if police personnel and their family members undergo life-saving surgeries.",
+            "To maintain good relations, a Police-Public Association will be formed under a DSP or Assistant Commissioner.",
+            "The uniform allowance currently provided to police personnel will be increased to Rs. 6,000/-.",
+            "Steps will be taken to increase the currently low number of working days provided to Home Guards.",
+            "The AIADMK will urge the swift establishment of a Supreme Court bench in Chennai."
           ]
         },
-
-        "federal_identity": {
-          "source_confidence": "HIGH — confirmed across multiple outlets",
-          "headline": "Oppose CAA; dual citizenship for Sri Lankan Tamils; rename Madras HC; two-language policy",
+        "environment": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Registered members of the Auto Drivers Association who do not own an auto will be provided a subsidy of Rs. 75,000/- to purchase a new auto.",
           "promises": [
-            "Request Central government to withdraw Citizenship Amendment Act (CAA)",
-            "Dual citizenship for Sri Lankan Tamil refugees",
-            "Rename Madras High Court to Tamil Nadu High Court",
-            "Release of 7 convicts in Rajiv Gandhi assassination case",
-            "Support two-language policy (Tamil and English) in schools"
+            "Registered members of the Auto Drivers Association who do not own an auto will be provided a subsidy of Rs. 75,000/- to purchase a new auto.",
+            "The 'Nadanthai Vaazhi Cauveri Scheme' will be implemented swiftly to prevent sewage from mixing in the river.",
+            "Proper studies will be conducted and steps taken to prevent sewage from mixing in rivers like Vaigai and Thamirabarani.",
+            "Technology using robotic machines to remove sewage waste will be introduced.",
+            "Importance will be given to water recycling and sewage treatment in all municipal corporations.",
+            "In highly populated village panchayats, steps will be taken to recycle garbage waste and properly treat sewage water.",
+            "To prevent human-elephant conflict, the forest department will be provided with adequate new Jeep vehicles and equipment."
+          ]
+        },
+        "governance": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "'Amma Illam Scheme' providing houses for homeless families: Through the 'Amma Illam Scheme,' the government itself will purchase land…",
+          "promises": [
+            "'Amma Illam Scheme' providing houses for homeless families: Through the 'Amma Illam Scheme,' the government itself will purchase land and build free concrete houses for those in rural areas who do not own a house plot or a house. Similarly, for the homeless poor in urban areas, multi-story apartments will be built and provided free of cost through the 'Amma Illam Scheme.' Under this scheme, Scheduled Caste people living in a joint family will be given priority.",
+            "To ensure that the public quickly receives essential documents within specified days, infrastructure like public service centers (E-Seva) will be strengthened.",
+            "The website will be upgraded so that the public can directly know all decisions and track actions taken on their petitions.",
+            "Severe action will be taken against officials and ministers who have engaged in deep-rooted corruption across departments over the past 5 years.",
+            "All pattas previously issued to tribal people living in hilly areas will be computerized, and proper pattas will be issued.",
+            "To find a solution to temple Inam land ownership disputes, a committee will be formed and an appropriate solution found.",
+            "Arrangements will be made to issue pattas to people residing for a long time on unobjectionable government lands provided they pay the amount fixed by the government.",
+            "Whenever the price of copra coconut drops, steps will be taken by the government itself to procure copra.",
+            "World-class government animal shelters will be established in every district to care for destitute animals.",
+            "Traditional folk arts will be documented and encouraged by the government.",
+            "We will urge the Central Government to swiftly conduct a caste-based census.",
+            "A special committee will be formed to implement the Rehabilitation and Resettlement Policy for NLC land providers."
+          ]
+        },
+        "federal_identity": {
+          "source_confidence": "HIGH — direct from manifesto text",
+          "headline": "Standing firm, we will demand that Tamil Nadu receives its financial share without any reduction.",
+          "promises": [
+            "Standing firm, we will demand that Tamil Nadu receives its financial share without any reduction.",
+            "We will continuously insist that Tamil Nadu's current proportional representation is not reduced during the delimitation of constituencies.",
+            "We will urge the Central Government to declare state languages, including Tamil, as official languages of the Central Government.",
+            "Steps will be taken to bring Tamil as the language of proceedings in the Madras High Court.",
+            "We will insist that all examinations, including Central Government competitive exams, be conducted in Tamil.",
+            "Financial assistance will be provided to establish Tamil Chairs in 25 international universities.",
+            "Firm steps will be taken to retrieve Katchatheevu, which was the dream of Puratchi Thalaivi Amma.",
+            "We will urge the Central Government to grant \"Dual Citizenship\" to Sri Lankan Tamil refugees living in India."
           ]
         }
       }
     },
-
     "TVK": {
       "name": "TVK",
       "full_name": "Tamilaga Vettri Kazhagam",
@@ -351,7 +393,6 @@
       "color": "#2E7D32",
       "election_role": "challenger_debut_2026",
       "policies": {
-
         "welfare_freebies": {
           "source_confidence": "HIGH for women-specific; MEDIUM for general welfare signals",
           "headline": "₹2,500/month to women family heads; 6 free LPG cylinders; gold for newborns; housing for all",
@@ -363,7 +404,6 @@
             "[SPEECH SIGNAL — Nov 2025, Kanchipuram] Two-wheeler for every household"
           ]
         },
-
         "education": {
           "source_confidence": "HIGH for school dropout scheme; MEDIUM for NEET and state list positions",
           "headline": "₹15,000/year per student to prevent dropout; oppose NEET; education to State List",
@@ -373,7 +413,6 @@
             "[OFFICIAL PARTY POSITION — Jul 2024] Move Education from Concurrent List back to State List"
           ]
         },
-
         "employment_economy": {
           "source_confidence": "MEDIUM — speech signals only, not yet formal manifesto promise",
           "source_gap": true,
@@ -383,7 +422,6 @@
             "[OFFICIAL PARTY POSITION — Apr 2025] Corruption-free, transparent, accountable government"
           ]
         },
-
         "women": {
           "source_confidence": "HIGH — all confirmed at Mar 7, 2026 official event",
           "headline": "12 confirmed women-specific promises — the only officially released manifesto section so far",
@@ -402,7 +440,6 @@
             "[CONFIRMED] Gold ring + newborn care kit for every girl child born — 'Thaai Maaman' scheme"
           ]
         },
-
         "agriculture_farmers": {
           "source_confidence": "LOW — position statements only, no specific policy figures",
           "source_gap": true,
@@ -412,7 +449,6 @@
             "[CONFERENCE RESOLUTION — Oct 2024] Opposition to policies harming small farmers and fishermen"
           ]
         },
-
         "health": {
           "source_confidence": "MEDIUM — speech signal only",
           "source_gap": true,
@@ -421,7 +457,6 @@
             "[SPEECH SIGNAL — Nov 2025, Kanchipuram] Upgrade government hospitals to be usable without fear"
           ]
         },
-
         "law_order": {
           "source_confidence": "HIGH for safety stance; no specific policing promises announced",
           "headline": "Strict law enforcement; women's safety department; zero tolerance for corruption",
@@ -433,7 +468,6 @@
             "[OFFICIAL PARTY POSITION] Zero tolerance for corruption — describes itself in opposition to DMK's alleged corruption"
           ]
         },
-
         "environment": {
           "source_confidence": "MEDIUM — speech signal only",
           "source_gap": true,
@@ -442,7 +476,6 @@
             "[SPEECH SIGNAL — Nov 2025] Strong flood-mitigation and disaster-resilience systems, especially for Chennai"
           ]
         },
-
         "governance": {
           "source_confidence": "HIGH — official party ideology",
           "headline": "Corruption-free, transparent, accountable — no dynastic politics",
@@ -452,7 +485,6 @@
             "[OFFICIAL PARTY IDEOLOGY] Centre-left, aligned with ideologies of Ambedkar, Periyar, Kamaraj"
           ]
         },
-
         "federal_identity": {
           "source_confidence": "HIGH — official party ideology and conference resolutions",
           "headline": "Pro-Tamil; two-language policy; oppose CAA and Hindi push in NEP; secular social justice",
@@ -466,7 +498,6 @@
         }
       }
     },
-
     "BJP": {
       "name": "BJP",
       "full_name": "Bharatiya Janata Party (Tamil Nadu)",
@@ -480,7 +511,6 @@
       "election_role": "minor_ally_of_aiadmk_2021",
       "note_2026": "BJP-AIADMK alliance confirmed for 2026 Tamil Nadu elections (confirmed by multiple sources including India.com reporting Amit Shah announcement)",
       "policies": {
-
         "welfare_freebies": {
           "source_confidence": "HIGH — TNM article lists specific promises",
           "headline": "Free driving licences for young women; free tablets; door-delivery of ration",
@@ -492,7 +522,6 @@
             "₹6,000 annual support for fishermen and farmers"
           ]
         },
-
         "education": {
           "source_confidence": "HIGH — TNM article",
           "headline": "NEET/JEE coaching in every district; online skill university; tablets for students",
@@ -503,7 +532,6 @@
             "Siddha medicine university to be established in Palani"
           ]
         },
-
         "employment_economy": {
           "source_confidence": "HIGH — TNM article",
           "headline": "50 lakh new jobs in 5 years",
@@ -512,7 +540,6 @@
             "12 lakh acres of Panchami lands retrieved and distributed to Scheduled Castes"
           ]
         },
-
         "women": {
           "source_confidence": "HIGH — TNM article",
           "headline": "Free driving licences for women aged 18-23",
@@ -520,7 +547,6 @@
             "Free two-wheeler driving licence for women aged 18-23"
           ]
         },
-
         "agriculture_farmers": {
           "source_confidence": "HIGH — TNM article",
           "headline": "₹6,000 annual support; separate agricultural budget; 5-year sand mining ban",
@@ -530,7 +556,6 @@
             "River sand mining banned for 5 years to improve groundwater; river sand import allowed during this period"
           ]
         },
-
         "health": {
           "source_confidence": "HIGH — TNM article",
           "headline": "Multispecialty hospital in every district with free treatment",
@@ -539,7 +564,6 @@
             "Free treatment in these hospitals"
           ]
         },
-
         "law_order": {
           "source_confidence": "HIGH — TNM article",
           "headline": "Law against forced religious conversions",
@@ -548,7 +572,6 @@
             "Hindu temple administration handed to a Board with religious leaders"
           ]
         },
-
         "environment": {
           "source_confidence": "HIGH — TNM article",
           "headline": "5-year river sand mining ban to restore groundwater and river flow",
@@ -556,7 +579,6 @@
             "River sand mining banned for 5 years; river sand import permitted during this period"
           ]
         },
-
         "governance": {
           "source_confidence": "HIGH — TNM article",
           "headline": "Legislative council; Greater Chennai trifurcated; Circuit Bench in Coimbatore",
@@ -570,7 +592,6 @@
             "Thirukkural Mamalai Park to be established in Erode district"
           ]
         },
-
         "federal_identity": {
           "source_confidence": "MEDIUM — inferred from BJP's national positions; not explicitly detailed in TN-specific press reports",
           "source_gap": true,
@@ -581,7 +602,6 @@
         }
       }
     },
-
     "INC": {
       "name": "INC",
       "full_name": "Indian National Congress (Tamil Nadu)",
@@ -682,7 +702,6 @@
         }
       }
     },
-
     "NTK": {
       "name": "NTK",
       "full_name": "Naam Tamilar Katchi",
@@ -791,6 +810,5 @@
         }
       }
     }
-
   }
 }

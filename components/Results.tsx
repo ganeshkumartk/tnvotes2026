@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
+import Link from "next/link";
 import { PARTIES, type PartyId } from "@/lib/data";
 import { PartyFlagImage } from "./PartyDot";
 import * as htmlToImage from "html-to-image";
@@ -290,19 +291,27 @@ export function Results({ sortedResults, totalQuestions, onReset, lang, expected
               </div>
             </div>
 
-            <div className="font-mono text-[9px] uppercase tracking-widest text-text-primary/40 leading-relaxed max-w-md md:ml-auto">
-              {isTa ? (
-                <>
-                  இந்த குடிமக்கள் விழிப்புணர்வு கருவி எந்த கட்சிக்கும் ஆதரவானது அல்ல. <br/>
-                  தரவுகள் அதிகாரப்பூர்வ தேர்தல் அறிக்கைகளிலிருந்து பெறப்பட்டவை. <br/>
-                </>
-              ) : (
-                <>
-                  This civic awareness tool does not endorse any party. <br/>
-                  Data is drawn directly from official manifestos and party statements. <br/>
-                  Partial data indicates 2026 preliminary announcements.
-                </>
-              )}
+            <div className="flex flex-col gap-4 md:ml-auto max-w-md">
+              <Link
+                href="/manifesto"
+                className="font-mono text-xs uppercase tracking-widest px-6 py-3 border-2 border-text-primary hover:bg-text-primary hover:text-bg transition-colors duration-300 text-center"
+              >
+                {isTa ? "தேர்தல் அறிக்கைகளை படிக்கவும் →" : "Read Full Manifestos →"}
+              </Link>
+              <div className="font-mono text-[9px] uppercase tracking-widest text-text-primary/40 leading-relaxed">
+                {isTa ? (
+                  <>
+                    இந்த குடிமக்கள் விழிப்புணர்வு கருவி எந்த கட்சிக்கும் ஆதரவானது அல்ல. <br/>
+                    தரவுகள் அதிகாரப்பூர்வ தேர்தல் அறிக்கைகளிலிருந்து பெறப்பட்டவை. <br/>
+                  </>
+                ) : (
+                  <>
+                    This civic awareness tool does not endorse any party. <br/>
+                    Data is drawn directly from official manifestos and party statements. <br/>
+                    Partial data indicates 2026 preliminary announcements.
+                  </>
+                )}
+              </div>
             </div>
           </div>
 

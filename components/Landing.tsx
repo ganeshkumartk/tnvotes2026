@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import Link from "next/link";
 import { PARTIES, type PartyId } from "@/lib/data";
 import { ChennaiCollage, ChennaiIcon, LocalPhrase } from "./ChennaiMotifs";
 
@@ -57,7 +58,7 @@ export function Landing({ onNext, lang, onLangToggle, expectedParty, setExpected
           <div className="lg:col-span-8">
             <h1 className="text-text-primary mb-6 uppercase w-full">
               {isTa ? (
-                <span className="font-sans text-[clamp(2rem,5vw,4.5rem)] font-light leading-[1.2] tracking-normal block break-words">
+                <span className="font-sans text-[clamp(2rem,5vw,4.5rem)] font-light leading-[1.2] tracking-normal block wrap-break-word">
                   கொள்கைக்கு <br />
                   <span className="font-semibold text-[clamp(2.5rem,5.5vw,5rem)] leading-tight">வாக்களிப்போம்.</span> <br />
                   <span className="text-text-primary/30">கொடிக்கு</span> <br />
@@ -133,9 +134,12 @@ export function Landing({ onNext, lang, onLangToggle, expectedParty, setExpected
       </main>
 
       {/* Footer — Namma Local */}
-      <footer className="p-6 border-t-2 border-text-primary flex justify-between items-center font-mono text-[10px] uppercase tracking-widest text-text-primary/70">
+      <footer className="p-6 border-t-2 border-text-primary flex flex-wrap justify-between items-center gap-3 font-mono text-[10px] uppercase tracking-widest text-text-primary/70">
         <div className="flex flex-col sm:flex-row gap-2 sm:gap-6">
           <span>{isTa ? "© 2026 - நம்ம வாக்கு · குடிமக்கள் விழிப்புணர்வு" : "© 2026 - Namma Vote · Civic Awareness Tool"}</span>
+          <Link href="/manifesto" className="hover:text-text-primary transition-colors underline underline-offset-4">
+            {isTa ? "தேர்தல் அறிக்கைகள்" : "Manifesto Explorer"}
+          </Link>
           <a href="/legal" className="hover:text-text-primary transition-colors underline underline-offset-4">
             {isTa ? "சட்டக் கொள்கைகள்" : "Legal & Policies"}
           </a>

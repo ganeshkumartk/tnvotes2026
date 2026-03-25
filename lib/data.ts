@@ -59,8 +59,8 @@ export const PARTIES: Record<PartyId, Party> = {
     gradient: "linear-gradient(135deg, #111111 0%, #BB1A1A 50%, #d0d0d0 100%)",
     flagDesc: "Black → Red → White tricolour with two-leaves symbol in green.",
     flagUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AIADMK_Flag.svg/250px-AIADMK_Flag.svg.png",
-    dataYear: 2021,
-    dataNote: "164-promise manifesto — sourced from TNM, Business Standard, Scroll, India.com (March 2021).",
+    dataYear: 2026,
+    dataNote: "297-promise 2026 manifesto — section-wise promises imported from public/admk_manifesto_2026.json.",
   },
   TVK: {
     id: "TVK",
@@ -138,8 +138,8 @@ export const CATEGORIES: Category[] = [
       },
       {
         partyId: "AIADMK",
-        text: "Free home for every homeless family under Amma Housing Scheme. ₹1,500/month to the female head of each household ('Kulavilakku Thittam'). 6 free LPG cylinders/year. Free Amma washing machine for rice-card holders.",
-        textTa: "அம்மா வீட்டுவசதி திட்டத்தின் கீழ் வீடற்ற அனைத்து குடும்பங்களுக்கும் இலவச வீடு. குடும்பத் தலைவிகளுக்கு மாதம் ₹1,500 ('குலவிளக்கு திட்டம்'). ஆண்டுக்கு 6 இலவச சமையல் எரிவாயு சிலிண்டர்கள். அரிசி அட்டைதாரர்களுக்கு இலவச அம்மா வாஷிங் மெஷின்."
+        text: "Special assistance of Rs. 10,000/- to every family to manage the tax burden and price rise. 'Amma Illam Scheme' providing houses for homeless families: Through the 'Amma Illam Scheme,' the government itself will purchase land and build free concrete houses for those in rural areas who do not own a house plot or a house. Similarly, for the homeless poor in urban areas, multi-story apartments will be built and provided free of cost through the 'Amma Illam Scheme.' Under this scheme, Scheduled Caste people living in a joint family will be given priority. 'Kula Vilakku Scheme' to protect women's welfare: To create economic equality in society, a monthly assistance of Rs. 2,000/- will be provided to all family cardholders through the Kula Vilakku Scheme. This amount will be deposited directly into the bank account of the female head of the family. Pensions for the elderly and others increased to Rs. 2,000/-: The monthly social security pension provided to the elderly, widows, destitute unmarried women, deserted women, differently-abled persons, and transgender persons under the social pension scheme will be increased from Rs. 1,200/- to Rs. 2,000/-. 3 free gas cylinders per year as livelihood assistance: As livelihood assistance, 3 free gas cylinders will be provided annually to the family of Rice Cardholders.",
+        textTa: "வரிச் சுமை மற்றும் விலைவாசி ஏற்றத்தை சமாளிக்க, ஒவ்வொரு குடும்பத்திற்கும் ரூ. 10,000/- சிறப்பு உதவித் தொகை வழங்கப்படும். வீடு இல்லாத குடும்பங்களுக்கு வீடு வழங்கும் 'அம்மா இல்லம் திட்டம்': 'அம்மா இல்லம் திட்டம்' மூலம், கிராமப் புறங்களில் குடியிருப்பதற்கு வீட்டு மனையும், சொந்த வீடும் இல்லாதவர்களுக்கு, அரசே இடம் வாங்கி கான்கிரீட் வீடுகள் கட்டித் தரப்படும். அதேபோல், நகரப் பகுதிகளில் சொந்த வீடு இல்லாத ஏழைகளுக்கு, 'அம்மா இல்லம் திட்டம்' மூலம் அடுக்குமாடி வீடுகள் கட்டி விலையில்லாமல் வழங்கப்படும். மகளிர் நலன் காக்க 'குல விளக்கு திட்டம்': சமூகத்தில் பொருளாதார சமநிலையை உருவாக்கிட, திட்டத்தின் மூலம் அனைத்து குடும்ப அட்டைதாரர்களுக்கும், ஒவ்வொரு மாதமும் உதவித் தொகையாக ரூ. 2,000/- வழங்கப்படும். இத்தொகை குடும்பத் தலைவியின் வங்கிக் கணக்கில் செலுத்தப்படும். முதியோர் உள்ளிட்டவர்களுக்கான ஓய்வூதியங்கள் ரூ. 2,000/-மாக உயர்வு: சமூக ஓய்வூதியத் திட்டத்தின் கீழ் முதியோர், விதவைப் பெண்கள், முதிர் கன்னிகள், கணவனால் கைவிடப்பட்ட பெண்கள், மாற்றுத் திறனாளிகள் மற்றும் மூன்றாம் பாலினத்தவர்களுக்கு வழங்கப்பட்டு வரும் சமூகப் பாதுகாப்பு மாதாந்திர ஓய்வூதியம் ரூ. 1,200/-ல் இருந்து ரூ. 2,000/-ஆக உயர்த்தி வழங்கப்படும். வாழ்வாதார உதவியாக, ஆண்டுக்கு 3 கேஸ் சிலிண்டர்கள் வழங்கப்படும்: அரிசி குடும்ப அட்டைதாரர்களுக்கு வாழ்வாதார உதவியாக, ஆண்டுக்கு 3 கேஸ் சிலிண்டர்கள் விலையில்லாமல் வழங்கப்படும்.",
       },
       {
         partyId: "TVK",
@@ -174,8 +174,8 @@ export const CATEGORIES: Category[] = [
       },
       {
         partyId: "AIADMK",
-        text: "Education loan waiver. Free 2GB mobile data/year for college students. Extend mid-day meals to Class 9 and above. Coaching institutes for competitive exams. Separate skill development university.",
-        textTa: "கல்விக் கடன் தள்ளுபடி. கல்லூரி மாணவர்களுக்கு ஆண்டுக்கு இலவச 2GB மொபைல் டேட்டா. 9ஆம் வகுப்பு மற்றும் அதற்கு மேல் சத்துணவு திட்டம் விரிவுபடுத்தப்படும். தனி திறன் மேம்பாட்டுப் பல்கலைக்கழகம்."
+        text: "Waiver of education loans obtained from banks: To protect the welfare of students and parents, the government will take over and waive the education loans of those who borrowed from banks but are unable to pay their EMIs due to unemployment. Free laptops will be provided at the appropriate time to students studying in government and aided colleges. Special steps will be taken to improve mathematical and language skills; 'STEM learning' centers will be established. The medical admission reservation for government school students will be increased from 7.5 percent to 10 percent.",
+        textTa: "வங்கிகளில் பெற்ற கல்விக் கடன் தள்ளுபடி: மாணவர்கள், பெற்றோர்கள் நலன் காக்கும் பொருட்டு, வங்கிகளில் கல்விக் கடன் பெற்று, வேலைவாய்ப்பு கிடைக்காமல், கடன் தவணையை செலுத்த முடியாமல் உள்ளவர்களின் கல்விக் கடனை தள்ளுபடி செய்யும் வகையில், அத்தொகையை அரசே ஏற்கும். அரசு மற்றும் உதவி பெறும் கல்லூரி மாணவர்களுக்கு உரிய காலத்தில் விலையில்லா மடிக் கணினி வழங்கப்படும். உயர்நிலை மற்றும் மேல்நிலை வகுப்புகளில் அறிவியல் ஆர்வத்தைத் தூண்டும் வகையில் 'STEM learning' மையங்கள் ஏற்படுத்தப்படும். அரசு பள்ளி மாணவர்களுக்கான மருத்துவப் படிப்பு இடஒதுக்கீடு 7.5 சதவீதத்தில் இருந்து 10 சதவீதமாக உயர்த்தி வழங்கப்படும்."
       },
       {
         partyId: "TVK",
@@ -211,8 +211,8 @@ export const CATEGORIES: Category[] = [
       },
       {
         partyId: "AIADMK",
-        text: "₹1,500/month to female head of every family. Maternity leave extended to 1 year. 50% bus fare concession in city buses. Free 6 LPG cylinders. 'Amma bank cards' for women.",
-        textTa: "குடும்பத் தலைவிகளுக்கு மாதம் ₹1,500. மகப்பேறு விடுப்பு 1 ஆண்டாக நீட்டிப்பு. நகரப் பேருந்துகளில் 50% கட்டணச் சலுகை. 6 இலவச சமையல் எரிவாயு சிலிண்டர்கள். மகளிருக்கு 'அம்மா வங்கி அட்டைகள்'."
+        text: "'Kula Vilakku Scheme' to protect women's welfare: To create economic equality in society, a monthly assistance of Rs. 2,000/- will be provided to all family cardholders through the Kula Vilakku Scheme. This amount will be deposited directly into the bank account of the female head of the family. Subsidy scheme for purchasing Amma Two-Wheelers: Amma two-wheelers will be provided to 5 lakh working women with a subsidy of Rs. 25,000/-. The Dr. Muthulakshmi Reddy Maternity Benefit amount will be increased. Steps will be taken to continue the Thalikku Thangam and Marriage Assistance Scheme, including free silk dhotis and sarees. Free bus travel scheme for men, similar to women: A free bus travel scheme will be implemented for men traveling in city buses. Furthermore, the existing free bus travel scheme for women in city buses will continue to be implemented.",
+        textTa: "மகளிர் நலன் காக்க 'குல விளக்கு திட்டம்': சமூகத்தில் பொருளாதார சமநிலையை உருவாக்கிட, திட்டத்தின் மூலம் அனைத்து குடும்ப அட்டைதாரர்களுக்கும், ஒவ்வொரு மாதமும் உதவித் தொகையாக ரூ. 2,000/- வழங்கப்படும். இத்தொகை குடும்பத் தலைவியின் வங்கிக் கணக்கில் செலுத்தப்படும். அம்மா இருசக்கர வாகனம் வாங்க மானியம் வழங்கும் திட்டம்: வேலைக்குச் செல்லும் மகளிருக்கு ரூ. 25,000/- மானியத்துடன், 5 லட்சம் மகளிருக்கு அம்மா இருசக்கர வாகனங்கள் வழங்கப்படும். டாக்டர் முத்துலட்சுமி ரெட்டி மகப்பேறு உதவித் தொகை உயர்த்தி வழங்கப்படும். தாலிக்குத் தங்கம் மற்றும் திருமண உதவித் திட்டத்துடன் விலையில்லா பட்டுவேட்டி, சேலைகள் வழங்கப்படும். மகளிரைப் போல, ஆண்களுக்கும் கட்டணமில்லா பேருந்து பயணத் திட்டம்: நகரப் பேருந்துகளில் பயணம் செய்யும் ஆண்களுக்கு கட்டணமில்லா பேருந்து பயணத் திட்டம் செயல்படுத்தப்படும். ஏற்கெனவே நடைமுறையில் இருக்கும், நகரப் பேருந்துகளில் பயணம் செய்யும் மகளிருக்கான கட்டணமில்லா பேருந்து பயணத் திட்டம் தொடர்ந்து செயல்படுத்தப்படும்."
       },
       {
         partyId: "TVK",
@@ -242,8 +242,8 @@ export const CATEGORIES: Category[] = [
       },
       {
         partyId: "AIADMK",
-        text: "One guaranteed government job per family that currently has no government employee. Continuation of stable employment creation under proven governance track record.",
-        textTa: "அரசு ஊழியர்கள் இல்லாத ஒவ்வொரு குடும்பத்திற்கும் ஒரு அரசு வேலை உறுதி. நிரூபிக்கப்பட்ட நல்லாட்சியின் கீழ் நிலையான வேலைவாய்ப்பு உருவாக்கம் தொடரும்."
+        text: "100 days employment scheme will be increased to 150 days: The Central Government has announced that the 100 days employment scheme will be increased to 125 days. Steps will be taken to implement this rural development scheme to provide up to 150 days of employment. Youth who completed 10th and 12th will be provided skill training and business loans up to Rs. 25 lakh without collateral. Lakhs of vacancies in government offices will be filled through TNPSC, creating employment for youth. A separate university for Skill Development will be created for educated youth with online training.",
+        textTa: "100 நாட்கள் வேலைவாய்ப்புத் திட்டம் 150 நாட்களாக உயர்த்தப்படும்: 100 நாட்கள் வேலைவாய்ப்புத் திட்டம் 125 நாட்களாக உயர்த்தப்படும் என்று மத்திய அரசு அறிவித்துள்ளது. கிராமப்புறங்களின் வளர்ச்சிக்கான இத்திட்டம், 150 நாட்கள் வரை வேலைவாய்ப்பு பெறும் வகையில் செயல்முறைபடுத்த நடவடிக்கை எடுக்கப்படும். 10 மற்றும் 12-ஆம் வகுப்பு முடித்த இளைஞர்களுக்கு பிணையில்லாமல் ரூ. 25 லட்சம் வரை தொழில் கடன் வழங்கப்படும். அரசு அலுவலகங்களில் உள்ள லட்சக்கணக்கான காலிப் பணியிடங்கள் TNPSC மூலம் நிரப்பப்படும். படித்த இளைஞர்களின் திறன் வளர்ப்புக்கென தனி பல்கலைக்கழகம் உருவாக்கப்படும்."
       },
       {
         partyId: "BJP",
@@ -267,8 +267,8 @@ export const CATEGORIES: Category[] = [
       },
       {
         partyId: "AIADMK",
-        text: "Government multispecialty hospital in every single district with free treatment equivalent to private hospitals. Chief Minister's Comprehensive Health Insurance Scheme expanded.",
-        textTa: "தனியார் மருத்துவமனைகளுக்கு இணையான இலவச சிகிச்சையுடன் ஒவ்வொரு மாவட்டத்திலும் அரசு பல்நோக்கு மருத்துவமனை. முதலமைச்சரின் விரிவான மருத்துவக் காப்பீட்டுத் திட்டம் விரிவுபடுத்தப்படும்."
+        text: "The approximately 2000 Amma Mini Clinics will be reopened with modern medical facilities. Free IVF treatment will be provided under the Chief Minister's Comprehensive Health Insurance Scheme. Linear Accelerator facilities and cancer treatment centers will be established in all district government hospitals. The government will directly pay the entire amount without any cost limit for major treatments in private hospitals for those in the insurance scheme.",
+        textTa: "சுமார் 2000 அம்மா மினி கிளினிக்குகள் நவீன மருத்துவ வசதிகளுடன் மீண்டும் துவக்கப்படும். ஏழை தம்பதிகளுக்கு மருத்துவக் காப்பீட்டுத் திட்டத்தின்கீழ் கட்டணமில்லா IVF சிகிச்சை வழங்கப்படும். புற்றுநோய் சிகிச்சைக்கான வசதிகள் அனைத்து மாவட்ட அரசு மருத்துவமனைகளிலும் ஏற்படுத்தப்படும். அரசு காப்பீடுத் திட்ட ஏழைகள் தனியார் மருத்துவமனைகளில் பெரிய சிகிச்சைகளை மேற்கொள்ளும்போது முழு தொகையையும் அரசே செலுத்தும்."
       },
       {
         partyId: "BJP",
@@ -323,8 +323,8 @@ export const CATEGORIES: Category[] = [
       },
       {
         partyId: "AIADMK",
-        text: "Stable, experienced governance backed by proven track record. Lok Ayukta to be set up after Centre passes Lokpal bill. Continuation of functioning administration.",
-        textTa: "நிரூபிக்கப்பட்ட சாதனைகளின் ஆதரவுடன் நிலையான, அனுபவமிக்க ஆட்சி. மத்திய அரசு லோக்பால் மசோதாவை நிறைவேற்றிய பிறகு லோக் ஆயுக்தா அமைக்கப்படும். சிறப்பான நிர்வாகம் தொடரும்."
+        text: "To ensure that the public quickly receives essential documents within specified days, infrastructure like public service centers (E-Seva) will be strengthened. The website will be upgraded so that the public can directly know all decisions and track actions taken on their petitions. Severe action will be taken against officials and ministers who have engaged in deep-rooted corruption across departments over the past 5 years. All pattas previously issued to tribal people living in hilly areas will be computerized, and proper pattas will be issued.",
+        textTa: "ஜாதிச் சான்றிதழ் உள்ளிட்ட அரசு பலன்களை குறிப்பிட்ட நாட்களுக்குள் பெறுவதை உறுதி செய்ய பொது சேவை மையம் கட்டமைப்புகள் வலுப்படுத்தப்படும். பொதுமக்கள் மனுக்களின் நிலையை நேரடியாக அறிந்துகொள்ள ஏதுவாக இணையதளம் மேம்படுத்தப்படும். கடந்த 5 ஆண்டுகளில் ஊழல் செய்த அலுவலர்கள் மற்றும் அமைச்சர்கள் மீது கடுமையான நடவடிக்கை எடுக்கப்படும். மலைவாழ் மக்களுக்கு வழங்கப்பட்ட பட்டாக்கள் கணினிமயமாக்கப்பட்டு முறையாக வழங்கப்படும்."
       },
       {
         partyId: "TVK",
@@ -354,8 +354,8 @@ export const CATEGORIES: Category[] = [
       },
       {
         partyId: "AIADMK",
-        text: "Two-language policy (Tamil + English). Oppose CAA and NRC. Rename Madras High Court to Tamil Nadu High Court. Dual citizenship for Sri Lankan Tamil refugees. Release 7 Rajiv Gandhi case convicts.",
-        textTa: "இருமொழிக் கொள்கை (தமிழ் + ஆங்கிலம்). CAA மற்றும் NRC சட்டங்களுக்கு எதிர்ப்பு. சென்னை உயர் நீதிமன்றத்தின் பெயரை தமிழ்நாடு உயர் நீதிமன்றம் என மாற்றுதல். இலங்கைத் தமிழ் அகதிகளுக்கு இரட்டை குடியுரிமை."
+        text: "We will urge the Central Government to declare state languages, including Tamil, as official languages of the Central Government. Steps will be taken to bring Tamil as the language of proceedings in the Madras High Court. We will insist that all examinations, including Central Government competitive exams, be conducted in Tamil. Financial assistance will be provided to establish Tamil Chairs in 25 international universities. We will urge the Central Government to grant \"Dual Citizenship\" to Sri Lankan Tamil refugees living in India. Firm steps will be taken to retrieve Katchatheevu, which was the dream of Puratchi Thalaivi Amma.",
+        textTa: "தமிழ் மொழி உட்பட அனைத்தையும் மத்திய அரசின் ஆட்சி மொழிகளாக அறிவிக்க வலியுறுத்துவோம். சென்னை உயர்நீதி மன்றத்தின் வழக்காடு மொழியாக தமிழை கொண்டு வர நடவடிக்கை மேற்கொள்ளப்படும். மத்திய அரசு போட்டித் தேர்வுகள் உள்ளிட்ட அனைத்து தேர்வுகளும் தமிழில் நடத்த வலியுறுத்தப்படும். 25 சர்வதேச பல்கலைக்கழகங்களில் தமிழ் இருக்கைகள் அமைக்க நடவடிக்கை மேற்கொள்ளப்படும். இலங்கைத் தமிழ் அகதிகளுக்கு “இரட்டைக் குடியுரிமை” வழங்கிட மத்திய அரசை வலியுறுத்துவோம். கச்சத் தீவை மீட்டெடுக்க உறுதியான நடவடிக்கை எடுக்கப்படும்."
       },
       {
         partyId: "TVK",
