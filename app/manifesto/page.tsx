@@ -346,17 +346,18 @@ function AiadmkView({
                       #{p.id}
                     </span>
                     <div className="flex-1 min-w-0">
-                      {lang === "ta" ? (
-                        <>
-                          <p className="text-sm leading-relaxed tracking-normal text-text-primary">
-                            {p.tamil}
-                          </p>
-                          <p className="text-xs text-text-muted mt-2 leading-relaxed">
-                            {p.english}
-                          </p>
-                        </>
-                      ) : (
-                        <p className="text-sm leading-relaxed text-text-primary">
+                      {/* Manifesto items: always show Tamil when available (toggle affects headings only). */}
+                      {p.tamil && (
+                        <p className="text-sm leading-relaxed tracking-normal text-text-primary">
+                          {p.tamil}
+                        </p>
+                      )}
+                      {p.english && (
+                        <p
+                          className={`text-xs text-text-muted mt-2 leading-relaxed ${
+                            p.tamil ? "" : "mt-0"
+                          }`}
+                        >
                           {p.english}
                         </p>
                       )}
